@@ -1,0 +1,59 @@
+/* Flexbox styling for the body to center content */
+body {
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+    align-items: center;    /* Center horizontally */
+    min-height: 100vh;      /* Full viewport height */
+    margin: 0;              /* Remove default margin */
+    background-color: #f0f0f0; /* Optional background color */
+}
+
+.dataFilter {
+    display: flex;
+    justify-content: space-around;
+    align-items: center; /* Center elements vertically */
+    position: sticky;
+    top: 0; /* Ensure the filter sticks at the top */
+    background-color: aliceblue;
+    width: 100%;
+    z-index: 1000; /* Keeps the sticky element on top of other content */
+    padding: 0 20px; /* Add padding for better spacing */
+    box-sizing: border-box; /* Ensure padding is included in width */
+}
+
+.dataFilter .centered {
+    display: flex;
+    justify-content: center;
+    padding-right: 20px;
+} 
+
+/* .dailyChart, .weeklyChart {
+    display: flex;
+    align-items: center; 
+    text-align: center; 
+    background-color: #fff; 
+    padding: 20px; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    margin-top: 20px; 
+    max-width: none;
+}
+
+.dailyChart {
+    width: 80%;
+}
+
+.weeklyChart {
+    width: 80%;
+}
+#btnRefresh {
+    height: auto;
+
+} */
+
+details {
+    color:rgba(128, 128, 128);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 10;
+}

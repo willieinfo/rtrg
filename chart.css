@@ -1,0 +1,84 @@
+/* Flexbox styling for the body to center content */
+body {
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+    align-items: center;    /* Center horizontally */
+    min-height: 100vh;      /* Full viewport height */
+    margin: 0;              /* Remove default margin */
+    background-color: #f0f0f0; /* Optional background color */
+}
+
+.dataFilter {
+    display: flex;
+    justify-content: space-around;
+    align-items: center; /* Center elements vertically */
+    position: sticky;
+    margin-top: 0;
+    padding-top: 0;
+    top: 0; /* Ensure the filter sticks at the top */
+    width: 100%;
+    z-index: 1000; /* Keeps the sticky element on top of other content */
+    box-sizing: border-box; /* Ensure padding is included in width */
+    background-color: rgba(128, 128, 128);
+}
+
+.dataFilter .centered {
+    display: flex;
+    justify-items: center;
+} 
+
+#btnRefresh {
+    border: none;
+    display: flex;          /* Use Flexbox layout */
+    align-items: center;    /* Center items vertically */
+    padding: 10px;          /* Add some padding for better appearance */
+    font-size: 16px;        /* Adjust font size as needed */
+    cursor: pointer;        /* Change cursor to pointer on hover */
+    background-color: rgb(53,154,255);
+    color: white;
+    transition: background-color 0.3s, color 0.3s, border 0.3s; /* Smooth transition for hover effects */
+}
+
+#btnRefresh:hover {
+    color: #f1f1f1;
+    background-color: rgb(128,128,128) ;
+    border: 2px solid #f1f1f1;     /* Border on hover */    
+}
+
+
+/* .material-icons {
+    margin-right: 8px;      
+} */
+
+
+details {
+    color:rgba(128, 128, 128);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 10;
+}
+
+/* .dailyChart, .weeklyChart {
+    display: flex;
+    align-items: center; 
+    text-align: center; 
+    background-color: #fff; 
+    padding: 20px; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    margin-top: 20px; 
+    max-width: none;
+}
+
+.dailyChart {
+    width: 80%;
+}
+
+.weeklyChart {
+    width: 80%;
+}
+#btnRefresh {
+    height: auto;
+
+} */
+

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mixed Chart Example</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+<canvas id="myChart" width="400" height="200"></canvas>
+<script>
+const ctx = document.getElementById('myChart').getContext('2d');
+
+// Example data
+const labels = ['2024-08-31', '2024-09-01', '2024-09-02', '2024-09-03'];
+const data = [10, 20, 15, 25];
+
+const backgroundColors = labels.map(dateStr => {
+    const date = new Date(dateStr);
+    return date.getDay() === 0 ? 'rgba(255,0,0,0.2)' : 'rgba(0,0,255,0.2)';
+});
+console.log(backgroundColors)
+
+const myChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+        labels: labels,
+        datasets: [{
+            label: 'My Dataset',
+            data: data,
+            backgroundColor: backgroundColors,
+            borderColor: 'rgba(0,0,0,0.1)',
+            borderWidth: 1
+        }]
+    },
+    options: {
+        responsive: true,
+        plugins: {
+            legend: {
+                display: true
+            },
+            tooltip: {
+                callbacks: {
+                    label: function(context) {
+                        return context.dataset.label + ': ' + context.raw;
+                    }
+                }
+            }
+        }
+    }
+});
+</script>
+</body>
+</html>

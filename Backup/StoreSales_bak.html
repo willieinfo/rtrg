@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RTRG Weekly Reports</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="chart.css">
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Tahoma;
+        }
+
+        .sidenav {
+            height: 100%;
+            width: 0;
+            position: fixed;
+            top: 0;
+            left: 0;
+            background-color: #111;
+            overflow-x: hidden;
+            transition: 0.5s;
+            padding-top: 60px;
+            z-index: 2000;
+        }
+
+        .sidenav a {
+            padding: 8px 8px 8px 32px;
+            text-decoration: none;
+            font-size: 20px;
+            color:white;
+            display: block;
+            transition: 0.3s;
+        }
+
+        .sidenav a:hover {
+            color: #f1f1f1;
+            background-color: rgb(128,128,128) ;
+        }
+
+        #main {
+            transition: margin-left .5s;
+            padding: 16px;
+            margin-left: 0;
+            width: 80%;
+        }
+
+        .openbtn {
+            font-size: 20px;
+            cursor: pointer;
+            background-color: #111;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 5px;
+            margin: 10px;
+        }
+
+        .openbtn.open {
+            background-color: #444; /* Color when the sidebar is open */
+        }
+
+        .chart-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+            padding: 20px;
+            box-sizing: border-box; /* Ensure padding is included in width calculation */
+            margin-bottom: 30px; /* Space below each chart container */
+            margin-top: 30px; /* Space below each chart container */
+            background-color: white;
+
+        }
+
+
+        .barChartContainer {
+            display: flex; /* Use flexbox to align children side by side */
+            flex-direction: row; /* Align children horizontally */
+            justify-content: space-between; /* Distribute space between children */
+            align-items: flex-start; /* Align children to the top */
+            width: 100%; /* Make sure container takes full width */
+            gap: 20px; /* Add gap between the charts */
+            box-sizing: border-box; /* Include padding and border in width calculation */
+            padding: 20px; /* Optional: Add padding around the container */
+            height: 700px;
+        }
+
+        .barChart1 {
+            flex: 1; /* Allow charts to grow equally */
+            max-width: 48%; /* Limit width to prevent overflow */
+            box-sizing: border-box; /* Include padding and border in width calculation */
+            height: 100%;
+        }
+
+        @media (max-width: 768px) {
+            .chart-container {
+                max-width: 100%; 
+                padding: 10px; 
+            }
+            select {
+                width: 150px;
+                font-size: 18;
+            }
+        }
+
+    </style>
+    
+</head>
+<body>
+    <div id="mySidenav" class="sidenav">
+        <a href="#weeklyChart" onclick="toggleNav()">Weekly</a>
+        <a href="#dailyChart" onclick="toggleNav()">Daily</a>
+        <a href="#brandChart" onclick="toggleNav()">Brand</a>
+        <hr>
+        <a href="pdfReports.html" onclick="toggleNav()">PDF Reports</a>
+        <!-- <a class="w3-bar-item w3-button" href="pdfReports.html" onclick="toggleNav()">PDF Reports</a> -->
+    </div>
+
+    <div id="main">
+        <div class="dataFilter">
+            <button class="openbtn" onclick="toggleNav()">☰</button>
+            <div class="centered">
+                <select id="storeGroup" name="StorGrup" style="margin-right: 10px;"></select>
+                <select id="storeNames" name="StorName" style="margin-right: 10px;"></select>
+                <button 
+                    id='btnRefresh' 
+                    class="w3-btn w3-white w3-border"
+                    >Refresh Charts</button>
+            </div>
+        </div>
+        <div id="weeklyChart" class="chart-container weeklyChart">
+            <canvas id="myChart2"></canvas>
+            <details>
+                <summary>Last 6 weeks</summary>
+                <ul>
+                    <li>
+                        Tracks weekly sales performance over the last 6 weeks, illustrating trends of 3 different years using the same period.
+                    </li>
+                    <li>
+                        Visualizes fluctuations in weekly sales, providing insight into patterns and performance 
+                        consistency.
+                    </li>
+                </ul>
+            </details>
+        </div>
+        
+        <div id="dailyChart" class="chart-container dailyChart">
+            <canvas id="myChart1"></canvas>
+            <details>
+                <summary>Last 31 days</summary>
+                <ul>
+                    <li>
+                        Displays daily sales performance for the past 31 days, emphasizing sales trends on Sundays.
+                    </li>
+                    <li>
+                        Highlights daily sales with a focus on Sunday or weekend performance, showing fluctuations and peak 
+                        periods.
+                    </li>
+                </ul>
+            </details>
+        </div>
+        
+        <div id="brandChart" class="chart-container brandChart">
+            <h5>Top 30 Brands</h5>
+            <div class="barChartContainer">
+                <div class='barChart1'>
+                    <canvas id="myChart3"></canvas>
+                </div>
+                <div class='barChart1'>
+                    <canvas id="myChart4"></canvas>
+                </div>
+            </div>
+            <details>
+                <summary>Top 30 brands</summary>
+                <ul>
+                    <li>
+                        Compares the top 30 brands' performance between the current and previous years covering the scoped period of the report.
+                    </li>
+                    <li>
+                        Visualizes overall top 30 brands and brand performances per store.         
+                    </li>
+                </ul>
+            </details>
+        </div>
+    </div>
+
+    <script>
+        function toggleNav() {
+            const sidenav = document.getElementById("mySidenav");
+            const main = document.getElementById("main");
+            const openbtn = document.querySelector(".openbtn");
+
+            if (sidenav.style.width === "200px") {
+                sidenav.style.width = "0";
+                main.style.marginLeft = "0";
+                openbtn.textContent = "☰";
+                openbtn.classList.remove("open");
+            } else {
+                sidenav.style.width = "200px";
+                main.style.marginLeft = "200px";
+                openbtn.textContent = "X";
+                openbtn.classList.add("open");
+            }
+        }
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="dailyChart.js"></script>
+    <script src="weeklyChart.js"></script>
+    <script src="brandChart.js"></script>
+
+    <script>
+        // Global variables
+        let chartData = [];
+        let myChart1 = null;
+        let myChart2 = null;
+        let myChart3 = null;
+        let myChart4 = null;
+        const dataSource1='./Data/DB_DAILYSALES.json'
+        //const dataSource1='./Data/DB_DAILYSALES3.json'
+
+        // Function to fetch JSON data
+        async function fetchData() {
+            try {
+                const salesResponse = await fetch(dataSource1);
+                if (!salesResponse.ok) throw new Error('Network response was not ok');
+                chartData = await salesResponse.json();
+                
+                await populateStoreSelect(); // Populate store select list after fetching data
+                setDailyChart(); // Initialize the daily chart
+                setWeeklyChart(); // Initialize the weekly chart
+                fetchBrandSales();
+            } catch (error) {
+                console.error('Error fetching data:', error);
+            }
+        }
+
+        // Function to populate the store select list
+        let storeData = {}; // Object to store store names by business group
+
+        // Function to populate the store select list
+        async function populateStoreSelect() {
+            try {
+                const storeResponse = await fetch('./Data/DB_STORNAME.json');
+                if (!storeResponse.ok) throw new Error('Network response was not ok');
+                const optionData = await storeResponse.json();
+
+                const listGrup = document.getElementById('storeGroup');
+                // Create and insert a All Group option as the first item
+                const allGrupOption = document.createElement('option');
+                allGrupOption.value = ''; // No value for the first option
+                allGrupOption.textContent = 'All Business Group'; // Text for the first option
+                listGrup.appendChild(allGrupOption);
+
+                const listStor = document.getElementById('storeNames');
+                // Create and insert a All Store option as the first item
+                const allStorOption = document.createElement('option');
+                allStorOption.value = ''; // No value for the first option
+                allStorOption.textContent = 'All Stores'; // Text for the first option
+                listStor.appendChild(allStorOption);
+
+                // Create a Set to track unique store names and business group
+                const seenGroupNames = new Set();
+                const seenStoreNames = new Set();
+
+                storeData = {}; // Reset the data structure
+
+                optionData.forEach(data => {
+                    // Populate Business Groups
+                    if (!seenGroupNames.has(data.storegrp)) {
+                        seenGroupNames.add(data.storegrp);
+
+                        const option1 = document.createElement('option');
+                        option1.value = data.storegrp;
+                        option1.textContent = data.storegrp;
+                        listGrup.appendChild(option1);
+                    }
+
+                    // Populate Store Names
+                    if (!seenStoreNames.has(data.storname)) {
+                        seenStoreNames.add(data.storname);
+
+                        if (!storeData[data.storegrp]) {
+                            storeData[data.storegrp] = [];
+                        }
+                        storeData[data.storegrp].push(data.storname);
+                    }
+                });
+
+                // Event listener for storeGroup change
+                listGrup.addEventListener('change', () => {
+                    const selectedGroup = listGrup.value;
+                    updateStoreNames(selectedGroup);
+                    // function enableBtn()
+                });
+
+
+                // Initial load for storeNames based on the default value
+                updateStoreNames(listGrup.value);
+
+            } catch (error) {
+                console.error('Error fetching store names:', error);
+            }
+        }
+
+        // Function to update storeNames based on selected storeGroup
+        function updateStoreNames(group) {
+            const listStor = document.getElementById('storeNames');
+            
+            // Clear existing options
+            listStor.innerHTML = '';
+            
+            // Create and insert a All Store option as the first item
+            const allStorOption = document.createElement('option');
+            allStorOption.value = ''; // No value for the first option
+            allStorOption.textContent = 'All Stores'; // Text for the first option
+            listStor.appendChild(allStorOption);
+
+            if (group === '') {
+                // Show all stores if no group is selected
+                Object.values(storeData).flat().forEach(storeName => {
+                    const option = document.createElement('option');
+                    option.value = storeName;
+                    option.textContent = storeName;
+                    listStor.appendChild(option);
+                });
+            } else {
+                // Show stores for the selected group
+                if (storeData[group]) {
+                    storeData[group].forEach(storeName => {
+                        const option = document.createElement('option');
+                        option.value = storeName;
+                        option.textContent = storeName;
+                        listStor.appendChild(option);
+                    });
+                }
+            }
+        }
+
+        document.getElementById('btnRefresh')
+            .addEventListener('click', ()=>{
+                const listStor = document.getElementById('storeNames')
+                const listGrup = document.getElementById('storeGroup')
+                const cStorName = listStor.value;
+                const cStorGrup = listGrup.value;
+                setDailyChart(cStorName,cStorGrup);
+                setWeeklyChart(cStorName,cStorGrup);
+                fetchBrandSales(cStorName,cStorGrup);
+            })
+
+        fetchData();
+    </script>
+</body>
+</html>
