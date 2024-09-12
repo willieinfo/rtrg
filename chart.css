@@ -39,9 +39,10 @@ body {
     transition: background-color 0.3s, color 0.3s, border 0.3s; /* Smooth transition for hover effects */
 }
 
+
 #btnRefresh:hover {
     color: #f1f1f1;
-    background-color: rgb(128,128,128) ;
+    background-color: rgb(53,154,255);
     border: 2px solid #f1f1f1;     /* Border on hover */    
 }
 
@@ -57,28 +58,4 @@ details {
     font-style: italic;
     font-size: 10;
 }
-
-/* .dailyChart, .weeklyChart {
-    display: flex;
-    align-items: center; 
-    text-align: center; 
-    background-color: #fff; 
-    padding: 20px; 
-    border-radius: 8px; 
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
-    margin-top: 20px; 
-    max-width: none;
-}
-
-.dailyChart {
-    width: 80%;
-}
-
-.weeklyChart {
-    width: 80%;
-}
-#btnRefresh {
-    height: auto;
-
-} */
 

@@ -38,7 +38,6 @@
 
         .sidenav img {
             border: 5px solid #fff; /* Example border, adjust as needed */
-            /* border-radius: 10px;  */
             max-width: 100%; /* Ensure the image is responsive */
             height: auto; /* Maintain aspect ratio */
         }
@@ -382,9 +381,16 @@
             if (button.disabled) {
                 // Remove 'w3-spin' class when disabled
                 icon.classList.remove("w3-spin");
+                button.style="color: #111";
+                button.style="background-color: rgb(128,128,128)" ;
+
             } else {
                 // Add 'w3-spin' class when enabled
                 icon.classList.add("w3-spin");
+                button.style="color: #f1f1f1";
+                button.style="background-color: rgb(53,154,255)" ;
+                
+
             }
         }
 
