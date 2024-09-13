@@ -2,6 +2,8 @@
 function setDailyChart(selectedStore = '',selectedGroup = '') {
     const dateTotals = {};
     const backgroundColors = [];
+    const borderWidth = [];
+    const borderColor = [];
     const dayNames = ['Su', 'Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa'];
 
     const ctx = document.getElementById('myChart1').getContext('2d');
@@ -35,6 +37,8 @@ function setDailyChart(selectedStore = '',selectedGroup = '') {
         dateTotals[date] += total;
 
         backgroundColors.push(dayName.getDay() === 0 ? 'rgba(255,0,0,0.2)' : 'rgba(75, 192, 192, 0.2)');
+        borderWidth.push(dayName.getDate() === 1 ? 2 : 1);
+        borderColor.push(dayName.getDate() === 1 ? 'rgb(0,0,0)' : 'rgba(75, 192, 192, 1)');
     });
 
     const aLabels = Object.keys(dateTotals).sort();
@@ -44,8 +48,8 @@ function setDailyChart(selectedStore = '',selectedGroup = '') {
         label: 'Day Total',
         data: aTotals,
         backgroundColor: backgroundColors,
-        borderColor: 'rgba(75, 192, 192, 1)',
-        borderWidth: 1,
+        borderColor: borderColor,
+        borderWidth: borderWidth,
         type: 'bar'
     };
 
