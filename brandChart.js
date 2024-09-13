@@ -14,8 +14,8 @@ async function fetchBrandSales(selectedStore = '', selectedGroup = '') {
             if (!brandMap[item.brandnme]) {
                 brandMap[item.brandnme] = { curreamt: 0, prvyramt: 0 };
             }
-            brandMap[item.brandnme].curreamt += item.curreamt;
-            brandMap[item.brandnme].prvyramt += item.prvyramt;
+            brandMap[item.brandnme].curreamt += Math.round(item.curreamt);
+            brandMap[item.brandnme].prvyramt += Math.round(item.prvyramt);
         });
 
         let sortedBrands = Object.entries(brandMap)
