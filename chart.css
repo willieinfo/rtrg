@@ -6,6 +6,7 @@ body {
     min-height: 100vh;      /* Full viewport height */
     margin: 0;              /* Remove default margin */
     background-color: #f0f0f0; /* Optional background color */
+    font-family: Tahoma;
 }
 
 .dataFilter {
@@ -57,5 +58,140 @@ details {
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
     font-size: 10;
+    cursor: pointer;
+}
+
+/* From index.html */
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 20px;
+    z-index: 2000;
+    padding: 0px; /*sideNav is initially closed */
+    box-sizing: border-box; /* Include padding and border in width */
+}
+
+.sidenav .image-wrapper {
+    display: flex; /* Flexbox for centering */
+    justify-content: center; /* Center the image horizontally */
+    margin-bottom: 20px; /* Space below the image */
+}
+
+.sidenav img {
+    border: 5px solid #fff; /* Example border, adjust as needed */
+    max-width: 100%; /* Ensure the image is responsive */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.sidenav a {
+    display: block; /* Ensure each link is on its own line */
+    color: #fff; /* Example text color */
+    text-decoration: none; /* Remove underline from links */
+    padding: 10px; /* Add some padding for better appearance */
+    text-align: center; /* Center text in links */
+}
+
+.sidenav a:hover {
+    background-color: #575757; 
+}
+
+
+#main {
+    transition: margin-left .5s;
+    padding: 16px;
+    margin-left: 0;
+    width: 80%;
+}
+
+.openbtn {
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #111;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin: 10px;
+}
+.openbtn:hover {
+    color: #f1f1f1;
+    background-color: rgb(128,128,128) ;
+    border: 2px solid #f1f1f1;
+}
+
+/* .openbtn.open {
+    background-color: #444; 
+} */
+
+.chart-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box; /* Ensure padding is included in width calculation */
+    margin-bottom: 30px; /* Space below each chart container */
+    margin-top: 30px; /* Space below each chart container */
+    background-color: white;
+
+}
+
+
+.barChartContainer {
+    display: flex; /* Use flexbox to align children side by side */
+    flex-direction: row; /* Align children horizontally */
+    justify-content: space-between; /* Distribute space between children */
+    align-items: flex-start; /* Align children to the top */
+    width: 100%; /* Make sure container takes full width */
+    gap: 20px; /* Add gap between the charts */
+    box-sizing: border-box; /* Include padding and border in width calculation */
+    padding: 20px; /* Optional: Add padding around the container */
+    height: 700px;
+}
+
+.barChart1 {
+    flex: 1; /* Allow charts to grow equally */
+    max-width: 48%; /* Limit width to prevent overflow */
+    box-sizing: border-box; /* Include padding and border in width calculation */
+    height: 100%;
+}
+
+footer {
+    color: white;
+    display:flex;
+    justify-content: space-between; /* Space out items to the left and right */
+    align-items: center;      /* Center items vertically */
+    width: 100%;
+    box-sizing: border-box; /* Ensure padding is included in width */
+    background-color: rgba(128, 128, 128);
+
+    font-family: 'Times New Roman';
+    font-style: italic;
+    padding: 10px 10px;
+    
+}
+
+footer img {
+    width: 40px;
+    height: 40px;
+}
+
+@media (max-width: 768px) {
+    .chart-container {
+        max-width: 100%; 
+        padding: 10px; 
+    }
+    select {
+        width: 120px;
+        height: 40px;
+        font-size: 18;
+    }
 }
 
