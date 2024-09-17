@@ -20,7 +20,7 @@ body {
     width: 100%;
     z-index: 1000; /* Keeps the sticky element on top of other content */
     box-sizing: border-box; /* Ensure padding is included in width */
-    background-color: rgba(128, 128, 128);
+    background-color: rgba(83, 83, 83);
 }
 
 .dataFilter .centered {
@@ -95,7 +95,7 @@ details {
     color: #fff; /* Example text color */
     text-decoration: none; /* Remove underline from links */
     padding: 10px; /* Add some padding for better appearance */
-    text-align: center; /* Center text in links */
+    text-align: left;
 }
 
 .sidenav a:hover {
@@ -163,6 +163,42 @@ details {
     height: 100%;
 }
 
+/* style for storeChart */
+#storeChart {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 700px;
+}
+
+/* Flex container for the two charts */
+.storeChartContainer {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+/* The first chart occupying 70% of the parent width */
+.storeChart1 {
+    width: 70%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+/* The second chart occupying 30% of the parent width */
+.storeChart2 {
+    width: 30%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+/* Ensure canvas elements take full width and height of their containers */
+canvas {
+    width: 100% !important;
+    height: 100% !important;
+}
+
 footer {
     color: white;
     display:flex;
@@ -170,7 +206,7 @@ footer {
     align-items: center;      /* Center items vertically */
     width: 100%;
     box-sizing: border-box; /* Ensure padding is included in width */
-    background-color: rgba(128, 128, 128);
+    background-color: rgba(83, 83, 83);
 
     font-family: 'Times New Roman';
     font-style: italic;

@@ -13,7 +13,9 @@
         body {
             visibility: hidden;
         }
+
     </style>
+
     <script>
         window.onload = function() {
             // Check if the user is logged in
@@ -43,6 +45,7 @@
         <!-- <a style="pointer-events: none" href="#dailyChart" onclick="toggleNav()">Hourly</a> -->
         <a href="#hourlyChart" onclick="toggleNav()">Hourly</a>
         <a href="#brandChart" onclick="toggleNav()">Brand</a>
+        <a href="#storeChart" onclick="toggleNav()">Store</a>
         <hr>
         <a href="pdfReports.html" onclick="toggleNav()">PDF Reports</a>
         <hr>
@@ -129,6 +132,19 @@
                 </ul>
             </details>
         </div>
+
+        <div id="storeChart" class="chart-container storeChart">
+            <div class="storeChartContainer">
+                <div class='storeChart1'>
+                    <canvas id="myChart6"></canvas>
+                </div>
+                <div class='storeChart2'>
+                    <h5>Contribution To Sales</h5>
+                    <canvas id="myChart7"></canvas>
+                </div>
+            </div>
+        </div>
+
         <footer>
             <div class="imageWrapper">
                 <img src="./Graphics/InfoPlus.png" alt="InfoPlus">
@@ -167,18 +183,20 @@
     <script src="weeklyChart.js"></script>
     <script src="brandChart.js"></script>
     <script src="hourlyChart.js"></script>
+    <script src="storeChart.js"></script>
 
     <script>
         // Global variables
-        let chartData = [];
         let myChart1 = null;
         let myChart2 = null;
         let myChart3 = null;
         let myChart4 = null;
         let myChart5 = null;
-        const dataSource1='./Data/DB_DAILYSALES.json'
-        //const dataSource1='./Data/DB_DAILYSALES3.json'
+        let myChart6 = null;
+        let myChart7 = null;
 
+        let chartData = [];
+        const dataSource1='./Data/DB_DAILYSALES.json'
 
         // Function to fetch JSON data
         async function fetchData() {
@@ -191,6 +209,7 @@
                 setDailyChart(); // Initialize the daily chart
                 setWeeklyChart(); // Initialize the weekly chart
                 setHourlyChart(); 
+                setStoreChart(); 
                 fetchBrandSales();
                 document.getElementById("btnRefresh").disabled = true;
                 updateButtonState()
@@ -337,6 +356,7 @@
                 setDailyChart(cStorName,cStorGrup);
                 setWeeklyChart(cStorName,cStorGrup);
                 setHourlyChart(cStorName,cStorGrup);
+                setStoreChart(cStorName,cStorGrup);
                 fetchBrandSales(cStorName,cStorGrup);
                 document.getElementById("btnRefresh").disabled = true;
                 updateButtonState()
