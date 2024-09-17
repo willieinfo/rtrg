@@ -71,7 +71,13 @@ async function setStoreChart(selectedStore = '', selectedGroup = '') {
                             }
                         }
                     }
+                },
+                plugins: {
+                    legend: {
+                        display: false,
+                    }
                 }
+
             }
         });
 
