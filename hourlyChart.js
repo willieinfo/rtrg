@@ -55,19 +55,28 @@ function setHourlyChart(selectedStore = '', selectedGroup = '') {
                 options: {
                     scales: {
                         y: {
-                            beginAtZero: true
+                            beginAtZero: true,
+                            title: {
+                                display: true,
+                                text: 'Transaction Count',
+                                font: {
+                                    family: 'Times New Roman',
+                                    style: 'italic',
+                                    size: 14  // You can adjust the font size if needed
+                                }
+                            }
                         }
                     },
                     plugins: {
                         title: {
                             display: true,
-                            text: "Hourly Transaction Sales",
+                            text: "Hourly Transactions",
                             font: {
                                 size: 14
                             }
                         },
                         legend: {
-                            display: true
+                            display: false
                         }
                     }
                 }
