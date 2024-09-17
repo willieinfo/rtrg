@@ -27,10 +27,31 @@ async function fetchBrandSales(selectedStore = '', selectedGroup = '') {
         const curreamtData = sortedBrands.map(item => item.curreamt);
         const prvyramtData = sortedBrands.map(item => item.prvyramt);
 
+        // Function to round up to the nearest multiple of step
+        // const roundUpToNearest = (value, step) => {
+        //     return Math.ceil(value / step) * step;
+        // };
+
+        // Function to get the magnitude of a number (e.g., 1234 -> 1000)
+        const getMagnitudeStep = (value) => {
+            const magnitude = Math.floor(Math.log10(value));
+            return Math.pow(10, magnitude); // Returns the nearest power of 10
+        };
+
+        // Function to round up to the nearest appropriate step
+        const roundUpToDynamicStep = (value) => {
+            const step = getMagnitudeStep(value);
+            return Math.ceil(value / step) * step;
+        };
+
+
         // Calculate the maximum value for the x-axis
         const maxCurreamt = Math.max(...curreamtData);
         const maxPrvyramt = Math.max(...prvyramtData);
         const maxValue = Math.max(maxCurreamt, maxPrvyramt);
+
+        // Round up maxValue to the nearest appropriate step
+        const roundedMaxValue = roundUpToDynamicStep(maxValue);
 
         if (myChart3) myChart3.destroy();
         if (myChart4) myChart4.destroy();
@@ -42,7 +63,7 @@ async function fetchBrandSales(selectedStore = '', selectedGroup = '') {
             scales: {
                 x: {
                     beginAtZero: true,
-                    max: maxValue, // Set the maximum value for both charts
+                    max: roundedMaxValue, // Use the dynamically rounded max value for both charts
                     title: { display: false },
                     ticks: {
                         font: { family: 'Arial Narrow', size: 10 }
