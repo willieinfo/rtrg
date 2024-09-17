@@ -40,7 +40,8 @@
         <hr>
         <a href="#weeklyChart" onclick="toggleNav()">Weekly</a>
         <a href="#dailyChart" onclick="toggleNav()">Daily</a>
-        <a style="pointer-events: none" href="#dailyChart" onclick="toggleNav()">Hourly</a>
+        <!-- <a style="pointer-events: none" href="#dailyChart" onclick="toggleNav()">Hourly</a> -->
+        <a href="#hourlyChart" onclick="toggleNav()">Hourly</a>
         <a href="#brandChart" onclick="toggleNav()">Brand</a>
         <hr>
         <a href="pdfReports.html" onclick="toggleNav()">PDF Reports</a>
@@ -89,6 +90,18 @@
                     <li>
                         Highlights daily sales with a focus on Sunday or weekend performance, showing fluctuations and peak 
                         periods.
+                    </li>
+                </ul>
+            </details>
+        </div>
+
+        <div id="hourlyChart" class="chart-container hourlyChart">
+            <canvas id="myChart5"></canvas>
+            <details>
+                <summary>Hourly Sales</summary>
+                <ul>
+                    <li>
+                        Displays hourly sales performance showing which time of the day sales transaction is peaking.
                     </li>
                 </ul>
             </details>
@@ -153,6 +166,7 @@
     <script src="dailyChart.js"></script>
     <script src="weeklyChart.js"></script>
     <script src="brandChart.js"></script>
+    <script src="hourlyChart.js"></script>
 
     <script>
         // Global variables
@@ -161,6 +175,7 @@
         let myChart2 = null;
         let myChart3 = null;
         let myChart4 = null;
+        let myChart5 = null;
         const dataSource1='./Data/DB_DAILYSALES.json'
         //const dataSource1='./Data/DB_DAILYSALES3.json'
 
@@ -175,6 +190,7 @@
                 await populateStoreSelect(); // Populate store select list after fetching data
                 setDailyChart(); // Initialize the daily chart
                 setWeeklyChart(); // Initialize the weekly chart
+                setHourlyChart(); 
                 fetchBrandSales();
                 document.getElementById("btnRefresh").disabled = true;
                 updateButtonState()
@@ -320,6 +336,7 @@
                 const cStorGrup = listGrup.value;
                 setDailyChart(cStorName,cStorGrup);
                 setWeeklyChart(cStorName,cStorGrup);
+                setHourlyChart(cStorName,cStorGrup);
                 fetchBrandSales(cStorName,cStorGrup);
                 document.getElementById("btnRefresh").disabled = true;
                 updateButtonState()
