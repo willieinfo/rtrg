@@ -24,12 +24,13 @@ async function setStoreChart(selectedStore = '', selectedGroup = '') {
             return;
         }
 
+
         // Get the highest date
         const highestDate = new Date(Math.max(...filteredData.map(entry => new Date(entry.date____))));
-        
-        // Define the start date (for example, 15 days back from the highest date)
-        const startDate = new Date(highestDate);
-        startDate.setDate(highestDate.getDate() - 14); // Adjust this range as needed
+
+        // Define the start date as the first day of the month of the highest date
+        const startDate = new Date(highestDate.getFullYear(), highestDate.getMonth(), 1);
+
 
         // Filter data by the date range
         const dateFilteredData = filteredData.filter(entry => {
