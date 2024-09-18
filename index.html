@@ -14,6 +14,24 @@
             visibility: hidden;
         }
 
+        #radioOutright {
+            display: flex;
+            flex-direction: row;
+            align-items: center; /* Align items vertically in the center */
+        }
+
+        #radioOutright input[type="radio"] {
+            margin-top: 0px;
+            padding-top: 0px;
+            padding-right: 10px;
+        }
+
+        #radioOutright label {
+            margin-top: 0px;
+            padding-top: 0px;
+            padding-left: 5px;
+            padding-right: 10px;
+        }        
     </style>
 
     <script>
@@ -23,6 +41,14 @@
                 window.location.href = 'login.html'; // Redirect to login page if not logged in
             } else {
                 document.body.style.visibility = 'visible';
+
+                // Get all radio buttons with the name 'brandType'
+                const radioButtons = document.querySelectorAll('#radioOutright input[name="brandType"]');
+
+                // Add the event listener to each radio button
+                radioButtons.forEach(radio => {
+                    radio.addEventListener('change', handleRadioChange);
+                });
             }
         };
 
@@ -112,6 +138,15 @@
         
         <div id="brandChart" class="chart-container brandChart">
             <h5>Top 30 Brands</h5>
+            <div id="radioOutright">
+                <input type="radio" id="allType" name="brandType" value="">
+                <label for="allType">All Type</label><br>
+                <input type="radio" id="outright" name="brandType" value="1-OUTRIGHT">
+                <label for="outright">Outright</label><br>
+                <input type="radio" id="consigned" name="brandType" value="2-CONSIGNE">
+                <label for="consigned">Consigned</label>
+            </div>
+
             <div class="barChartContainer">
                 <div class='barChart1'>
                     <canvas id="myChart3"></canvas>
@@ -180,6 +215,8 @@
     </script>
 
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-datalabels/2.0.0/chartjs-plugin-datalabels.min.js"></script> -->
+
     <script src="dailyChart.js"></script>
     <script src="weeklyChart.js"></script>
     <script src="brandChart.js"></script>
@@ -347,6 +384,18 @@
             }
         }
 
+        let cBrandType=''
+        // Function to handle radio button change
+        function handleRadioChange(event) {
+            const listStor = document.getElementById('storeNames');
+            const listGrup = document.getElementById('storeGroup');
+            const cStorName = listStor.value;
+            const cStorGrup = listGrup.value;
+            cBrandType = event.target.value;
+
+            // Call fetchBrandSales with the current values
+            fetchBrandSales(cStorName, cStorGrup, cBrandType);
+        }        
 
         document.getElementById('btnRefresh')
             .addEventListener('click', ()=>{
@@ -358,7 +407,7 @@
                 setWeeklyChart(cStorName,cStorGrup);
                 setHourlyChart(cStorName,cStorGrup);
                 setStoreChart(cStorName,cStorGrup);
-                fetchBrandSales(cStorName,cStorGrup);
+                fetchBrandSales(cStorName,cStorGrup,cBrandType);
                 document.getElementById("btnRefresh").disabled = true;
                 updateButtonState()
             })

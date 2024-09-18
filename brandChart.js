@@ -1,4 +1,5 @@
-async function fetchBrandSales(selectedStore = '', selectedGroup = '') {
+async function fetchBrandSales(selectedStore = '', selectedGroup = '', selectedType = '') {
+
     const dataSource = './Data/DB_BRANDSALE.json';
     try {
         const response = await fetch(dataSource);
@@ -10,6 +11,7 @@ async function fetchBrandSales(selectedStore = '', selectedGroup = '') {
         brandData.forEach(item => {
             if (selectedGroup && selectedGroup !== 'All Business Group' && item.storegrp !== selectedGroup) return;
             if (selectedStore && selectedStore !== 'All Stores' && item.storname !== selectedStore) return;
+            if (selectedType && selectedType !== '' && item.outright !== selectedType) return;
 
             if (!brandMap[item.brandnme]) {
                 brandMap[item.brandnme] = { curreamt: 0, prvyramt: 0 };
@@ -17,6 +19,7 @@ async function fetchBrandSales(selectedStore = '', selectedGroup = '') {
             brandMap[item.brandnme].curreamt += Math.round(item.curreamt);
             brandMap[item.brandnme].prvyramt += Math.round(item.prvyramt);
         });
+
 
         let sortedBrands = Object.entries(brandMap)
             .map(([brandnme, values]) => ({ brandnme, ...values }))
