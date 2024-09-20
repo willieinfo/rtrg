@@ -30,7 +30,7 @@ async function setStoreChart(selectedStore = '', selectedGroup = '') {
 
         // Define the start date as the first day of the month of the highest date
         const startDate = new Date(highestDate.getFullYear(), highestDate.getMonth(), 1);
-
+        // console.log(startDate,highestDate)
 
         // Filter data by the date range
         const dateFilteredData = filteredData.filter(entry => {
