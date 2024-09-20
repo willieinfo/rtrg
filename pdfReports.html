@@ -7,6 +7,8 @@
     <title>RTRG PDF Reports</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <script src="https://unpkg.com/write-excel-file@1.x/bundle/write-excel-file.min.js"></script>
+
     <style>
         body {
             background-color: darkgrey;
@@ -39,7 +41,7 @@
             display: flex;          /* Use Flexbox layout */
             align-items: center;    /* Center items vertically */
             cursor: pointer;        /* Change cursor to pointer on hover */
-            background-color: rgb(53,154,255);
+            background-color: rgb(0,64,128);
             color: white;
 
         }
@@ -49,8 +51,8 @@
 
         button:hover {
             color: #f1f1f1;
-            background-color: rgb(128,128,128) ;
-            border: 2px solid #f1f1f1;     /* Border on hover */    
+            background-color: rgb(53,154,255) ;
+            border: 1px solid #f1f1f1;     /* Border on hover */    
         }
 
         span {
@@ -65,25 +67,39 @@
     </style>        
 </head>
 <body>
-    <span class="goBack" onclick="window.history.back()" >
-        <i class="material-icons">arrow</i>Go back ...</span>
+    <button class="goBack" onclick="window.history.back()" >
+        <i class="material-icons">arrow_back</i>Go back</button>
     <div id="pdfSlide" class="w3-content w3-display-container w3-bottombar w3-border-black">
         <div class="subTitle">
             <h5 >PDF Reports</h5>
-            <button
-                onclick="alert('Procedure to print not yet available.')">Excel</button>
+            <button 
+                onclick="printExcel()">
+                <i class="material-icons">print</i>Excel</button>
         </div>
         <div>
-            <embed type="application/pdf" class="pdfReport" src="./PDF/Store Sales Summary.pdf" >
-            <embed type="application/pdf" class="pdfReport" src="./PDF/Store Sales by Brand.pdf" >
-            <embed type="application/pdf" class="pdfReport" src="./PDF/Store Sales by Business Unit.pdf" >
-            <embed type="application/pdf" class="pdfReport" src="./PDF/Store Sales Overall Brand.pdf" >
-            <embed type="application/pdf" class="pdfReport" src="./PDF/Daily Sales.pdf" >
+            <embed type="application/pdf" name='summary' class="pdfReport" src="./PDF/Store Sales Summary.pdf" >
+            <embed type="application/pdf" name='byBrand' class="pdfReport" src="./PDF/Store Sales by Brand.pdf" >
+            <embed type="application/pdf" name='byBusiness' class="pdfReport" src="./PDF/Store Sales by Business Unit.pdf" >
+            <embed type="application/pdf" name='overall' class="pdfReport" src="./PDF/Store Sales Overall Brand.pdf" >
+            <embed type="application/pdf" name='daily' class="pdfReport" src="./PDF/Daily Sales.pdf" >
         
         </div>
     </div>
     <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
     <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+
+    <script src="printToExcel.js"></script>    
+    <script>
+        function printExcel() {
+            const pdfReports=document.getElementsByClassName("pdfReport")
+            for (let i = 0; i < pdfReports.length; i++) {
+                if (pdfReports[i].style.display === "block") {
+                    printToExcel(pdfReports[i].getAttribute('name'))
+                    break;
+                }
+            }
+        }
+    </script>
 
     <script>
 
