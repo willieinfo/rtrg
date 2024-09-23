@@ -75,7 +75,7 @@
             justify-content: space-between;
             align-items: center;
             height: 14%;
-            background-color: black;
+            background-color: rgb(83,83,83);
         }
 
         .loginSection {
@@ -272,7 +272,7 @@
             console.log(userPass);  // Log the userPass
 
             // Check login credentials
-            if (password.trim() === userPass) {
+            if (password.trim().toUpperCase() === userPass.toUpperCase()) {
                 sessionStorage.setItem('loggedIn', 'true');
                 window.location.href = 'index.html';
             } else {

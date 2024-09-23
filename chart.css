@@ -219,6 +219,17 @@ footer img {
     height: 40px;
 }
 
+/* new style */
+
+.imageWrapper {
+    display: flex; /* Flexbox for centering */
+    align-items: center; /* Center the items vertically */
+}
+
+.imageWrapper p {
+    margin-left: 10px; /* Add some space between the image and text */
+}
+
 @media (max-width: 768px) {
     .chart-container {
         max-width: 100%; 
