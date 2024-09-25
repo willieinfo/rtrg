@@ -7,6 +7,7 @@
     <title>RTRG PDF Reports</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <script src="https://unpkg.com/write-excel-file@1.x/bundle/write-excel-file.min.js"></script>
 
     <style>
@@ -72,16 +73,18 @@
     <div id="pdfSlide" class="w3-content w3-display-container w3-bottombar w3-border-black">
         <div class="subTitle">
             <h5 >PDF Reports</h5>
-            <button 
+            <button class="excelBtn"
                 onclick="printExcel()">
-                <i class="material-icons">print</i>Excel</button>
+                <i style="font: size 16px; margin-right: 10px" class="fa" >&#xf1c3;</i>Excel</button>
+                <!-- <i class="fa fa-file-excel-o" style="margin-right: 10px"></i> -->
+                
         </div>
         <div>
             <embed type="application/pdf" name='summary' class="pdfReport" src="./PDF/Store Sales Summary.pdf" >
+            <embed type="application/pdf" name='daily' class="pdfReport" src="./PDF/Daily Sales.pdf" >
             <embed type="application/pdf" name='byBrand' class="pdfReport" src="./PDF/Store Sales by Brand.pdf" >
             <embed type="application/pdf" name='byBusiness' class="pdfReport" src="./PDF/Store Sales by Business Unit.pdf" >
             <embed type="application/pdf" name='overall' class="pdfReport" src="./PDF/Store Sales Overall Brand.pdf" >
-            <embed type="application/pdf" name='daily' class="pdfReport" src="./PDF/Daily Sales.pdf" >
         
         </div>
     </div>
@@ -102,24 +105,48 @@
     </script>
 
     <script>
-
         var slideIndex = 1;
         showDivs(slideIndex);
         
         function plusDivs(n) {
             showDivs(slideIndex += n);
         }
-        
+
         function showDivs(n) {
             var i;
             var x = document.getElementsByClassName("pdfReport");
-            if (n > x.length) {slideIndex = 1}
-            if (n < 1) {slideIndex = x.length}
+            
+            // Wrap around the slide index if out of bounds
+            if (n > x.length) { slideIndex = 1; }
+            if (n < 1) { slideIndex = x.length; }
+            
+            // Hide all pdf reports
             for (i = 0; i < x.length; i++) {
-            x[i].style.display = "none";  
+                x[i].style.display = "none";  
             }
-            x[slideIndex-1].style.display = "block";  
+            
+            // Show the current report
+            x[slideIndex - 1].style.display = "block";  
+            
+            // Get the report name
+            const reportName = x[slideIndex - 1].getAttribute('name');
+            // Assuming there's only one button
+            const excelBtn = document.getElementsByClassName("excelBtn")[0]; 
+
+            // Show or hide the Excel button based on the report name
+            switch (reportName) {
+                case 'summary':
+                    excelBtn.style.display = 'block';
+                    break;
+                case 'daily':
+                    excelBtn.style.display = 'block';
+                    break;
+                default:
+                    excelBtn.style.display = 'none';
+                    break;
+            }
         }
+
     </script>
           
 </body>
