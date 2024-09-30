@@ -65,7 +65,7 @@ details {
 
 .sidenav {
     height: 100%;
-    width: 0;
+    width: 200px; 
     position: fixed;
     top: 0;
     left: 0;

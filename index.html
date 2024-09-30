@@ -66,6 +66,8 @@
             <img src="./Graphics/RTRG.jpg" alt="RTRG">
         </div>
         <hr>
+        
+        <!-- <a href="#weeklyChart" onclick="toggleNav()">Weekly</a> -->
         <a href="#weeklyChart" onclick="toggleNav()">Weekly</a>
         <a href="#dailyChart" onclick="toggleNav()">Daily</a>
         <!-- <a style="pointer-events: none" href="#dailyChart" onclick="toggleNav()">Hourly</a> -->
@@ -130,7 +132,7 @@
                 <summary>Hourly Sales</summary>
                 <ul>
                     <li>
-                        Displays hourly sales performance showing which time of the day sales transaction is peaking.
+                        Displays hourly sales performance showing which time of the day sales transaction is high and when it is low.
                     </li>
                 </ul>
             </details>
@@ -140,7 +142,7 @@
             <h5>Top 30 Brands</h5>
             <div id="radioOutright">
                 <input type="radio" id="allType" name="brandType" value="" checked>
-                <label for="allType">All Type</label><br>
+                <label for="allType">All Types</label><br>
                 <input type="radio" id="outright" name="brandType" value="1-OUTRIGHT">
                 <label for="outright">Outright</label><br>
                 <input type="radio" id="consigned" name="brandType" value="2-CONSIGNE">
@@ -162,7 +164,7 @@
                         Compares the top 30 brands' performance between the current and previous years covering the scoped period of the report.
                     </li>
                     <li>
-                        Visualizes overall top 30 brands and brand performances per store.         
+                        Visualizes overall top 30 brand performances per store.         
                     </li>
                 </ul>
             </details>
@@ -225,6 +227,8 @@
     <script src="storeChart.js"></script>
 
     <script>
+        toggleNav() //Init Side Nav
+
         // Global variables
         let myChart1 = null;
         let myChart2 = null;
@@ -236,7 +240,7 @@
 
         let chartData = [];
         const dataSource1='./Data/DB_DAILYSALES.json'
-
+        
         // Function to fetch JSON data
         async function fetchData() {
             try {
