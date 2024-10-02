@@ -68,12 +68,13 @@
         <hr>
         
         <!-- <a href="#weeklyChart" onclick="toggleNav()">Weekly</a> -->
-        <a href="#weeklyChart" onclick="toggleNav()">Weekly</a>
-        <a href="#dailyChart" onclick="toggleNav()">Daily</a>
+        <a href="#weeklyChart" onclick="toggleNav()">Weekly Sales Comparison</a>
+        <a href="#dailyChart" onclick="toggleNav()">Daily Sales Trends</a>
         <!-- <a style="pointer-events: none" href="#dailyChart" onclick="toggleNav()">Hourly</a> -->
-        <a href="#hourlyChart" onclick="toggleNav()">Hourly</a>
-        <a href="#brandChart" onclick="toggleNav()">Brand</a>
-        <a href="#storeChart" onclick="toggleNav()">Store</a>
+        <a href="#hourlyChart" onclick="toggleNav()">Hourly Transaction Analysis</a>
+        <a href="#brandChart" onclick="toggleNav()">Brand Performance Ranking</a>
+        <a href="#storeChart" onclick="toggleNav()">Store Performance Contribution</a>
+        <a href="#ytdChart" onclick="toggleNav()">YTD Monthly Sales Trends</a>
         <hr>
         <a href="pdfReports.html" onclick="toggleNav()">PDF Reports</a>
         <hr>
@@ -183,6 +184,15 @@
             </div>
         </div>
 
+        <div id="ytdChart" class="chart-container ytdChart">
+            <div class="ytdChartContainer">
+                <div class='ytdChart8'>
+                    <h5>YTD Monthly Sales Trend</h5>
+                    <canvas id="myChart8"></canvas>
+                </div>
+            </div>
+        </div>
+
         <footer>
             <div class="imageWrapper">
                 <img src="./Graphics/InfoPlus.png" alt="Web InfoPlus">
@@ -225,6 +235,7 @@
     <script src="brandChart.js"></script>
     <script src="hourlyChart.js"></script>
     <script src="storeChart.js"></script>
+    <script src="ytdChart.js"></script>
 
     <script>
         toggleNav() //Init Side Nav
@@ -237,6 +248,7 @@
         let myChart5 = null;
         let myChart6 = null;
         let myChart7 = null;
+        let myChart8 = null;
 
         let chartData = [];
         const dataSource1='./Data/DB_DAILYSALES.json'
@@ -254,6 +266,7 @@
                 setHourlyChart(); 
                 setStoreChart(); 
                 fetchBrandSales();
+                setYTDChart();
                 document.getElementById("btnRefresh").disabled = true;
                 updateButtonState()
 
@@ -412,6 +425,7 @@
                 setWeeklyChart(cStorName,cStorGrup);
                 setHourlyChart(cStorName,cStorGrup);
                 setStoreChart(cStorName,cStorGrup);
+                setYTDChart(cStorName,cStorGrup);
                 fetchBrandSales(cStorName,cStorGrup,cBrandType);
                 document.getElementById("btnRefresh").disabled = true;
                 updateButtonState()

@@ -12,6 +12,7 @@
 
     <style>
         body {
+            visibility: hidden;
             background-color: darkgrey;
         }
         #pdfSlide{
@@ -65,7 +66,36 @@
             cursor: pointer;
         }
 
+        .ytdContainer {
+            display: flex;
+            flex-direction: column; /* Stack reports vertically */
+            align-items: center;    /* Center horizontally */
+            width: 100%;            /* Full width */
+        }
+
+        .ytdReport, .ytd2Report {
+            width: 80%;             /* Control the width as needed */
+            height: 650px;         /* Same height for consistency */
+        }
+
+
     </style>        
+
+    <script>
+        window.onload = function() {
+
+            // Check if the user is logged in
+            if (sessionStorage.getItem('loggedIn') !== 'true') {
+                window.location.href = 'login.html'; // Redirect to login page if not logged in
+            } else {
+                document.body.style.visibility = 'visible';
+
+            }
+        };
+
+    </script>
+
+
 </head>
 <body>
     <button class="goBack" onclick="window.history.back()" >
@@ -82,14 +112,24 @@
         <div>
             <embed type="application/pdf" name='summary' class="pdfReport" src="./PDF/Store Sales Summary.pdf" >
             <embed type="application/pdf" name='daily' class="pdfReport" src="./PDF/Daily Sales.pdf" >
-            <embed type="application/pdf" name='byBrand' class="pdfReport" src="./PDF/Store Sales by Brand.pdf" >
             <embed type="application/pdf" name='byBusiness' class="pdfReport" src="./PDF/Store Sales by Business Unit.pdf" >
             <embed type="application/pdf" name='overall' class="pdfReport" src="./PDF/Store Sales Overall Brand.pdf" >
-        
+            <embed type="application/pdf" name='byBrand' class="pdfReport" src="./PDF/Store Sales by Brand.pdf" >
+       
         </div>
     </div>
     <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
     <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+    <br>
+    <br>
+
+
+    <div class="ytdContainer">
+        <embed type="application/pdf" class="ytdReport" src="./PDF/YTD Monthly Sales Jan-Sep 2024.pdf">
+            <br>
+        <embed type="application/pdf" class="ytd2Report" src="./PDF/YTD Sales Summary Jan-Sep 2024.pdf">
+    </div>
+        
 
     <script src="printToExcel.js"></script>    
     <script>
