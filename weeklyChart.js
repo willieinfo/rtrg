@@ -29,6 +29,9 @@ function setWeeklyChart(selectedStore = '', selectedGroup = '') {
 
     // Parse dates and find the earliest date in the dataset
     const filteredData = chartData.filter(entry => {
+        if (multiStore.length > 0) {
+            if (!multiStore.includes(entry.storname.trim())) return 
+        }
         return (!selectedGroup || selectedGroup === 'All Business Group' || entry.storegrp === selectedGroup) &&
                (!selectedStore || selectedStore === 'All Stores' || entry.storname === selectedStore);
     });

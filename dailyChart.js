@@ -21,15 +21,26 @@ function setDailyChart(selectedStore = '',selectedGroup = '') {
         return entryDate >= minDate && entryDate <= maxDate;
     });
 
+    console.log(multiStore)
     filteredData.forEach(entry => {
         const dayName = new Date(entry.date____);
         const dayOfWeek = dayNames[dayName.getDay()];
         const date = entry.date____.substring(0, 5) + ' ' + dayOfWeek;
         const total = Math.round(entry.totalamt);
 
+
+        // Check if multiStore is populated and if the store is included
+        if (multiStore.length > 0 && !multiStore.includes(entry.storname.trim())) {
+            return; // Skip this entry if the store is not in the multiStore
+        }
         // Apply filters based on selectedGroup and selectedStore
-        if (selectedGroup && selectedGroup !== 'All Business Group' && entry.storegrp !== selectedGroup) return;
-        if (selectedStore && selectedStore !== 'All Stores' && entry.storname !== selectedStore) return;
+        if (selectedGroup && selectedGroup !== 'All Business Group' && entry.storegrp !== selectedGroup) {
+            return; // Skip if the group doesn't match
+        }
+        if (selectedStore && selectedStore !== 'All Stores' && entry.storname !== selectedStore) {
+            return; // Skip if the selected store doesn't match
+        }
+
 
         if (!dateTotals[date]) {
             dateTotals[date] = 0;

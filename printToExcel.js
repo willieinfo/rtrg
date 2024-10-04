@@ -133,6 +133,15 @@ async function printDailySales(dataSource) {
         });
     });
 
+    // Sort finalOutput by storegrp, storname, and totalSum in descending order
+    finalOutput.sort((a, b) => {
+        if (a.storegrp < b.storegrp) return -1;
+        if (a.storegrp > b.storegrp) return 1;
+        // if (a.storname < b.storname) return -1;
+        // if (a.storname > b.storname) return 1;
+        return b.totalSum - a.totalSum; // Descending order for totalSum
+    });    
+
     // console.log(finalOutput);
     return finalOutput;
 }

@@ -11,6 +11,10 @@ async function setStoreChart(selectedStore = '', selectedGroup = '') {
 
         // Filter data based on selectedGroup and selectedStore
         const filteredData = storeData.filter(entry => {
+            if (multiStore.length > 0) {
+                if (!multiStore.includes(entry.storname.trim())) return 
+            }
+    
             const trimmedStoreName = entry.storname.trim();
             const trimmedGroupName = entry.storegrp.trim();
             const groupMatch = !trimmedSelectedGroup || trimmedSelectedGroup === 'All Business Group' || trimmedGroupName === trimmedSelectedGroup;

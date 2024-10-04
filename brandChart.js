@@ -7,12 +7,26 @@ async function fetchBrandSales(selectedStore = '', selectedGroup = '', selectedT
         const brandData = await response.json();
 
         const brandMap = {};
-
+        //multiStore=['BBW T3 LANDSIDE', 'VS T3 LANDSIDE']
+        //console.log(multiStore,'Willie')
         brandData.forEach(item => {
-            if (selectedGroup && selectedGroup !== 'All Business Group' && item.storegrp !== selectedGroup) return;
-            if (selectedStore && selectedStore !== 'All Stores' && item.storname !== selectedStore) return;
-            if (selectedType && selectedType !== '' && item.outright !== selectedType) return;
-
+            const storeName = item.storname.trim(); // Trim spaces
+            
+            // Check if multiStore is populated and if the store is included
+            if (multiStore.length > 0 && !multiStore.includes(storeName)) {
+                // console.log(`Skipping: ${storeName} (not in multiStore)`);
+                return; // Skip this entry if the store is not in the multiStore
+            }
+            // Apply filters based on selectedGroup and selectedStore
+            if (selectedGroup && selectedGroup !== 'All Business Group' && item.storegrp !== selectedGroup) {
+                // console.log(`Skipping: ${storeName} (group mismatch)`);
+                return; // Skip if the group doesn't match
+            }
+            if (selectedStore && selectedStore !== 'All Stores' && storeName !== selectedStore) {
+                // console.log(`Skipping: ${storeName} (store mismatch)`);
+                return; // Skip if the selected store doesn't match
+            }
+        
             if (!brandMap[item.brandnme]) {
                 brandMap[item.brandnme] = { curreamt: 0, prvyramt: 0 };
             }
