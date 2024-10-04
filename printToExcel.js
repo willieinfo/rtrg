@@ -32,7 +32,7 @@ async function printToExcel(reportName) {
             break;
 
         case 'daily':
-            const dataSource2 = './data/DB_WEB_DATA.json';
+            const dataSource2 = './Data/DB_WEB_DATA.json';
 
             try {
                 const dailySales = await printDailySales(dataSource2);
