@@ -23,6 +23,7 @@ body {
     background-color: rgba(83, 83, 83);
 }
 
+
 .dataFilter .centered {
     display: flex;
     justify-items: center;
@@ -60,6 +61,8 @@ details {
     font-size: 10;
     cursor: pointer;
 }
+
+
 select {
     font-size: 12px;
     cursor: pointer;
@@ -128,7 +131,6 @@ option {
     color: white;
     border: none;
     padding: 10px 15px;
-    /* border-radius: 5px; */
     margin: 10px;
 }
 .openbtn:hover {
@@ -137,9 +139,6 @@ option {
     border: 2px solid #f1f1f1;
 }
 
-/* .openbtn.open {
-    background-color: #444; 
-} */
 
 .chart-container {
     display: flex;
@@ -250,6 +249,17 @@ footer img {
         width: 120px;
         height: 40px;
         font-size: 18;
+    }
+    #multiStore {
+        font-size: 10px;
+    }
+    #btnRefresh {
+        font-size: 10px;
+
+    }
+    .openbtn {
+        font-size: 10px;
+
     }
 }
 
