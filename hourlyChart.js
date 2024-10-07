@@ -8,8 +8,13 @@ function setHourlyChart(selectedStore = '', selectedGroup = '') {
     // Initialize an empty array for hourly sales totals
     let aHourSales = new Array(aHourLabel.length).fill(0);
 
-    const dataSource3 = './Data/DB_HOURSALES.json';
-
+    let dataSource3 = './Data/DB_HOURSALES.json';
+    if (dateScope==='OCT 2024') {
+        dataSource3 = './Data/DB_HOURSALES.json';
+    } else {
+        dataSource3 = './Data/DB_HOURSALES_SEP.json';
+    }
+    
     // Fetch the JSON data
     fetch(dataSource3)
         .then(response => response.json())
@@ -55,6 +60,7 @@ function setHourlyChart(selectedStore = '', selectedGroup = '') {
                         backgroundColor: 'rgba(75, 192, 192, 0.2)',
                         tension: 0.4,
                         fill: true,
+                        spanGaps: true,
                     }]
                 },
                 options: {

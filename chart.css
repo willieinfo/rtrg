@@ -78,7 +78,7 @@ option {
 
 .sidenav {
     height: 100%;
-    width: 200px; 
+    width: 0px; 
     position: fixed;
     top: 0;
     left: 0;
@@ -95,7 +95,20 @@ option {
 .sidenav .image-wrapper {
     display: flex; /* Flexbox for centering */
     justify-content: center; /* Center the image horizontally */
-    margin-bottom: 20px; /* Space below the image */
+    margin-bottom: 0px;  
+    flex-direction: column;
+}
+
+.sidenav #dateScope {
+    display: flex;
+    width: auto;
+    height: 30px;
+    border-width: .5px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    margin-top: 10px;
+    font-weight: bold;
 }
 
 .sidenav img {
@@ -261,5 +274,18 @@ footer img {
         font-size: 10px;
 
     }
+    #radioOutright {
+        font-size: 12px;
+    }
+    #brandChart h5 {
+        font-size: 16px;
+
+    }
+    #mySidenav {
+        width: 0; 
+        background-color: blue;
+    }
+
+
 }
 

@@ -1,7 +1,14 @@
 async function printToExcel(reportName) {
+
     switch(reportName) {
         case 'summary':
-            const dataSource = "./Data/DB_SUMMARY.json";
+            let dataSource = "./Data/DB_SUMMARY.json";
+            if (dateCovered==='OCT 2024') {
+                dataSource = './Data/DB_SUMMARY.json';
+            } else {
+                dataSource = './Data/DB_SUMMARY_SEP.json';
+            }
+        
             const cFileName1 = "RTRG Summary Sales.xlsx";
             
             const HEADER1_ROW = [
@@ -32,7 +39,12 @@ async function printToExcel(reportName) {
             break;
 
         case 'daily':
-            const dataSource2 = './Data/DB_WEB_DATA.json';
+            let dataSource2 = './Data/DB_WEB_DATA.json';
+            if (dateCovered==='OCT 2024') {
+                dataSource2 = './Data/DB_WEB_DATA.json';
+            } else {
+                dataSource2 = './Data/DB_WEB_DATA_SEP.json';
+            }
 
             try {
                 const dailySales = await printDailySales(dataSource2);

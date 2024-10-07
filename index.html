@@ -78,6 +78,10 @@
         .chart-container.weeklyChart {
             margin-top: 5px; 
         }
+
+
+
+        
     </style>
 
     <script>
@@ -88,7 +92,7 @@
             } else {
                 document.body.style.visibility = 'visible';
 
-                // Get all radio buttons with the name 'brandType'
+                 // Get all radio buttons with the name 'brandType'
                 const radioButtons = document.querySelectorAll('#radioOutright input[name="brandType"]');
 
                 // Add the event listener to each radio button
@@ -110,10 +114,13 @@
     <div id="mySidenav" class="sidenav">
         <div class="image-wrapper">
             <img src="./Graphics/RTRG.jpg" alt="RTRG">
+            <select id="dateScope" name="dateScope" >
+                <option value="Oct 2024">October 1-6, 2024</option>
+                <option value="Sep 2024">September 1-30, 2024</option>
+            </select>
         </div>
         <hr>
         
-        <!-- <a href="#weeklyChart" onclick="toggleNav()">Weekly</a> -->
         <a href="#weeklyChart" onclick="toggleNav()">Weekly Sales Comparison</a>
         <a href="#dailyChart" onclick="toggleNav()">Daily Sales Trends</a>
         <!-- <a style="pointer-events: none" href="#dailyChart" onclick="toggleNav()">Hourly</a> -->
@@ -126,7 +133,7 @@
         <hr>
         <a href="#logout" onclick="logout()">Log Out</a>
         
- A   </div>
+    </div>
 
     <div id="main">
         <div class="dataFilter">
@@ -147,8 +154,7 @@
             <input type="checkbox" id="check" name="chkMultiStore" onclick="toggleInput()">
             <label id='chkLabel' for="check">Select Multiple Stores</label>
             <input type="text" id="multiStore" name="multiStore" 
-                onclick="dropListStore()"
-                placeholder="Select from Store List to filter group of related stores">
+                placeholder="Select store from Store List one at a time">
         </div>
 
         <div id="weeklyChart" class="chart-container weeklyChart">
@@ -263,6 +269,11 @@
     <script>
         document.getElementById('multiStore').readOnly= true;         
 
+        const dateScope=document.getElementById('dateScope');         
+        let dateCovered=dateScope.value.toUpperCase()
+        dateScope.addEventListener('change', () => {
+            fetchData()
+        })
 
         function toggleInput() {
             const dropList=document.getElementById('storeNames')
@@ -315,7 +326,7 @@
     <script src="ytdChart.js"></script>
 
     <script>
-        toggleNav() //Init Side Nav
+        //toggleNav() //Init Side Nav
 
         // Global variables
         let myChart1 = null;
@@ -328,10 +339,18 @@
         let myChart8 = null;
 
         let chartData = [];
-        const dataSource1='./Data/DB_DAILYSALES.json'
-        
+
         // Function to fetch JSON data
         async function fetchData() {
+            const dateScope=document.getElementById('dateScope');    
+            dateCovered=dateScope.value.toUpperCase()     
+            let dataSource1 = './Data/DB_DAILYSALES.json';
+            if (dateCovered==='OCT 2024') {
+                dataSource1 = './Data/DB_DAILYSALES.json';
+            } else {
+                dataSource1 = './Data/DB_DAILYSALES_SEP.json';
+            }
+            console.log(dateCovered,dataSource1,'fetchData()')
             try {
                 const salesResponse = await fetch(dataSource1);
                 if (!salesResponse.ok) throw new Error('Network response was not ok');

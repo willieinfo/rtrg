@@ -1,30 +1,31 @@
 async function fetchBrandSales(selectedStore = '', selectedGroup = '', selectedType = '') {
-
-    const dataSource = './Data/DB_BRANDSALE.json';
+    const dateScope=dateCovered.toUpperCase()
+    let dataSource = './Data/DB_BRANDSALE.json';
+    if (dateScope==='OCT 2024') {
+        dataSource = './Data/DB_BRANDSALE.json';
+    } else {
+        dataSource = './Data/DB_BRANDSALE_SEP.json';
+    }
     try {
         const response = await fetch(dataSource);
         if (!response.ok) throw new Error('Network response was not ok');
         const brandData = await response.json();
 
         const brandMap = {};
-        //multiStore=['BBW T3 LANDSIDE', 'VS T3 LANDSIDE']
-        //console.log(multiStore,'Willie')
         brandData.forEach(item => {
             const storeName = item.storname.trim(); // Trim spaces
             
-            // Check if multiStore is populated and if the store is included
             if (multiStore.length > 0 && !multiStore.includes(storeName)) {
-                // console.log(`Skipping: ${storeName} (not in multiStore)`);
                 return; // Skip this entry if the store is not in the multiStore
             }
-            // Apply filters based on selectedGroup and selectedStore
             if (selectedGroup && selectedGroup !== 'All Business Group' && item.storegrp !== selectedGroup) {
-                // console.log(`Skipping: ${storeName} (group mismatch)`);
                 return; // Skip if the group doesn't match
             }
             if (selectedStore && selectedStore !== 'All Stores' && storeName !== selectedStore) {
-                // console.log(`Skipping: ${storeName} (store mismatch)`);
                 return; // Skip if the selected store doesn't match
+            }
+            if (selectedType && selectedType !== 'All Types' && selectedType !== item.outright) {
+                return; 
             }
         
             if (!brandMap[item.brandnme]) {
