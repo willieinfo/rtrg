@@ -78,7 +78,7 @@ option {
 
 .sidenav {
     height: 100%;
-    width: 0px; 
+    width: 200px; 
     position: fixed;
     top: 0;
     left: 0;
@@ -91,6 +91,7 @@ option {
     padding: 0px; /*sideNav is initially closed */
     box-sizing: border-box; /* Include padding and border in width */
 }
+
 
 .sidenav .image-wrapper {
     display: flex; /* Flexbox for centering */
@@ -281,11 +282,10 @@ footer img {
         font-size: 16px;
 
     }
-    #mySidenav {
+    /* #mySidenav {
         width: 0; 
         background-color: blue;
-    }
-
+    } */
 
 }
 
