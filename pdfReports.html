@@ -51,6 +51,10 @@
         .excelBtn {
             background-color: rgb(0,128,64);
         }        
+        .excelBtn:hover {
+            background-color: rgb(145, 240, 192);
+            color: black;
+        }        
 
         .material-icons {
             margin-right: 8px;      
@@ -107,7 +111,7 @@
         <i class="material-icons">arrow_back</i>Go back</button>
     <div id="pdfSlide" class="w3-content w3-display-container w3-bottombar w3-border-black">
         <div class="subTitle">
-            <h5 class>PDF Reports</h5>
+            <h5>PDF Reports</h5>
             <button class="excelBtn"
                 onclick="printExcel()">
                 <i style="font: size 16px; margin-right: 10px" class="fa" >&#xf1c3;</i>Excel</button>
@@ -139,8 +143,8 @@
     <script src="printToExcel.js"></script>    
     <script>
         // const reportScope=document.getElementById('dateScope').innerHTML
-        const dateScope=document.getElementById('dateScope');    
-        dateCovered=dateScope.value.toUpperCase()     
+        // const dateScope=document.getElementById('dateScope');    
+        // dateCovered=dateScope.value.toUpperCase()     
 
         function printExcel() {
             const pdfReports=document.getElementsByClassName("pdfReport")

@@ -21,7 +21,7 @@ function setDailyChart(selectedStore = '',selectedGroup = '') {
         return entryDate >= minDate && entryDate <= maxDate;
     });
 
-    console.log(multiStore)
+    //console.log(multiStore)
     filteredData.forEach(entry => {
         const dayName = new Date(entry.date____);
         const dayOfWeek = dayNames[dayName.getDay()];
@@ -49,7 +49,7 @@ function setDailyChart(selectedStore = '',selectedGroup = '') {
 
         backgroundColors.push(dayName.getDay() === 0 ? 'rgba(255,0,0,0.2)' : 'rgba(75, 192, 192, 0.2)');
         // borderWidth.push(dayName.getDate() === 1 ? 2 : 1);
-        borderWidth.push(dayName.getDate() === 1 ? 1 : 1);
+        borderWidth.push(dayName.getDate() === 1 ? 2 : 1);
         borderColor.push(dayName.getDate() === 1 ? 'rgb(0,0,0)' : 'rgba(75, 192, 192, 1)');
     });
 

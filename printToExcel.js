@@ -1,5 +1,6 @@
 async function printToExcel(reportName) {
-
+    const dateCovered = localStorage.getItem('dateCovered')
+    
     switch(reportName) {
         case 'summary':
             let dataSource = "./Data/DB_SUMMARY.json";
@@ -8,7 +9,6 @@ async function printToExcel(reportName) {
             } else {
                 dataSource = './Data/DB_SUMMARY_SEP.json';
             }
-        
             const cFileName1 = "RTRG Summary Sales.xlsx";
             
             const HEADER1_ROW = [
@@ -45,10 +45,11 @@ async function printToExcel(reportName) {
             } else {
                 dataSource2 = './Data/DB_WEB_DATA_SEP.json';
             }
+            // console.log(dataSource2)
 
             try {
                 const dailySales = await printDailySales(dataSource2);
-                console.log(dailySales);
+                // console.log(dailySales);
         
                 const DAILY_ROWS = await createDetailRows(dailySales);
                 if (!DAILY_ROWS) return;  // Exit if there was an error
