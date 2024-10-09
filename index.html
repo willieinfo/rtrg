@@ -83,12 +83,21 @@
         .closebtn {
             color: white;
             background-color: black;
-            display: none;
-            width: 100%;
-            text-align: right;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: none;
             margin-top: 0px;
-            padding-top: 0px;
-            padding-bottom: 10px;
+            margin-bottom: 5px;
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            cursor: pointer;
+            font-size: 20px;
+        }
+        
+        .closebtn:hover {
+            background-color: rgb(128,128,128);
         }
 
         
@@ -121,7 +130,10 @@
 </head>
 <body>
     <div id="mySidenav" class="sidenav">
-        <button class="closebtn" onclick="toggleNav()">X Close</button>
+        <div style="width: 100%; display: flex; justify-content: flex-end; margin-top: 0px; padding-top: 0px;">
+            <button class="closebtn" onclick="toggleNav()">&times</button>
+        </div>
+        
         <div class="image-wrapper">
             <img src="./Graphics/RTRG.jpg" alt="RTRG">
             <select id="dateScope" name="dateScope" >
