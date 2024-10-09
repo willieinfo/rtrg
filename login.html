@@ -78,6 +78,21 @@
             background-color: rgb(83,83,83);
         }
 
+        .greetings {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            font-family: 'Times New Roman', Times, serif;
+            font-style: italic;
+            color: rgba(128, 128, 128);
+        }
+
+        /* #todayIs {
+            font-style: normal;
+            font-family :Arial, Helvetica, sans-serif;
+        } */
+
         .loginSection {
             width: 20%;
             min-width: 300px;
@@ -166,6 +181,7 @@
             margin: 1px;
         }
 
+
         /* Media queries for responsiveness */
         @media (max-width: 768px) {
             .container {
@@ -227,8 +243,16 @@
         <section class="loginSection">
             <div class="loginForm">
                 <form onsubmit="validateLogin(event)">
+                    <div class="greetings">
+                        <span id="greeting">Greetings!</span>
+                        <span>Today is 
+                            <em id="todayIs"></em>
+                        </span>
+                    </div>
+                    <br>
+
                     <label for="username">Username:</label>
-                    <input type="text" id="username" name="username" required>
+                    <input type="text" id="username" name="username" >
                     <br>
                     <label for="password">Password:</label>
                     <div class="password-container">
@@ -245,6 +269,38 @@
             
     </div>
     <script>
+        const todaysDate=new Date(Date())
+        const timeIs=todaysDate.getHours()
+        
+        const greeting = document.getElementById('greeting')
+        greeting.innerText = greetTime(timeIs)
+
+        const todayIs = document.getElementById('todayIs')
+        
+        const dayName = todaysDate.toLocaleString('en-US', { weekday: 'long' });
+        todayIs.innerText=' '+formatDateDayName(todaysDate)+'-'+dayName
+
+        function formatDateDayName(date) {
+            const month = String(date.getMonth() + 1).padStart(2, '0');
+            const day = String(date.getDate()).padStart(2, '0');
+            return `${month}/${day}`;
+        }
+
+        function greetTime(timeNow) {
+            let greeting=''
+            const hour = parseInt(timeNow, 10); // Convert the input to an integer
+
+            if (hour >= 0 && hour <= 11) {
+                greeting = 'Good morning';
+            } else if (hour >= 12 && hour <= 18) {
+                greeting = 'Good afternoon';
+            } else {
+                greeting = 'Good evening';
+            }            
+
+            return greeting+' RTRG!';
+        }
+
         const togglePassword = document.getElementById('togglePassword');
         const passwordInput = document.getElementById('password');
 
@@ -266,27 +322,21 @@
             const cPassDate = new Date();
             let cPassDay = cPassDate.getDate().toString().padStart(2, "0");
             let cPassMonth = (cPassDate.getMonth() + 1).toString().padStart(2, "0");
-            userPass = 'RTRG-' + cPassMonth + cPassDay;
+            userPass = (cPassMonth + cPassDay).toUpperCase()
 
-            console.log(password.trim());  // Correctly format the password
-            console.log(userPass);  // Log the userPass
+            // console.log(password.trim());  // Correctly format the password
+            // console.log(userPass);  
+            
 
             // Check login credentials
-            if (password.trim().toUpperCase() === userPass.toUpperCase()) {
+            if (password.trim().toUpperCase() === 'RTRG-'+userPass || 
+                password.trim().toUpperCase() === 'RTRG'+userPass ) {
                 sessionStorage.setItem('loggedIn', 'true');
                 window.location.href = 'index.html';
+                // alert('Login Successful');
             } else {
                 alert('Login failed');
             }
-        }
-
-        function cancelLogin() {
-            // Called from a cancel button if there is one
-            // Clear session storage if needed
-            sessionStorage.removeItem('loggedIn');
-            // Redirect to another page or close the login form
-            // For example, redirecting to a homepage
-            window.location.href = 'home.html'; // Change 'home.html' to the page you want to redirect to
         }
 
         // function togglePasswordVisibility() {
