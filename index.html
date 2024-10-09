@@ -79,7 +79,16 @@
             margin-top: 5px; 
         }
 
-
+        .closebtn {
+            color: white;
+            background-color: black;
+            display: none;
+            width: 100%;
+            text-align: right;
+            margin-top: 0px;
+            padding-top: 0px;
+            padding-bottom: 10px;
+        }
 
         
     </style>
@@ -111,6 +120,7 @@
 </head>
 <body>
     <div id="mySidenav" class="sidenav">
+        <button class="closebtn" onclick="toggleNav()">X Close</button>
         <div class="image-wrapper">
             <img src="./Graphics/RTRG.jpg" alt="RTRG">
             <select id="dateScope" name="dateScope" >
@@ -302,6 +312,7 @@
             const sidenav = document.getElementById("mySidenav");
             const main = document.getElementById("main");
             const openbtn = document.querySelector(".openbtn");
+            const closebtn = document.querySelector(".closebtn");
 
             if (sidenav.style.width === "200px") {
                 sidenav.style.width = "0";
@@ -309,7 +320,6 @@
                 openbtn.textContent = "☰ Open";
                 openbtn.classList.remove("open");
                 sidenav.style.padding= '0px'; 
-
             } else {
                 sidenav.style.width = "200px";
                 main.style.marginLeft = "200px";
@@ -318,18 +328,25 @@
                 sidenav.style.padding= '20px'; 
             }
 
-            // Add a resize event listener to handle window resizing
-        window.addEventListener("resize", function() {
-            const sidenav = document.getElementById("mySidenav");
-
-            // When the viewport width is smaller than 768px, automatically close the sidenav
             if (window.innerWidth < 768) {
-                sidenav.style.width = "0";  // Close sidenav
-                sidenav.style.padding= '0px'; 
-                openbtn.textContent = "☰ Open";
-                document.getElementById("main").style.marginLeft = "0";  // Reset main margin
+                closebtn.style.display = 'block' ;
+            } else {
+                closebtn.style.display = 'none' ;
             }
-        });
+
+            // Add a resize event listener to handle window resizing
+            window.addEventListener("resize", function() {
+                const sidenav = document.getElementById("mySidenav");
+
+                // When the viewport width is smaller than 768px, automatically close the sidenav
+                if (window.innerWidth < 768) {
+                    sidenav.style.width = "0";  // Close sidenav
+                    sidenav.style.padding= '0px'; 
+                    openbtn.textContent = "☰ Open";
+                    document.getElementById("main").style.marginLeft = "0";  // Reset main margin
+                }
+            });
+
 
         }
     </script>
