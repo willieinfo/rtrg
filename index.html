@@ -98,6 +98,8 @@
         
         .closebtn:hover {
             background-color: rgb(128,128,128);
+            /* border: .5px solid;
+            border-color: white; */
         }
 
         
@@ -121,6 +123,7 @@
             }
         };
 
+        
         function logout() {
             sessionStorage.removeItem('loggedIn'); // Clear login state
             window.location.href = 'login.html'; // Redirect to login page
@@ -131,7 +134,7 @@
 <body>
     <div id="mySidenav" class="sidenav">
         <div style="width: 100%; display: flex; justify-content: flex-end; margin-top: 0px; padding-top: 0px;">
-            <button class="closebtn" onclick="toggleNav()">&times</button>
+            <button class="closebtn" onclick="toggleNav()">x</button>
         </div>
         
         <div class="image-wrapper">
@@ -356,7 +359,8 @@
                     sidenav.style.width = "0";  // Close sidenav
                     sidenav.style.padding= '0px'; 
                     openbtn.textContent = "☰ Open";
-                    document.getElementById("main").style.marginLeft = "0";  // Reset main margin
+                    // Reset main margin
+                    document.getElementById("main").style.marginLeft = "0";  
                 }
             });
 
@@ -399,7 +403,7 @@
             } else {
                 dataSource1 = './Data/DB_DAILYSALES_SEP.json';
             }
-            console.log(dateCovered,dataSource1,'fetchData()')
+            // console.log(dateCovered,dataSource1,'fetchData()')
             try {
                 const salesResponse = await fetch(dataSource1);
                 if (!salesResponse.ok) throw new Error('Network response was not ok');
@@ -451,6 +455,8 @@
                 const seenGroupNames = new Set();
                 const seenStoreNames = new Set();
 
+                // const sortedStoreNames = Array.from(seenStoreNames).sort();
+
                 storeData = {}; // Reset the data structure
 
                 optionData.forEach(data => {
@@ -473,7 +479,20 @@
                         }
                         storeData[data.storegrp].push(data.storname);
                     }
+
+                    // if (!sortedStoreNames.has(data.storname)) {
+                    //     sortedStoreNames.add(data.storname);
+
+                    //     if (!storeData[data.storegrp]) {
+                    //         storeData[data.storegrp] = [];
+                    //     }
+                    //     storeData[data.storegrp].push(data.storname);
+                    // }
+
+
                 });
+
+                //console.log(seenStoreNames)
 
                 // Event listener for storeGroup change
                 listGrup.addEventListener('change', () => {
@@ -510,12 +529,12 @@
 
                         });
                     
-                    // Update the multiStore array
-                    // Add new selections to the array, avoiding duplicates
-                    multiStore = [...new Set([...multiStore, ...selectedOptions])]; 
+                        // Update the multiStore array
+                        // Add new selections to the array, avoiding duplicates
+                        multiStore = [...new Set([...multiStore, ...selectedOptions])]; 
 
-                    // Join the array into a string and update the input value
-                    inputMultiStore.value = multiStore.join(', ');
+                        // Join the array into a string and update the input value
+                        inputMultiStore.value = multiStore.join(', ');
                     } else {
                         // Clear the input if the checkbox is unchecked
                         inputMultiStore.value = ""; 
@@ -611,5 +630,23 @@
 
         fetchData();
     </script>
+
+    <script>
+        function checkOrientation() {
+            const landscapeMediaQuery = window.matchMedia("(orientation: landscape)");
+            const mobileMediaQuery = window.matchMedia("(max-width: 600px)"); // Adjust the width as needed
+
+            if (mobileMediaQuery.matches && !landscapeMediaQuery.matches) {
+                // User is on mobile and not in landscape
+                alert("Please rotate your device to landscape mode for a better view.");
+            }
+        }
+
+        // Check on resize and load
+        window.addEventListener("resize", checkOrientation);
+        window.addEventListener("load", checkOrientation);
+
+    </script>
+
 </body>
 </html>
