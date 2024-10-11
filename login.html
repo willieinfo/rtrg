@@ -272,7 +272,7 @@
         function validateLogin(event) {
             event.preventDefault(); // Prevent form submission
 
-            const username = document.getElementById('username').value;
+            const username = document.getElementById('username').value.toUpperCase();
             const password = document.getElementById('password').value;
 
             let userPass = '';
