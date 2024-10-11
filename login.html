@@ -242,43 +242,84 @@
 
         <section class="loginSection">
             <div class="loginForm">
-                <form onsubmit="validateLogin(event)">
+                <form id="login-form">
                     <div class="greetings">
                         <span id="greeting">Greetings!</span>
-                        <span>Today is 
-                            <em id="todayIs"></em>
-                        </span>
+                        <span>Today is <em id="todayIs"></em></span>
                     </div>
                     <br>
-
                     <label for="username">Username:</label>
-                    <input type="text" id="username" name="username" >
+                    <input type="text" id="username" name="username" required minlength="3">
                     <br>
                     <label for="password">Password:</label>
                     <div class="password-container">
                         <input type="password" id="password" name="password" required>
                         <i class="material-icons toggle-visibility" id="togglePassword">visibility</i>
                     </div>
-                    <!-- <input type="checkbox" id="showPassword" class="show-password" onclick="togglePasswordVisibility()">
-                    <label for="showPassword" >Show Password</label>                     -->
                     <br>
                     <button type="submit"><i class="material-icons">person</i>Login</button>
                 </form>
             </div>
         </section>
+        
             
     </div>
-    <script>
-        const todaysDate=new Date(Date())
-        const timeIs=todaysDate.getHours()
-        
-        const greeting = document.getElementById('greeting')
-        greeting.innerText = greetTime(timeIs)
+    <script type="module">
+        import { db } from './firebase-config.js';
+        import { collection, addDoc } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore.js";
 
-        const todayIs = document.getElementById('todayIs')
+        // Validate login function
+        function validateLogin(event) {
+            event.preventDefault(); // Prevent form submission
+
+            const username = document.getElementById('username').value;
+            const password = document.getElementById('password').value;
+
+            let userPass = '';
+            const cPassDate = new Date();
+            let cPassDay = cPassDate.getDate().toString().padStart(2, "0");
+            let cPassMonth = (cPassDate.getMonth() + 1).toString().padStart(2, "0");
+            userPass = (cPassMonth + cPassDay).toUpperCase();
+
+            // Check login credentials
+            if (password.trim().toUpperCase() === 'RTRG-' + userPass || 
+                password.trim().toUpperCase() === 'RTRG' + userPass) {
+                sessionStorage.setItem('loggedIn', 'true');
+
+                // const date____ = new Date().toISOString(); // Get the current date in ISO format
+                const date____ = new Date().toLocaleString()
+
+                // Post to Firestore
+                addDoc(collection(db, 'Visitors'), {
+                    UserName: username,
+                    Date: date____ // Changed to "Date" for consistency
+                })
+                .then(() => {
+                    console.log('Visitor data added successfully!');
+                    window.location.href = 'index.html'; // Redirect after successful addition
+                })
+                .catch((error) => {
+                    console.error('Error adding visitor data:', error);
+                });
+
+            } else {
+                alert('Login failed');
+            }
+        }
+
+        // Attach the validateLogin function to the form submission
+        document.getElementById('login-form').addEventListener('submit', validateLogin);
+
+        // Today's date and greeting logic
+        const todaysDate = new Date();
+        const timeIs = todaysDate.getHours();
         
+        const greeting = document.getElementById('greeting');
+        greeting.innerText = greetTime(timeIs);
+
+        const todayIs = document.getElementById('todayIs');
         const dayName = todaysDate.toLocaleString('en-US', { weekday: 'long' });
-        todayIs.innerText=' '+formatDateDayName(todaysDate)+'-'+dayName
+        todayIs.innerText = ' ' + formatDateDayName(todaysDate) + '-' + dayName;
 
         function formatDateDayName(date) {
             const month = String(date.getMonth() + 1).padStart(2, '0');
@@ -287,7 +328,7 @@
         }
 
         function greetTime(timeNow) {
-            let greeting=''
+            let greeting = '';
             const hour = parseInt(timeNow, 10); // Convert the input to an integer
 
             if (hour >= 0 && hour <= 11) {
@@ -298,9 +339,10 @@
                 greeting = 'Good evening';
             }            
 
-            return greeting+' RTRG!';
+            return greeting + ' RTRG!';
         }
 
+        // Password toggle logic
         const togglePassword = document.getElementById('togglePassword');
         const passwordInput = document.getElementById('password');
 
@@ -309,47 +351,6 @@
             passwordInput.setAttribute('type', type);
             this.textContent = type === 'password' ? 'visibility' : 'visibility_off';
         });
-    </script>
-
-    <script>
-        function validateLogin(event) {
-            event.preventDefault(); // Prevent form submission
-                 
-            const username = document.getElementById('username').value;
-            const password = document.getElementById('password').value;
-            
-            let userPass=''
-            const cPassDate = new Date();
-            let cPassDay = cPassDate.getDate().toString().padStart(2, "0");
-            let cPassMonth = (cPassDate.getMonth() + 1).toString().padStart(2, "0");
-            userPass = (cPassMonth + cPassDay).toUpperCase()
-
-            // console.log(password.trim());  // Correctly format the password
-            // console.log(userPass);  
-            
-
-            // Check login credentials
-            if (password.trim().toUpperCase() === 'RTRG-'+userPass || 
-                password.trim().toUpperCase() === 'RTRG'+userPass ) {
-                sessionStorage.setItem('loggedIn', 'true');
-                window.location.href = 'index.html';
-                // alert('Login Successful');
-            } else {
-                alert('Login failed');
-            }
-        }
-
-        // function togglePasswordVisibility() {
-        //     const passwordInput = document.getElementById('password');
-        //     const showPasswordCheckbox = document.getElementById('showPassword');
-
-        //     if (showPasswordCheckbox.checked) {
-        //         passwordInput.type = 'text';
-        //     } else {
-        //         passwordInput.type = 'password';
-        //     }
-        // }
-
     </script>
 
 </body>

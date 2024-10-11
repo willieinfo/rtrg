@@ -658,5 +658,44 @@
 
     </script>
 
+    <script type="module">
+        import { db } from './firebase-config.js';
+        import { collection, getDocs, query, orderBy, where } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore.js";
+
+        // Function to format Date to 'MM/DD/YYYY, HH:mm:ss AM/PM'
+        function formatDateToLocaleString(date) {
+            const options = { 
+                year: 'numeric', 
+                month: '2-digit', 
+                day: '2-digit', 
+                hour: '2-digit', 
+                minute: '2-digit', 
+                second: '2-digit', 
+                hour12: true 
+            };
+            return date.toLocaleString('en-US', options);
+        }
+        const startDate = formatDateToLocaleString(new Date('2024-10-11'));
+        const endDate = formatDateToLocaleString(new Date('2024-10-22'));
+
+        async function fetchVisitorsInDateRange(startDate, endDate) {
+            const visitorsQuery = query(
+                collection(db, 'Visitors'),
+                where('Date', '>=', startDate), 
+                where('Date', '<=', endDate),
+                orderBy('Date', 'desc')
+            );
+
+            const querySnapshot = await getDocs(visitorsQuery);
+
+            querySnapshot.forEach((doc) => {
+                const data = doc.data();
+                console.log(`UserName: ${data.UserName}, Date: ${data.Date}`);
+            });
+        }
+
+        fetchVisitorsInDateRange(startDate, endDate);
+    </script>
+
 </body>
 </html>
