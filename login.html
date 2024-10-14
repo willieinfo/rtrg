@@ -287,21 +287,24 @@
                 sessionStorage.setItem('loggedIn', 'true');
 
                 // const date____ = new Date().toISOString(); // Get the current date in ISO format
-                const date____ = new Date().toLocaleString()
+                const date = new Date().toLocaleString()
 
                 // Post to Firestore
-                addDoc(collection(db, 'Visitors'), {
-                    UserName: username,
-                    Date: date____ // Changed to "Date" for consistency
-                })
-                .then(() => {
-                    console.log('Visitor data added successfully!');
-                    window.location.href = 'index.html'; // Redirect after successful addition
-                })
-                .catch((error) => {
-                    console.error('Error adding visitor data:', error);
-                });
-
+                if (!username.toUpperCase()==='WPE') {
+                    addDoc(collection(db, 'Visitors'), {
+                        UserName: username,
+                        Date: date
+                    })
+                    .then(() => {
+                        console.log('Visitor data added successfully!');
+                        window.location.href = 'index.html'; // Redirect after successful addition
+                    })
+                    .catch((error) => {
+                        console.error('Error adding visitor data:', error);
+                    });
+                } else {
+                    window.location.href = 'index.html'; 
+                }
             } else {
                 alert('Login failed');
             }
