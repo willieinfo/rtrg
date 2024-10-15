@@ -290,13 +290,12 @@
                 const date = new Date().toLocaleString()
 
                 // Post to Firestore
-                if (!username.toUpperCase()==='WPE') {
+                if (!(username.toUpperCase()==='WPE')) {
                     addDoc(collection(db, 'Visitors'), {
                         UserName: username,
                         Date: date
                     })
                     .then(() => {
-                        console.log('Visitor data added successfully!');
                         window.location.href = 'index.html'; // Redirect after successful addition
                     })
                     .catch((error) => {
