@@ -87,6 +87,10 @@
 "storegrp": "RESTO"
 },
 {
+"storname": "ILLY CAFE- OPUS MALL",
+"storegrp": "RESTO"
+},
+{
 "storname": "KRISPY KREME CSP2",
 "storegrp": "FRANCHISE STORES"
 },
@@ -236,6 +240,10 @@
 },
 {
 "storname": "WH SMITH BICOL",
+"storegrp": "FOOD CONVENIENCE  GIFTING"
+},
+{
+"storname": "AIRMALL BOHOL",
 "storegrp": "FOOD CONVENIENCE  GIFTING"
 },
 {
