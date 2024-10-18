@@ -18,6 +18,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="stylesheet" href="chart.css">
+    <link rel="stylesheet" href="salesStat.css">
     <style>
         /* Hide the content initially */
         body {
@@ -192,7 +193,47 @@
                 placeholder="Select store from Store List one at a time">
         </div>
 
-
+        <div class="salesStats">
+            <div class="statGroup">
+                <div class="statTitle">Current</div>
+                <div class="statRow">
+                    <span>Sales:</span>
+                    <label id="curramt_">99,999,999</label>
+                    <span>ATV:</span>
+                    <label id="atv_____">0.00</label>
+                    <span>GP%:</span>
+                    <label id="gp_pct__">0%</label>
+                </div>
+            </div>
+            <div class="statGroup">
+                <div class="statTitle">Prev Year</div>
+                <div class="statRow">
+                    <span>Sales:</span>
+                    <label id="lastamt_">99,999,999</label>
+                    <span>Inc/Dec%:</span>
+                    <label id="incdec_p">0%</label>
+                </div>
+            </div>
+            <div class="statGroup">
+                <div class="statTitle">Last Month</div>
+                <div class="statRow">
+                    <span>Sales:</span>
+                    <label id="lmontamt">99,999,999</label>
+                    <span>Inc/Dec%:</span>
+                    <label id="incdec_m">0%</label>
+                </div>
+            </div>
+            <div class="statGroup">
+                <div class="statTitle">Pre Pandemic</div>
+                <div class="statRow">
+                    <span>Sales:</span>
+                    <label id="lmon2amt">99,999,999</label>
+                    <span>Inc/Dec%:</span>
+                    <label id="incdec_c">0%</label>
+                </div>
+            </div>
+        </div>  <!--salesStat-->
+    
         <!-- Chart Canvass Starts here -->
         <div id="weeklyChart" class="chart-container weeklyChart">
             <canvas id="myChart2"></canvas>
@@ -382,7 +423,8 @@
 
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-datalabels/2.0.0/chartjs-plugin-datalabels.min.js"></script> -->
-
+    <script defer src="salesStat.js"></script>
+    
     <script src="dailyChart.js"></script>
     <script src="weeklyChart.js"></script>
     <script src="brandChart.js"></script>
@@ -391,8 +433,11 @@
     <script src="ytdChart.js"></script>
 
     <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            setSalesStat(); // Replace with your actual function name
+        });        
         //toggleNav() //Init Side Nav
-
+        
         // Global variables
         let myChart1 = null;
         let myChart2 = null;
@@ -428,6 +473,7 @@
                 setStoreChart(); 
                 fetchBrandSales();
                 setYTDChart();
+                setSalesStat();
                 document.getElementById("btnRefresh").disabled = true;
                 updateButtonState()
 
@@ -630,6 +676,7 @@
                 const listGrup = document.getElementById('storeGroup')
                 const cStorName = listStor.value;
                 const cStorGrup = listGrup.value;
+                setSalesStat(cStorName,cStorGrup);
                 setDailyChart(cStorName,cStorGrup);
                 setWeeklyChart(cStorName,cStorGrup);
                 setHourlyChart(cStorName,cStorGrup);
