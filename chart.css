@@ -88,7 +88,7 @@ option {
     padding-top: 20px;
     z-index: 2000;
     font-size: 12px; 
-    padding: 0px; /*sideNav is initially closed */
+    padding: 20px; /*sideNav is initially open */
     box-sizing: border-box; /* Include padding and border in width */
 }
 
@@ -189,6 +189,14 @@ option {
 
 /* style for storeChart */
 #storeChart {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 700px;
+}
+
+#ytdChart {
     width: 100%;
     display: flex;
     justify-content: space-between;
