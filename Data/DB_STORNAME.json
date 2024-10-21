@@ -15,6 +15,10 @@
 "storegrp": "FRANCHISE STORES"
 },
 {
+"storname": "AIRMALL BOHOL",
+"storegrp": "FOOD CONVENIENCE  GIFTING"
+},
+{
 "storname": "AIRMALL ILOILO",
 "storegrp": "FOOD CONVENIENCE  GIFTING"
 },
@@ -83,11 +87,11 @@
 "storegrp": "OUTLETS"
 },
 {
-"storname": "ILLY CAFE- ROCKWELL",
+"storname": "ILLY CAFE- OPUS MALL",
 "storegrp": "RESTO"
 },
 {
-"storname": "ILLY CAFE- OPUS MALL",
+"storname": "ILLY CAFE- ROCKWELL",
 "storegrp": "RESTO"
 },
 {
@@ -131,6 +135,10 @@
 "storegrp": "OUTLETS"
 },
 {
+"storname": "SHOPEE",
+"storegrp": "ECOMMERCE"
+},
+{
 "storname": "SLEX",
 "storegrp": "OUTLETS"
 },
@@ -144,10 +152,6 @@
 },
 {
 "storname": "SUBIC FREEPORT",
-"storegrp": "OUTLETS"
-},
-{
-"storname": "TRAVEL HUB BATANGAS",
 "storegrp": "OUTLETS"
 },
 {
@@ -179,12 +183,12 @@
 "storegrp": "FOOD CONVENIENCE  GIFTING"
 },
 {
-"storname": "THE SHOPPES LEFT WING",
+"storname": "THE SHOPPES T3 LANDSIDE",
 "storegrp": "ATHLEISURE"
 },
 {
-"storname": "THE SHOPPES T3 LANDSIDE",
-"storegrp": "ATHLEISURE"
+"storname": "TRAVEL HUB BATANGAS",
+"storegrp": "OUTLETS"
 },
 {
 "storname": "VS T3 DOM",
@@ -199,11 +203,7 @@
 "storegrp": "FOOD CONVENIENCE  GIFTING"
 },
 {
-"storname": "WH SMITH CEBU T1 DDL",
-"storegrp": "FOOD CONVENIENCE  GIFTING"
-},
-{
-"storname": "WH SMITH CEBU T1 DPD06",
+"storname": "WH SMITH BICOL",
 "storegrp": "FOOD CONVENIENCE  GIFTING"
 },
 {
@@ -211,11 +211,7 @@
 "storegrp": "FOOD CONVENIENCE  GIFTING"
 },
 {
-"storname": "WH SMITH CEBU T2 ARR",
-"storegrp": "FOOD CONVENIENCE  GIFTING"
-},
-{
-"storname": "WH SMITH CEBU T2 DEP",
+"storname": "WH SMITH CLARK IPD",
 "storegrp": "FOOD CONVENIENCE  GIFTING"
 },
 {
@@ -236,18 +232,6 @@
 },
 {
 "storname": "WH SMITH T3 INTL (S12)",
-"storegrp": "FOOD CONVENIENCE  GIFTING"
-},
-{
-"storname": "WH SMITH CLARK IPD",
-"storegrp": "FOOD CONVENIENCE  GIFTING"
-},
-{
-"storname": "WH SMITH BICOL",
-"storegrp": "FOOD CONVENIENCE  GIFTING"
-},
-{
-"storname": "AIRMALL BOHOL",
 "storegrp": "FOOD CONVENIENCE  GIFTING"
 },
 {
