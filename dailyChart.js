@@ -16,6 +16,17 @@ function setDailyChart(selectedStore = '',selectedGroup = '') {
     const minDate = new Date(maxDate);
     minDate.setDate(minDate.getDate() - 31);
 
+    // Dynamically update the dateScope innerText first option
+    const options = { month: 'short', day: 'numeric', year: 'numeric' };
+    const maxDateString = maxDate.toLocaleDateString('en-US', options);
+    const displayText = `${maxDateString.split(' ')[0]} ${1}-${maxDate.getDate()}, ${maxDate.getFullYear()}`;
+    // Update the first option in the select element
+    const selectElement = document.getElementById('dateScope');
+    if (selectElement.options.length > 0) {
+        selectElement.options[0].text = displayText; // Change the first option's text
+    }
+
+
     const filteredData = chartData.filter(entry => {
         const entryDate = new Date(entry.date____);
         return entryDate >= minDate && entryDate <= maxDate;

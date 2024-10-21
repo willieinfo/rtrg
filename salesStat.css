@@ -1,0 +1,73 @@
+.salesStats {
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    overflow:auto;
+
+    position: sticky;
+    top: 90px; /* Should be lower than Multistore */
+    z-index: 999; 
+
+}
+.statGroup {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid;
+    padding: 10px;
+    flex: 1;
+    font-family: Tahoma, Geneva, Verdana;
+    font-size: 12px;
+}
+.statGroup:first-child {
+    flex: 1.5; /* Make the first statGroup larger */
+}
+.divTitle {
+    text-align: center; /* Center the title */
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.statTitle {
+    text-align: center; /* Center the title */
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.subTitle {
+    display: flex; /* Display subtitles in a row */
+    justify-content: space-around; /* Space evenly */
+    margin: 2px 0; /* Add some margin for spacing */
+}
+.statRow {
+    display: inline-flex; /* Flex for row layout */
+    justify-content: space-around; /* Space evenly */
+    margin-bottom: 5px;
+    font-size: 12px; /* Default font size */
+}
+
+@media (max-width: 1200px) {
+    .salesStats {
+        flex-wrap: wrap; /* Allow wrapping */
+        position: initial;
+    }
+    .statGroup {
+        flex: 0 0 50%; /* Each statGroup takes 50% width (2 in a row) */
+        box-sizing: border-box; /* Include padding/border in width */
+    }
+}
+
+
+@media (max-width: 900px) {
+    .salesStats {
+        flex-direction: column;
+        position: initial;
+    }
+    .statRow {
+        font-size: 12px; 
+    }
+    .statTitle {
+        margin-top: 1px;
+        margin-bottom: 1px;
+    }
+    
+}

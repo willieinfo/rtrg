@@ -151,8 +151,8 @@
         <div class="image-wrapper">
             <img src="./Graphics/RTRG.jpg" alt="RTRG">
             <select id="dateScope" name="dateScope" >
-                <option value="Oct 2024">October 1-16, 2024</option>
-                <option value="Sep 2024">September 1-30, 2024</option>
+                <option value="Oct 2024">Dynamically Replaced</option>
+                <option value="Sep 2024">Sep 1-30, 2024</option>
             </select>
         </div>
         <hr>
@@ -165,7 +165,7 @@
         <a href="#storeChart" onclick="toggleNav()">Store Performance Contribution</a>
         <a href="#ytdChart" onclick="toggleNav()">YTD Monthly Sales Trends</a>
         <hr>
-        <a href="pdfReports.html" onclick="toggleNav()">PDF Reports</a>
+        <a href="pdfReports.html" onclick="toggleNav()">PDF File Attachments</a>
         <hr>
         <a href="#logout" onclick="logout()">Log Out</a>
         
@@ -195,7 +195,7 @@
 
         <div class="salesStats">
             <div class="statGroup">
-                <div class="statTitle">Current</div>
+                <div class="statTitle">Current Year</div>
                 <div class="statRow">
                     <span>Sales:</span>
                     <label id="curramt_">99,999,999</label>
@@ -206,7 +206,7 @@
                 </div>
             </div>
             <div class="statGroup">
-                <div class="statTitle">Prev Year</div>
+                <div class="statTitle">Previous Year</div>
                 <div class="statRow">
                     <span>Sales:</span>
                     <label id="lastamt_">99,999,999</label>
@@ -423,8 +423,8 @@
 
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-datalabels/2.0.0/chartjs-plugin-datalabels.min.js"></script> -->
-    <script defer src="salesStat.js"></script>
     
+    <script defer src="salesStat.js"></script>
     <script src="dailyChart.js"></script>
     <script src="weeklyChart.js"></script>
     <script src="brandChart.js"></script>
@@ -433,10 +433,9 @@
     <script src="ytdChart.js"></script>
 
     <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            setSalesStat(); // Replace with your actual function name
-        });        
-        //toggleNav() //Init Side Nav
+        // document.addEventListener("DOMContentLoaded", function() {
+        //     setSalesStat(); 
+        // });        
         
         // Global variables
         let myChart1 = null;
@@ -744,6 +743,11 @@
         }
 
         fetchVisitorsInDateRange(startDate, endDate);
+
+        document.addEventListener("DOMContentLoaded", function() {
+            setSalesStat(); 
+        });        
+
 
         // const visitorsRef = collection(db, 'Visitors');
         // onSnapshot(visitorsRef, (snapshot) => {

@@ -1,5 +1,9 @@
 async function setSalesStat(selectedStore = '', selectedGroup = '') {
-    const dataSource = "./Data/DB_SUMMARY.json";
+    if (dateCovered==='OCT 2024') {
+        dataSource = './Data/DB_SUMMARY.json';
+    } else {
+        dataSource = './Data/DB_SUMMARY_SEP.json';
+    }
 
     // Current Sale
     const nCurrAmt_ = document.getElementById('curramt_');
@@ -24,6 +28,7 @@ async function setSalesStat(selectedStore = '', selectedGroup = '') {
         const jsonData = await response.json();
 
         let n_CurrAmt_ = 0;
+        let n_CurrCos_ = 0;
         let n_ATV_____ = 0;
         let n_GP_Pct__ = 0;
 
@@ -52,19 +57,10 @@ async function setSalesStat(selectedStore = '', selectedGroup = '') {
                 return; 
             }
     
-    
-            // "storgrup": "FOOD CONVENIENCE  GIFTING",
-            // "storname": "SPACE38 CSP2 T3",
-            // "currtxn_":2487.00,
-            // "curramt_":2541456.50,
-            // "currcos_":1026949.34,
-            // "curre_gp":1514507.20,
-            // "lastamt_":2259971.71,
-            // "lmontamt":2760929.75,
-            // "lmon2amt":2345117.63
-
+  
             // Calculate Totals
             n_CurrAmt_ += entry.curramt_;
+            n_CurrCos_ += entry.currcos_;
             n_LastAmt_ += entry.lastamt_ || 0; // Ensure it's defined
             n_LMontAmt += entry.lmontamt || 0; // Ensure it's defined
             n_LMon2Amt += entry.lmon2amt || 0; // Ensure it's defined
@@ -74,16 +70,12 @@ async function setSalesStat(selectedStore = '', selectedGroup = '') {
                 n_ATV_____ += entry.curramt_ / entry.currtxn_;
             }
 
-            if (entry.currcos_) {
-                n_GP_Pct__ += ((entry.curramt_ - entry.currcos_) / entry.curramt_) * 100;
-            }
         });
 
         // Average ATV and GP% (assuming you're calculating averages here)
         n_ATV_____ /= jsonData.length; // Average ATV
-        n_GP_Pct__ /= jsonData.length; // Average GP%
 
-        // // Calculate Increase/Decrease percentages
+        // Calculate Increase/Decrease percentages
         // n_IncDec_p = ((n_CurrAmt_ - n_LastAmt_) / n_LastAmt_) * 100 || 0;
         // n_IncDec_m = ((n_CurrAmt_ - n_LMontAmt) / n_LMontAmt) * 100 || 0;
         // n_IncDec_c = ((n_CurrAmt_ - n_LMon2Amt) / n_LMon2Amt) * 100 || 0;
@@ -92,6 +84,15 @@ async function setSalesStat(selectedStore = '', selectedGroup = '') {
         n_IncDec_m = n_LMontAmt !== 0 ? ((n_CurrAmt_ - n_LMontAmt) / n_LMontAmt) * 100 : 0;
         n_IncDec_c = n_LMon2Amt !== 0 ? ((n_CurrAmt_ - n_LMon2Amt) / n_LMon2Amt) * 100 : 0;        
 
+        // Calculate Gross Profit percentage
+        n_GP_Pct__ = n_CurrAmt_ !== 0 ? ((n_CurrAmt_ - n_CurrCos_) / n_CurrAmt_) * 100 : 0;
+        // if (n_CurrAmt_!==0) {
+        //     n_GP_Pct__=((n_CurrAmt_-n_CurrCos_) / n_CurrAmt_) * 100
+        // }
+        // else {
+        //     n_GP_Pct__=0
+        // }            
+
         // Set the values in the labels
         nCurrAmt_.innerText = Math.floor(n_CurrAmt_).toLocaleString(); // Total curramt_
         nAtv_____.innerText = n_ATV_____.toFixed();
@@ -99,12 +100,25 @@ async function setSalesStat(selectedStore = '', selectedGroup = '') {
 
         nLastAmt_.innerText = Math.floor(n_LastAmt_).toLocaleString(); // Total prevamt_
         nIncDec_p.innerText = n_IncDec_p.toFixed(2) + '%';
+        if (n_IncDec_p < 0) {
+            nIncDec_p.style.color = "red"; // Change color to red for negative values
+        } else {
+            nIncDec_p.style.color = "black"; // Change color back to black for positive values
+        }
 
         nLMontAmt.innerText = Math.floor(n_LMontAmt).toLocaleString(); // Total lmontamt
         nIncDec_m.innerText = n_IncDec_m.toFixed(2) + '%';
+        if (n_IncDec_m < 0) {
+            nIncDec_m.style.color = "red"; // Change color to red for negative values
+        } else {
+            nIncDec_m.style.color = "black"; // Change color back to black for positive values
+        }
+
 
         nLMon2Amt.innerText = Math.floor(n_LMon2Amt).toLocaleString(); // Total lmon2amt
         nIncDec_c.innerText = n_IncDec_c.toFixed(2) + '%';
+        // if (n_IncDec_c < 0) nIncDec_c.style.color = "red";
+        nIncDec_c.style.color = n_IncDec_c < 0 ? "red" : "black";
 
     } catch (error) {
         console.error('Error fetching data:', error);

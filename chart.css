@@ -23,7 +23,6 @@ body {
     background-color: rgba(83, 83, 83);
 }
 
-
 .dataFilter .centered {
     display: flex;
     justify-items: center;
@@ -38,6 +37,7 @@ body {
     cursor: pointer;        /* Change cursor to pointer on hover */
     background-color:  rgb(0,64,128);
     color: white;
+    overflow: hidden ;
     transition: background-color 0.3s, color 0.3s, border 0.3s; /* Smooth transition for hover effects */
 }
 
