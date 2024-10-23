@@ -14,18 +14,22 @@ body {
     justify-content: space-around;
     align-items: center; /* Center elements vertically */
     position: sticky;
-    margin-top: 0;
-    padding-top: 0;
+    margin: 0;
+    padding: 0;
     top: 0; /* Ensure the filter sticks at the top */
     width: 100%;
+    height: auto;
     z-index: 1000; /* Keeps the sticky element on top of other content */
     box-sizing: border-box; /* Ensure padding is included in width */
     background-color: rgba(83, 83, 83);
 }
 
 .dataFilter .centered {
+    margin: 0;
+    padding: 0;
     display: flex;
     justify-items: center;
+    flex-wrap: wrap; 
 } 
 
 #btnRefresh {
@@ -39,6 +43,9 @@ body {
     color: white;
     overflow: hidden ;
     transition: background-color 0.3s, color 0.3s, border 0.3s; /* Smooth transition for hover effects */
+    height: 30px;
+    position: relative;
+
 }
 
 
@@ -66,6 +73,7 @@ details {
 select {
     font-size: 12px;
     cursor: pointer;
+    height: 30px;
 }
 
 option {
@@ -139,6 +147,8 @@ option {
 }
 
 .openbtn {
+    display: flex;
+    align-items: center;
     font-size: 14px;
     cursor: pointer;
     background-color: #111;
@@ -146,6 +156,8 @@ option {
     border: none;
     padding: 10px 15px;
     margin: 10px;
+    height: 30px;
+    position: relative; /* Make sure the button is positioned */
 }
 .openbtn:hover {
     color: #f1f1f1;
@@ -275,20 +287,23 @@ footer img {
     #multiStore {
         font-size: 10px;
     }
-    #btnRefresh {
-        font-size: 10px;
 
+    .btnRefresh::after {
+        position: absolute; /* Position the icon/text */
+        left: 50%; /* Center it */
+        top: 50%; /* Center it */
+        transform: translate(-50%, -50%); /* Adjust for centering */
     }
-    .openbtn {
-        font-size: 10px;
-
-    }
+    
     #radioOutright {
         font-size: 12px;
     }
     #brandChart h5 {
         font-size: 16px;
 
+    }
+    .openbtn {
+        height: auto;
     }
     /* #mySidenav {
         width: 0; 

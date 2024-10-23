@@ -7,7 +7,7 @@
     overflow:auto;
 
     position: sticky;
-    top: 90px; /* Should be lower than Multistore */
+    top: 80px; /* Should be lower than Multistore */
     z-index: 999; 
 
 }
