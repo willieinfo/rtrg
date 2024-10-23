@@ -2,14 +2,15 @@
 <html lang="en">
 <head>
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-38W9BWNBFK"></script>
+    <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-38W9BWNBFK"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
 
         gtag('config', 'G-38W9BWNBFK');
-    </script>
+    </script> -->
+    <!--Google tag (script ends here) -->
     
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -19,6 +20,7 @@
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="stylesheet" href="chart.css">
     <link rel="stylesheet" href="salesStat.css">
+    <script src="MessageBox.js"></script>
     <style>
         /* Hide the content initially */
         body {
@@ -54,7 +56,7 @@
             box-sizing: border-box;
 
             position: sticky;
-            top: 60px; /* Should be lower than dataFilter */
+            top: 50px; /* Should be lower than dataFilter */
             z-index: 999; /* Lower than .dataFilter but still on top of other content */
             background-color: rgb(128,128,128);
         }
@@ -690,13 +692,16 @@
     </script>
 
     <script>
-        function checkOrientation() {
+        async function checkOrientation() {
             const landscapeMediaQuery = window.matchMedia("(orientation: landscape)");
             const mobileMediaQuery = window.matchMedia("(max-width: 600px)"); // Adjust the width as needed
 
             if (mobileMediaQuery.matches && !landscapeMediaQuery.matches) {
-                // User is on mobile and not in landscape
-                alert("Please rotate your device to landscape mode for a better view.");
+                if (sessionStorage.getItem('viewmode') !== 'true') {
+                    // User is on mobile and not in landscape
+                    await MessageBox("Please rotate your device to landscape mode for a better view.","Ok","View Mode")
+                    sessionStorage.setItem('viewmode','true')
+                }
             }
         }
 

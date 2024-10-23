@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <title>Login</title>
+    <script src="MessageBox.js"></script>
     <style>
         body {
             margin: 0;
@@ -305,7 +306,8 @@
                     window.location.href = 'index.html'; 
                 }
             } else {
-                alert('Login failed');
+                MessageBox('Sorry, password is incorrect.\r\nPlease try again.','Ok','Log In')
+                // alert('Login failed');
             }
         }
 
