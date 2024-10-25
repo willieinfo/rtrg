@@ -146,9 +146,9 @@
 </head>
 <body>
     <div id="mySidenav" class="sidenav">
-        <div style="width: 100%; display: flex; justify-content: flex-end; margin-top: 0px; padding-top: 0px;">
+        <!-- <div style="width: 100%; display: flex; justify-content: flex-end; margin-top: 0px; padding-top: 0px;">
             <button class="closebtn" onclick="toggleNav()">x</button>
-        </div>
+        </div> -->
         
         <div class="image-wrapper">
             <img src="./Graphics/RTRG.jpg" alt="RTRG">
@@ -173,9 +173,10 @@
         
     </div>
 
-    <div id="main">
+    <div id="main" class="main">
         <div class="dataFilter">
-            <button class="openbtn" onclick="toggleNav()">☰ Open</button>
+            <!-- <button class="openbtn" onclick="toggleNav()">☰ Open</button> -->
+            <button class="openbtn">X</button>
             <div class="centered">
                 <select id="storeGroup" name="StorGrup" style="margin-right: 10px;"></select>
                 <select id="storeNames" name="StorName" style="margin-right: 10px;"></select>
@@ -347,8 +348,26 @@
     </div>
 
     <script>
+        //Script from Portfolio
+        const button = document.querySelector('.openbtn');
+        const sidenav = document.getElementById('mySidenav');
+        const mainWrapper = document.querySelector('.main');
 
-        toggleNav()
+        button.addEventListener('click', () => {
+            sidenav.classList.toggle('closed');
+            mainWrapper.classList.toggle('closed');
+            if (sidenav.classList.contains('closed')) {
+                button.textContent = "☰"
+            } else {
+                button.textContent = "X"
+            }
+        });
+
+    </script>
+
+    <script>
+
+        // toggleNav()
 
         document.getElementById('multiStore').readOnly= true;         
 
@@ -380,44 +399,45 @@
         }
 
         function toggleNav() {
-            const sidenav = document.getElementById("mySidenav");
-            const main = document.getElementById("main");
-            const openbtn = document.querySelector(".openbtn");
-            const closebtn = document.querySelector(".closebtn");
+            // const openbtn = document.querySelector(".openbtn");
+            // const sidenav = document.getElementById("mySidenav");
+            // const main = document.getElementById("main");
+            // const openbtn = document.querySelector(".openbtn");
+            // const closebtn = document.querySelector(".closebtn");
 
-            if (sidenav.style.width === "200px") {
-                sidenav.style.width = "0";
-                main.style.marginLeft = "0";
-                openbtn.textContent = "☰ Open";
-                openbtn.classList.remove("open");
-                sidenav.style.padding= '0px'; 
-            } else {
-                sidenav.style.width = "200px";
-                main.style.marginLeft = "200px";
-                openbtn.textContent = "X Close";
-                openbtn.classList.add("open");
-                sidenav.style.padding= '20px'; 
-            }
+            // if (sidenav.style.width === "200px") {
+            //     sidenav.style.width = "0";
+            //     main.style.marginLeft = "0";
+            //     openbtn.textContent = "☰ Open";
+            //     openbtn.classList.remove("open");
+            //     sidenav.style.padding= '0px'; 
+            // } else {
+            //     sidenav.style.width = "200px";
+            //     main.style.marginLeft = "200px";
+            //     openbtn.textContent = "X Close";
+            //     openbtn.classList.add("open");
+            //     sidenav.style.padding= '20px'; 
+            // }
 
-            if (window.innerWidth < 768) {
-                closebtn.style.display = 'block' ;
-            } else {
-                closebtn.style.display = 'none' ;
-            }
+            // if (window.innerWidth < 768) {
+            //     closebtn.style.display = 'block' ;
+            // } else {
+            //     closebtn.style.display = 'none' ;
+            // }
 
-            // Add a resize event listener to handle window resizing
-            window.addEventListener("resize", function() {
-                const sidenav = document.getElementById("mySidenav");
+            // // Add a resize event listener to handle window resizing
+            // window.addEventListener("resize", function() {
+            //     const sidenav = document.getElementById("mySidenav");
 
-                // When the viewport width is smaller than 768px, automatically close the sidenav
-                if (window.innerWidth < 768) {
-                    sidenav.style.width = "0";  // Close sidenav
-                    sidenav.style.padding= '0px'; 
-                    openbtn.textContent = "☰ Open";
-                    // Reset main margin
-                    document.getElementById("main").style.marginLeft = "0";  
-                }
-            });
+            //     // When the viewport width is smaller than 768px, automatically close the sidenav
+            //     if (window.innerWidth < 768) {
+            //         sidenav.style.width = "0";  // Close sidenav
+            //         sidenav.style.padding= '0px'; 
+            //         openbtn.textContent = "☰ Open";
+            //         // Reset main margin
+            //         document.getElementById("main").style.marginLeft = "0";  
+            //     }
+            // });
 
 
         }
