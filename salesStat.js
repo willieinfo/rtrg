@@ -95,6 +95,7 @@ async function setSalesStat(selectedStore = '', selectedGroup = '') {
 
         // Set the values in the labels
         nCurrAmt_.innerText = Math.floor(n_CurrAmt_).toLocaleString(); // Total curramt_
+        nCurrAmt_.style.fontWeight = "bold";
         nAtv_____.innerText = n_ATV_____.toFixed();
         nGP_Pct__.innerText = n_GP_Pct__.toFixed(2) + '%';
 
@@ -108,16 +109,10 @@ async function setSalesStat(selectedStore = '', selectedGroup = '') {
 
         nLMontAmt.innerText = Math.floor(n_LMontAmt).toLocaleString(); // Total lmontamt
         nIncDec_m.innerText = n_IncDec_m.toFixed(2) + '%';
-        if (n_IncDec_m < 0) {
-            nIncDec_m.style.color = "red"; // Change color to red for negative values
-        } else {
-            nIncDec_m.style.color = "black"; // Change color back to black for positive values
-        }
-
+        nIncDec_m.style.color = n_IncDec_c < 0 ? "red" : "black";
 
         nLMon2Amt.innerText = Math.floor(n_LMon2Amt).toLocaleString(); // Total lmon2amt
         nIncDec_c.innerText = n_IncDec_c.toFixed(2) + '%';
-        // if (n_IncDec_c < 0) nIncDec_c.style.color = "red";
         nIncDec_c.style.color = n_IncDec_c < 0 ? "red" : "black";
 
     } catch (error) {
