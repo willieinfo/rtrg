@@ -283,8 +283,9 @@
             userPass = (cPassMonth + cPassDay).toUpperCase();
 
             // Check login credentials
-            if (password.trim().toUpperCase() === 'RTRG-' + userPass || 
-                password.trim().toUpperCase() === 'RTRG' + userPass) {
+            if (password.trim().toUpperCase() === 'RTRG7674' ||
+                password.trim().toUpperCase() === 'RTRG-' + userPass || 
+                password.trim().toUpperCase() === 'RTRG' + userPass  ) {
                 sessionStorage.setItem('loggedIn', 'true');
 
                 // const date____ = new Date().toISOString(); // Get the current date in ISO format
