@@ -4,6 +4,8 @@ async function setYTDChart(selectedStore = '', selectedGroup = '') {
 
     const response = await fetch(dataSource);
     const dataFormat = await response.json();
+    
+    let nTotalAmt=0
 
     const totals = {
         jan_amt_: 0, jan_amt1: 0, jan_amt2: 0,
@@ -31,9 +33,29 @@ async function setYTDChart(selectedStore = '', selectedGroup = '') {
         }
 
         for (let key of Object.keys(totals)) {
-            totals[key] += item[key];
+            // totals[key] += item[key];
+
+            // Always populate totals (no filter for totals)
+            if (item[key] != null) {  // Check if the value is not null or undefined
+                totals[key] += item[key];
+            }
+
+            // Only sum '_amt_' keys for nTotalAmt (filter for _amt_ keys)
+            if (key.includes('_amt_') && item[key] != null) {
+                nTotalAmt += item[key]; // Full YTD total for the current year (only '_amt_' keys)
+            }            
+
         }
+
+        
     });
+
+    // Round nTotalAmt to remove decimals
+    nTotalAmt = Math.round(nTotalAmt); // Rounding off to the nearest integer
+    // Format the total sales with thousands separators
+    let formattedTotalAmt = new Intl.NumberFormat().format(nTotalAmt);
+    // Set the total sales to the element with ID 'YTDTotal'
+    document.getElementById('YTDTotal').innerHTML =  formattedTotalAmt;    
 
     const aLabels = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
     const datasets = [];
@@ -60,9 +82,9 @@ async function setYTDChart(selectedStore = '', selectedGroup = '') {
         type: 'bar'
     });
 
-    // Line datasets for 2024, 2023
+    //Line datasets for 2024, 2023
     // datasets.push({
-    //     label: '2024 Line',
+    //     // label: '2024 Line',
     //     data: aLabels.map((_, index) => totals[`${aLabels[index].toLowerCase()}_amt_`] || null),
     //     borderColor: 'rgba(75, 192, 192, 1)',
     //     fill: false,
@@ -73,7 +95,7 @@ async function setYTDChart(selectedStore = '', selectedGroup = '') {
     // });
 
     // datasets.push({
-    //     label: '2023 Line',
+    //     // label: '2023 Line',
     //     data: aLabels.map((_, index) => totals[`${aLabels[index].toLowerCase()}_amt2`] || null),
     //     borderColor: 'rgba(255, 99, 132, 1)',
     //     fill: false,
@@ -98,7 +120,7 @@ async function setYTDChart(selectedStore = '', selectedGroup = '') {
             },
             plugins: {
                 title: {
-                    display: true,
+                    display: false,
                     text: "Monthly Sales Trend",
                     font: {
                         size: 14

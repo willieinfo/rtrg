@@ -109,7 +109,7 @@ async function setSalesStat(selectedStore = '', selectedGroup = '') {
 
         nLMontAmt.innerText = Math.floor(n_LMontAmt).toLocaleString(); // Total lmontamt
         nIncDec_m.innerText = n_IncDec_m.toFixed(2) + '%';
-        nIncDec_m.style.color = n_IncDec_c < 0 ? "red" : "black";
+        nIncDec_m.style.color = n_IncDec_m < 0 ? "red" : "black";
 
         nLMon2Amt.innerText = Math.floor(n_LMon2Amt).toLocaleString(); // Total lmon2amt
         nIncDec_c.innerText = n_IncDec_c.toFixed(2) + '%';

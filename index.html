@@ -329,8 +329,10 @@
 
         <div id="ytdChart" class="chart-container ytdChart">
             <!-- <div class="ytdChartContainer"> -->
-                <div class='ytdChart8'>
-                    <h5>YTD Monthly Sales Trend</h5>
+                <div class='ytdChart8' 
+                    style="display: flex; flex-direction: column ; align-items: center;" >
+                    <h6>YTD Monthly Sales Trend</h6>
+                    <h6 style="margin-top: 0; padding: 0;">Total Current Year Sales: <span id="YTDTotal" style="color:blue"></span></h6>
                     <canvas id="myChart8"></canvas>
                 </div>
             <!-- </div> -->
@@ -366,8 +368,6 @@
     </script>
 
     <script>
-
-        // toggleNav()
 
         document.getElementById('multiStore').readOnly= true;         
 
@@ -748,8 +748,8 @@
             };
             return date.toLocaleString('en-US', options);
         }
-        const startDate = formatDateToLocaleString(new Date('2024-10-11'));
-        const endDate = formatDateToLocaleString(new Date('2024-10-22'));
+        const startDate = formatDateToLocaleString(new Date('2024-11-01'));
+        const endDate = formatDateToLocaleString(new Date('2024-12-31'));
 
         async function fetchVisitorsInDateRange(startDate, endDate) {
             const visitorsQuery = query(
