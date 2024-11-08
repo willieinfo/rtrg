@@ -4,11 +4,14 @@ async function printToExcel(reportName) {
     switch(reportName) {
         case 'summary':
             let dataSource = "./Data/DB_SUMMARY.json";
-            if (dateCovered==='OCT 2024') {
+            if (dateCovered==='NOV 2024') {
                 dataSource = './Data/DB_SUMMARY.json';
-            } else {
+            } else if (dateCovered==='OCT 2024') {
+                dataSource = './Data/DB_SUMMARY_OCT.json';
+            } else if (dateCovered==='SEP 2024') {
                 dataSource = './Data/DB_SUMMARY_SEP.json';
             }
+        
             const cFileName1 = "RTRG Summary Sales.xlsx";
             
             const HEADER1_ROW = [
@@ -40,9 +43,11 @@ async function printToExcel(reportName) {
 
         case 'daily':
             let dataSource2 = './Data/DB_WEB_DATA.json';
-            if (dateCovered==='OCT 2024') {
+            if (dateCovered==='NOV 2024') {
                 dataSource2 = './Data/DB_WEB_DATA.json';
-            } else {
+            } else if (dateCovered==='OCT 2024') {
+                dataSource2 = './Data/DB_WEB_DATA_OCT.json';
+            } else if (dateCovered==='SEP 2024') {
                 dataSource2 = './Data/DB_WEB_DATA_SEP.json';
             }
             // console.log(dataSource2)

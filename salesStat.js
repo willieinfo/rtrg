@@ -1,7 +1,9 @@
 async function setSalesStat(selectedStore = '', selectedGroup = '') {
-    if (dateCovered==='OCT 2024') {
+    if (dateCovered==='NOV 2024') {
         dataSource = './Data/DB_SUMMARY.json';
-    } else {
+    } else if (dateCovered==='OCT 2024') {
+        dataSource = './Data/DB_SUMMARY_OCT.json';
+    } else if (dateCovered==='SEP 2024') {
         dataSource = './Data/DB_SUMMARY_SEP.json';
     }
 

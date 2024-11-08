@@ -9,11 +9,14 @@ function setHourlyChart(selectedStore = '', selectedGroup = '') {
     let aHourSales = new Array(aHourLabel.length).fill(0);
 
     let dataSource3 = './Data/DB_HOURSALES.json';
-    if (dateScope==='OCT 2024') {
+    if (dateScope==='NOV 2024') {
         dataSource3 = './Data/DB_HOURSALES.json';
-    } else {
+    } else if (dateScope==='OCT 2024') {
+        dataSource3 = './Data/DB_HOURSALES_OCT.json';
+    } else if (dateScope==='SEP 2024') {
         dataSource3 = './Data/DB_HOURSALES_SEP.json';
     }
+
     
     // Fetch the JSON data
     fetch(dataSource3)
