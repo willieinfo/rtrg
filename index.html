@@ -27,7 +27,7 @@
             visibility: hidden;
             /* visibility: visible; */
         }
-
+        
         #radioOutright {
             display: flex;
             flex-direction: row;
@@ -736,6 +736,23 @@
             setSalesStat(); 
         });        
 
+        // Function to adjust scroll position for centering the section
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                
+                const targetId = this.getAttribute('href').substring(1); // Get the target section ID
+                const targetElement = document.getElementById(targetId);
+                
+                if (targetElement) {
+                    // Scroll to the element and adjust position
+                    window.scrollTo({
+                        top: targetElement.offsetTop - 100, // Adjust for 50px header
+                        behavior: 'smooth'
+                    });
+                }
+            });
+        });
 
 
     </script>
