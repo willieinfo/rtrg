@@ -27,7 +27,9 @@
         }
         #pdfSlide{
             align-items: center;
+            width: 100%;
         }
+
         .pdfReport {
             display:none;
             align-items: center;
@@ -61,9 +63,14 @@
 
         .excelBtn {
             background-color: rgb(0,128,64);
+            margin-right: 10px;
         }        
         .excelBtn:hover {
             background-color: rgb(0, 128, 0);
+            color: white;
+        }        
+        .downloadBtn:hover {
+            background-color: blue;
             color: white;
         }        
 
@@ -82,8 +89,9 @@
             flex-direction: column; /* Stack reports vertically */
             align-items: center;    /* Center horizontally */
             width: 100%;            /* Full width */
+ 
         }
-
+ 
         .ytdReport, .ytd2Report {
             width: 80%;             /* Control the width as needed */
             height: 650px;         /* Same height for consistency */
@@ -115,10 +123,15 @@
         <div class="subTitle">
             <h5>PDF Reports</h5>
             <h6>Press Ctrl +- to adjust width</h6>
+            <div style="display: inline-flex;">
             <button class="excelBtn"
                 onclick="printExcel()">
                 <i style="font: size 16px; margin-right: 10px" class="fa" >&#xf1c3;</i>Excel</button>
                 <!-- <i class="fa fa-file-excel-o" style="margin-right: 10px"></i> -->
+            <button class="downloadBtn"
+                onclick="downloadExcel()">
+                Download PDF</button>
+            </div>
                 
         </div>
         <div>
@@ -129,6 +142,9 @@
             <embed type="application/pdf" name='byBrand' class="pdfReport" src="./PDF/Store Sales by Brand.pdf" >
        
         </div>
+        <!-- <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+        <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button> -->
+            
     </div>
     <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
     <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
@@ -155,6 +171,31 @@
                 }
             }
         }
+
+        function downloadExcel() {
+            const pdfReports = document.getElementsByClassName("pdfReport");
+            
+            for (let i = 0; i < pdfReports.length; i++) {
+                // Check if the PDF report is currently visible
+                if (pdfReports[i].style.display === "block") {
+                    // Get the file URL from the src attribute
+                    const fileUrl = pdfReports[i].getAttribute('src');
+                    
+                    // Create a link element
+                    const link = document.createElement('a');
+                    
+                    // Set the link attributes
+                    link.href = fileUrl;         // Set the URL to the src of the embed
+                    link.download = fileUrl.split('/').pop();  // Extract file name from URL and set as download filename
+                    
+                    // Simulate a click on the link to trigger the download
+                    link.click();
+                    
+                    break;  // Exit after downloading the first visible PDF
+                }
+            }
+        }
+
     </script>
 
     <script>

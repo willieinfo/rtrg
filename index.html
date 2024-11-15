@@ -732,9 +732,15 @@
         window.addEventListener("resize", checkOrientation);
         window.addEventListener("load", checkOrientation);
 
+        document.addEventListener("DOMContentLoaded", function() {
+            setSalesStat(); 
+        });        
+
+
+
     </script>
 
-    <script type="module">
+    <!-- <script type="module">
         import { db } from './firebase-config.js';
         import { collection, getDocs, query, orderBy, where, onSnapshot } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore.js";
 
@@ -772,10 +778,6 @@
 
         fetchVisitorsInDateRange(startDate, endDate);
 
-        document.addEventListener("DOMContentLoaded", function() {
-            setSalesStat(); 
-        });        
-
 
         // const visitorsRef = collection(db, 'Visitors');
         // onSnapshot(visitorsRef, (snapshot) => {
@@ -783,7 +785,7 @@
         //         console.log(`${doc.id} => ${doc.data().UserName}, Date: ${doc.data().Date}`);
         //     });      
         // });  
-    </script>
+    </script> -->
 
 </body>
 </html>
