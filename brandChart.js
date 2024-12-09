@@ -1,7 +1,9 @@
 async function fetchBrandSales(selectedStore = '', selectedGroup = '', selectedType = '') {
     const dateScope=dateCovered.toUpperCase()
     let dataSource = './Data/DB_BRANDSALE.json';
-    if (dateScope==='NOV 2024') {
+    if (dateScope==='DEC 2024') {
+        dataSource = './Data/DB_BRANDSALE.json';
+    } else if (dateScope==='NOV 2024') {
         dataSource = './Data/DB_BRANDSALE_NOV.json';
     } else if ('OCT 2024') {
         dataSource = './Data/DB_BRANDSALE_OCT.json';
