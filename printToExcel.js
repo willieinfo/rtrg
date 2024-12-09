@@ -44,7 +44,7 @@ async function printToExcel(reportName) {
         case 'daily':
             let dataSource2 = './Data/DB_WEB_DATA.json';
             if (dateCovered==='NOV 2024') {
-                dataSource2 = './Data/DB_WEB_DATA.json';
+                dataSource2 = './Data/DB_WEB_DATA_NOV.json';
             } else if (dateCovered==='OCT 2024') {
                 dataSource2 = './Data/DB_WEB_DATA_OCT.json';
             } else if (dateCovered==='SEP 2024') {

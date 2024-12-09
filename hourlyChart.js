@@ -10,7 +10,7 @@ function setHourlyChart(selectedStore = '', selectedGroup = '') {
 
     let dataSource3 = './Data/DB_HOURSALES.json';
     if (dateScope==='NOV 2024') {
-        dataSource3 = './Data/DB_HOURSALES.json';
+        dataSource3 = './Data/DB_HOURSALES_NOV.json';
     } else if (dateScope==='OCT 2024') {
         dataSource3 = './Data/DB_HOURSALES_OCT.json';
     } else if (dateScope==='SEP 2024') {

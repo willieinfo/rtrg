@@ -153,7 +153,8 @@
         <div class="image-wrapper">
             <img src="./Graphics/RTRG.jpg" alt="RTRG">
             <select id="dateScope" name="dateScope" >
-                <option value="Nov 2024">Nov 1-10, 2024</option> //Dynamically set
+                <option value="Dec 2024">Dec 1-31, 2024</option> 
+                <option value="Nov 2024">Nov 1-30, 2024</option> 
                 <option value="Oct 2024">Oct 1-31, 2024</option>
                 <option value="Sep 2024">Sep 1-30, 2024</option>
             </select>
@@ -478,7 +479,7 @@
             dateCovered=dateScope.value.toUpperCase()     
             let dataSource1 = './Data/DB_DAILYSALES.json';
             if (dateCovered==='NOV 2024') {
-                dataSource1 = './Data/DB_DAILYSALES.json';
+                dataSource1 = './Data/DB_DAILYSALES_NOV.json';
             } else if (dateCovered==='OCT 2024') {
                 dataSource1 = './Data/DB_DAILYSALES_OCT.json';
             } else if (dateCovered==='SEP 2024') {
