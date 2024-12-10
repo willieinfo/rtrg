@@ -36,8 +36,8 @@
 "storname": "THE SHOPPES CSP1",
 "currtxn_":1149.00,
 "curramt_":1299936.75,
-"currcos_":1808704.21,
-"curre_gp":-508767.50,
+"currcos_":565495.96,
+"curre_gp":734440.79,
 "lastamt_":1154413.75,
 "lmontamt":1045726.25,
 "lmon2amt":1823696.25
@@ -164,6 +164,17 @@
 "lmon2amt":0.00
 },
 {
+"storgrup": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH CLARK DPD",
+"currtxn_":185.00,
+"curramt_":55829.00,
+"currcos_":19099.18,
+"curre_gp":36729.82,
+"lastamt_":0.00,
+"lmontamt":0.00,
+"lmon2amt":0.00
+},
+{
 "storgrup": "FRANCHISE STORES",
 "storname": "7-11 BORA TOUR CENTER",
 "currtxn_":7960.00,
@@ -210,10 +221,10 @@
 {
 "storgrup": "FRANCHISE STORES",
 "storname": "7-11 MCIA",
-"currtxn_":9438.00,
-"curramt_":1125305.50,
-"currcos_":697689.41,
-"curre_gp":427616.09,
+"currtxn_":9444.00,
+"curramt_":1120331.50,
+"currcos_":694605.53,
+"curre_gp":425725.97,
 "lastamt_":952694.00,
 "lmontamt":984405.00,
 "lmon2amt":0.00
@@ -254,10 +265,10 @@
 {
 "storgrup": "FRANCHISE STORES",
 "storname": "KRISPY KREME CSP2",
-"currtxn_":808.00,
-"curramt_":363458.32,
-"currcos_":248875.91,
-"curre_gp":114582.41,
+"currtxn_":833.00,
+"curramt_":373682.76,
+"currcos_":258996.20,
+"curre_gp":114686.57,
 "lastamt_":204271.51,
 "lmontamt":368639.38,
 "lmon2amt":370763.83
@@ -505,39 +516,6 @@
 "lmon2amt":0.00
 },
 {
-"storgrup": "ATHLEISURE",
-"storname": "THE SHOPPES T3 LANDSIDE",
-"currtxn_":2048.00,
-"curramt_":4529200.50,
-"currcos_":3435755.68,
-"curre_gp":1093444.80,
-"lastamt_":1492034.05,
-"lmontamt":2577272.00,
-"lmon2amt":1964076.07
-},
-{
-"storgrup": "ATHLEISURE",
-"storname": "SPACE28 TRAVEL BUDDY T3",
-"currtxn_":252.00,
-"curramt_":708201.00,
-"currcos_":461144.60,
-"curre_gp":247056.40,
-"lastamt_":631762.50,
-"lmontamt":567924.00,
-"lmon2amt":652985.25
-},
-{
-"storgrup": "ATHLEISURE",
-"storname": "T3 INTL SPACE5",
-"currtxn_":445.00,
-"curramt_":330583.00,
-"currcos_":243399.83,
-"curre_gp":87183.17,
-"lastamt_":223982.00,
-"lmontamt":357504.00,
-"lmon2amt":178730.00
-},
-{
 "storgrup": "OUTLETS",
 "storname": "SLEX",
 "currtxn_":337.00,
@@ -605,6 +583,17 @@
 },
 {
 "storgrup": "OUTLETS",
+"storname": "CEBU PUEBLO VERDE",
+"currtxn_":228.00,
+"curramt_":510434.05,
+"currcos_":295766.65,
+"curre_gp":214667.40,
+"lastamt_":247698.80,
+"lmontamt":242992.20,
+"lmon2amt":453535.90
+},
+{
+"storgrup": "OUTLETS",
 "storname": "FR PITX",
 "currtxn_":269.00,
 "curramt_":475858.50,
@@ -627,17 +616,6 @@
 },
 {
 "storgrup": "OUTLETS",
-"storname": "CEBU PUEBLO VERDE",
-"currtxn_":135.00,
-"curramt_":315575.20,
-"currcos_":182534.30,
-"curre_gp":133040.90,
-"lastamt_":247698.80,
-"lmontamt":242992.20,
-"lmon2amt":453535.90
-},
-{
-"storgrup": "OUTLETS",
 "storname": "TRAVEL HUB BATANGAS",
 "currtxn_":153.00,
 "curramt_":134989.75,
@@ -646,6 +624,39 @@
 "lastamt_":0.00,
 "lmontamt":134029.00,
 "lmon2amt":0.00
+},
+{
+"storgrup": "ATHLEISURE",
+"storname": "THE SHOPPES T3 LANDSIDE",
+"currtxn_":2048.00,
+"curramt_":4529200.50,
+"currcos_":3435755.68,
+"curre_gp":1093444.80,
+"lastamt_":1492034.05,
+"lmontamt":2577272.00,
+"lmon2amt":1964076.07
+},
+{
+"storgrup": "ATHLEISURE",
+"storname": "SPACE28 TRAVEL BUDDY T3",
+"currtxn_":252.00,
+"curramt_":708201.00,
+"currcos_":461144.60,
+"curre_gp":247056.40,
+"lastamt_":631762.50,
+"lmontamt":567924.00,
+"lmon2amt":652985.25
+},
+{
+"storgrup": "ATHLEISURE",
+"storname": "T3 INTL SPACE5",
+"currtxn_":445.00,
+"curramt_":330583.00,
+"currcos_":243399.83,
+"curre_gp":87183.17,
+"lastamt_":223982.00,
+"lmontamt":357504.00,
+"lmon2amt":178730.00
 },
 {
 "storgrup": "ECOMMERCE",
