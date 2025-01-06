@@ -153,17 +153,13 @@
         <div class="image-wrapper">
             <img src="./Graphics/RTRG.jpg" alt="RTRG">
             <select id="dateScope" name="dateScope" >
-                <option value="Dec 2024">Dec 1-31, 2024</option> 
-                <option value="Nov 2024">Nov 1-30, 2024</option> 
-                <option value="Oct 2024">Oct 1-31, 2024</option>
-                <option value="Sep 2024">Sep 1-30, 2024</option>
+                <option value="Dec 2024">Dec 1-8, 2024</option> 
             </select>
         </div>
         <hr>
         
-        <a href="#weeklyChart" onclick="toggleNav()">Weekly Sales Comparison</a>
+        <!-- <a href="#weeklyChart" onclick="toggleNav()">Weekly Sales Comparison</a> -->
         <a href="#dailyChart" onclick="toggleNav()">Daily Sales Trends</a>
-        <!-- <a style="pointer-events: none" href="#dailyChart" onclick="toggleNav()">Hourly</a> -->
         <a href="#hourlyChart" onclick="toggleNav()">Hourly Transaction Analysis</a>
         <a href="#brandChart" onclick="toggleNav()">Brand Performance Ranking</a>
         <a href="#storeChart" onclick="toggleNav()">Store Performance Contribution</a>
@@ -240,7 +236,7 @@
         </div>  <!--salesStat-->
     
         <!-- Chart Canvass Starts here -->
-        <div id="weeklyChart" class="chart-container weeklyChart">
+        <div id="weeklyChart" class="chart-container weeklyChart" style="display: none;">
             <canvas id="myChart2"></canvas>
             <details>
                 <summary>Last 6 weeks</summary>
@@ -450,7 +446,7 @@
     
     <script defer src="salesStat.js"></script>
     <script src="dailyChart.js"></script>
-    <script src="weeklyChart.js"></script>
+    <!-- <script src="weeklyChart.js"></script> -->
     <script src="brandChart.js"></script>
     <script src="hourlyChart.js"></script>
     <script src="storeChart.js"></script>
@@ -493,7 +489,7 @@
                 
                 await populateStoreSelect(); // Populate store select list after fetching data
                 setDailyChart(); // Initialize the daily chart
-                setWeeklyChart(); // Initialize the weekly chart
+                // setWeeklyChart(); // Initialize the weekly chart
                 setHourlyChart(); 
                 setStoreChart(); 
                 fetchBrandSales();
@@ -703,7 +699,7 @@
                 const cStorGrup = listGrup.value;
                 setSalesStat(cStorName,cStorGrup);
                 setDailyChart(cStorName,cStorGrup);
-                setWeeklyChart(cStorName,cStorGrup);
+                // setWeeklyChart(cStorName,cStorGrup);
                 setHourlyChart(cStorName,cStorGrup);
                 setStoreChart(cStorName,cStorGrup);
                 setYTDChart(cStorName,cStorGrup);
