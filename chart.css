@@ -187,7 +187,7 @@ option {
     width: 100%;
     padding: 20px;
     box-sizing: border-box; /* Ensure padding is included in width calculation */
-    margin-bottom: 30px; /* Space below each chart container */
+    margin-bottom: 50px; /* Space below each chart container */
     margin-top: 30px; /* Space below each chart container */
     background-color: white;
 
@@ -268,7 +268,8 @@ footer {
 
     font-family: 'Times New Roman';
     font-style: italic;
-    padding: 10px 10px;
+    padding: 10px ;
+    margin: 10px;
     
 }
 
@@ -287,6 +288,33 @@ footer img {
 .imageWrapper p {
     margin-left: 10px; /* Add some space between the image and text */
 }
+
+    /* Floating down arrow icon */
+    #scrollIcon {
+        position: fixed;
+        top: 40px;
+        right: 40px;
+
+        width: 60px;
+        height: 60px;
+        background-color: rgba(0, 0, 0, 0.5); /* Transparent black */
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        color: white;
+        font-size: 24px;
+        z-index: 1000; /* Make sure it's on top */
+        transition: opacity 0.3s ease;
+    }
+
+    #scrollIcon.hidden {
+        opacity: 0;
+        pointer-events: none;
+    }
+
+
 
 @media (max-width: 768px) {
     .chart-container {
@@ -319,10 +347,6 @@ footer img {
     .openbtn {
         height: auto;
     }
-    /* #mySidenav {
-        width: 0; 
-        background-color: blue;
-    } */
 
 }
 

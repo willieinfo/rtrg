@@ -146,9 +146,6 @@
 </head>
 <body>
     <div id="mySidenav" class="sidenav">
-        <!-- <div style="width: 100%; display: flex; justify-content: flex-end; margin-top: 0px; padding-top: 0px;">
-            <button class="closebtn" onclick="toggleNav()">x</button>
-        </div> -->
         
         <div class="image-wrapper">
             <img src="./Graphics/RTRG.jpg" alt="RTRG">
@@ -158,14 +155,14 @@
         </div>
         <hr>
         
-        <a href="#weeklyChart" onclick="toggleNav()">Weekly Sales Comparison</a>
-        <a href="#dailyChart" onclick="toggleNav()">Daily Sales Trends</a>
-        <a href="#hourlyChart" onclick="toggleNav()">Hourly Transaction Analysis</a>
-        <a href="#brandChart" onclick="toggleNav()">Brand Performance Ranking</a>
-        <a href="#storeChart" onclick="toggleNav()">Store Performance Contribution</a>
-        <a href="#ytdChart" onclick="toggleNav()">YTD Monthly Sales Trends</a>
+        <a href="#weeklyChart">Weekly Sales Comparison</a>
+        <a href="#dailyChart">Daily Sales Trends</a>
+        <a href="#hourlyChart">Hourly Transaction Analysis</a>
+        <a href="#brandChart">Brand Performance Ranking</a>
+        <a href="#storeChart">Store Performance Contribution</a>
+        <a href="#ytdChart">YTD Monthly Sales Trends</a>
         <hr>
-        <a href="pdfReports.html" onclick="toggleNav()">PDF File Attachments</a>
+        <a href="pdfReports.html">PDF File Attachments</a>
         <hr>
         <a href="#logout" onclick="logout()">Log Out</a>
         
@@ -173,7 +170,6 @@
 
     <div id="main" class="main">
         <div class="dataFilter">
-            <!-- <button class="openbtn" onclick="toggleNav()">☰ Open</button> -->
             <button class="openbtn">X</button>
             <div class="centered">
                 <select id="storeGroup" name="StorGrup" style="margin-right: 10px;"></select>
@@ -329,7 +325,7 @@
         <div id="ytdChart" class="chart-container ytdChart">
             <!-- <div class="ytdChartContainer"> -->
                 <div class='ytdChart8' 
-                    style="display: flex; flex-direction: column ; align-items: center;" >
+                    style="display: flex; flex-direction: column ; align-items: center; width: 100%; height:80%" >
                     <h6>YTD Monthly Sales Trend</h6>
                     <h6 style="margin-top: 0; padding: 0;">Total Current Year Sales: <span id="YTDTotal" style="color:blue"></span></h6>
                     <canvas id="myChart8"></canvas>
@@ -337,6 +333,7 @@
             <!-- </div> -->
         </div>
 
+    
         <footer>
             <div class="imageWrapper">
                 <img src="./Graphics/InfoPlus.png" alt="Web InfoPlus">
@@ -346,6 +343,9 @@
                 <p>Regent Travel Retail Group</p>
             </div>
         </footer>
+        <div id="scrollIcon" class="hidden">
+            &#8595;  <!-- Down arrow character -->
+        </div>
     </div>
 
     <script>
@@ -397,49 +397,6 @@
             multiStore=[];
         }
 
-        function toggleNav() {
-            // const openbtn = document.querySelector(".openbtn");
-            // const sidenav = document.getElementById("mySidenav");
-            // const main = document.getElementById("main");
-            // const openbtn = document.querySelector(".openbtn");
-            // const closebtn = document.querySelector(".closebtn");
-
-            // if (sidenav.style.width === "200px") {
-            //     sidenav.style.width = "0";
-            //     main.style.marginLeft = "0";
-            //     openbtn.textContent = "☰ Open";
-            //     openbtn.classList.remove("open");
-            //     sidenav.style.padding= '0px'; 
-            // } else {
-            //     sidenav.style.width = "200px";
-            //     main.style.marginLeft = "200px";
-            //     openbtn.textContent = "X Close";
-            //     openbtn.classList.add("open");
-            //     sidenav.style.padding= '20px'; 
-            // }
-
-            // if (window.innerWidth < 768) {
-            //     closebtn.style.display = 'block' ;
-            // } else {
-            //     closebtn.style.display = 'none' ;
-            // }
-
-            // // Add a resize event listener to handle window resizing
-            // window.addEventListener("resize", function() {
-            //     const sidenav = document.getElementById("mySidenav");
-
-            //     // When the viewport width is smaller than 768px, automatically close the sidenav
-            //     if (window.innerWidth < 768) {
-            //         sidenav.style.width = "0";  // Close sidenav
-            //         sidenav.style.padding= '0px'; 
-            //         openbtn.textContent = "☰ Open";
-            //         // Reset main margin
-            //         document.getElementById("main").style.marginLeft = "0";  
-            //     }
-            // });
-
-
-        }
     </script>
 
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
@@ -712,6 +669,8 @@
         fetchData();
     </script>
 
+
+
     <script>
         async function checkOrientation() {
             const landscapeMediaQuery = window.matchMedia("(orientation: landscape)");
@@ -734,6 +693,7 @@
             setSalesStat(); 
         });        
 
+
         // Function to adjust scroll position for centering the section
         document.querySelectorAll('a[href^="#"]').forEach(anchor => {
             anchor.addEventListener('click', function (e) {
@@ -752,55 +712,54 @@
             });
         });
 
+        // Scroll icon functionality
+        const scrollIcon = document.getElementById('scrollIcon');
+
+        // Check if we are at the bottom of the page
+        function checkIfAtBottom() {
+            const scrollPosition = window.scrollY + window.innerHeight;
+            const documentHeight = document.documentElement.scrollHeight;
+            if (scrollPosition >= documentHeight) {
+                scrollIcon.classList.add('hidden'); // Hide icon if at bottom
+            } else {
+                scrollIcon.classList.remove('hidden'); // Show icon otherwise
+            }
+        }
+
+        // Scroll down by a portion when the icon is clicked
+        scrollIcon.addEventListener('click', function() {
+            window.scrollBy(0, window.innerHeight * 0.5); // Scroll by 50% of the viewport height
+        });
+
+        // Check page scroll position on scroll
+        window.addEventListener('scroll', checkIfAtBottom);
+
+        // Check on page load and initial scroll position
+        window.addEventListener('load', function() {
+            checkIfAtBottom(); // Ensure the scroll icon is hidden or shown based on initial load
+            checkOrientation(); // Ensure the orientation check is triggered
+        });
+
+        // Adjust for orientation changes
+        async function checkOrientation() {
+            const landscapeMediaQuery = window.matchMedia("(orientation: landscape)");
+            const mobileMediaQuery = window.matchMedia("(max-width: 600px)"); // Adjust the width as needed
+
+            if (mobileMediaQuery.matches && !landscapeMediaQuery.matches) {
+                if (sessionStorage.getItem('viewmode') !== 'true') {
+                    // User is on mobile and not in landscape
+                    await MessageBox("Please rotate your device to landscape mode for a better view.", "Ok", "View Mode");
+                    sessionStorage.setItem('viewmode', 'true');
+                }
+            }
+        }
+
+        // Check on resize
+        window.addEventListener("resize", checkOrientation);
 
     </script>
 
-    <!-- <script type="module">
-        import { db } from './firebase-config.js';
-        import { collection, getDocs, query, orderBy, where, onSnapshot } from "https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore.js";
 
-        // Function to format Date to 'MM/DD/YYYY, HH:mm:ss AM/PM'
-        function formatDateToLocaleString(date) {
-            const options = { 
-                year: 'numeric', 
-                month: '2-digit', 
-                day: '2-digit', 
-                hour: '2-digit', 
-                minute: '2-digit', 
-                second: '2-digit', 
-                hour12: true 
-            };
-            return date.toLocaleString('en-US', options);
-        }
-        const startDate = formatDateToLocaleString(new Date('2024-11-01'));
-        const endDate = formatDateToLocaleString(new Date('2024-12-31'));
-
-        async function fetchVisitorsInDateRange(startDate, endDate) {
-            const visitorsQuery = query(
-                collection(db, 'Visitors'),
-                where('Date', '>=', startDate), 
-                where('Date', '<=', endDate),
-                orderBy('Date', 'desc')
-            );
-
-            const querySnapshot = await getDocs(visitorsQuery);
-
-            querySnapshot.forEach((doc) => {
-                const data = doc.data();
-                console.log(`UserName: ${data.UserName}, Date: ${data.Date}`);
-            });
-        }
-
-        fetchVisitorsInDateRange(startDate, endDate);
-
-
-        // const visitorsRef = collection(db, 'Visitors');
-        // onSnapshot(visitorsRef, (snapshot) => {
-        //     snapshot.forEach(doc => {
-        //         console.log(`${doc.id} => ${doc.data().UserName}, Date: ${doc.data().Date}`);
-        //     });      
-        // });  
-    </script> -->
 
 </body>
 </html>
