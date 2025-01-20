@@ -34,6 +34,14 @@ body {
     flex-wrap: wrap; 
 } 
 
+.dataFilter .centered label {
+    padding-right: 24px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    align-items: center;
+} 
+
 #btnRefresh {
     border: none;
     display: flex;          /* Use Flexbox layout */
