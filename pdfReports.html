@@ -2,14 +2,14 @@
 <html lang="en">
 <head>
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-38W9BWNBFK"></script>
+    <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-38W9BWNBFK"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
 
         gtag('config', 'G-38W9BWNBFK');
-    </script>    
+    </script>     -->
     
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -25,9 +25,25 @@
             visibility: hidden;
             background-color: darkgrey;
         }
+
+        #slideContainer{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .subTitle {
+            display: flex;           
+            justify-content: space-between; 
+            align-items: center;      
+            padding: 5px 0px 5px 0px;           
+            width: 100%;
+        }
+
         #pdfSlide{
             align-items: center;
-            width: 100%;
+            width: 80%;
         }
 
         .pdfReport {
@@ -37,15 +53,11 @@
             width: 100%;
             height: 650px;
         } 
-        .subTitle {
-            display: flex;            /* Use Flexbox layout */
-            justify-content: space-between; /* Space out items to the left and right */
-            align-items: center;      /* Center items vertically */
-            padding: 5px 0px 5px 0px;            /* Add some padding for better appearance */
-        }
+
+
 
         h4 {
-            margin: 0;                /* Remove default margin for h4 */
+            margin: 0;                
         }
 
         button {
@@ -53,9 +65,9 @@
             padding: 5px 10px;
             font-size: 14px;
             border: none;
-            display: flex;          /* Use Flexbox layout */
-            align-items: center;    /* Center items vertically */
-            cursor: pointer;        /* Change cursor to pointer on hover */
+            display: flex;          
+            align-items: center;    
+            cursor: pointer;        
             background-color: rgb(0,64,128);
             color: white;
 
@@ -119,35 +131,35 @@
 <body>
     <button class="goBack" onclick="window.history.back()" >
         <i class="material-icons">arrow_back</i>Go back</button>
-    <div id="pdfSlide" class="w3-content w3-display-container w3-bottombar w3-border-black">
-        <div class="subTitle">
-            <h5>PDF Reports</h5>
-            <h6>Press Ctrl +- to adjust width</h6>
-            <div style="display: inline-flex;">
-            <button class="excelBtn"
-                onclick="printExcel()">
-                <i style="font: size 16px; margin-right: 10px" class="fa" >&#xf1c3;</i>Excel</button>
-                <!-- <i class="fa fa-file-excel-o" style="margin-right: 10px"></i> -->
-            <button class="downloadBtn"
-                onclick="downloadExcel()">
-                Download PDF</button>
+    <!-- <div id="pdfSlide" class="w3-content w3-display-container w3-bottombar w3-border-black"> -->
+
+    <div id="slideContainer">
+
+        <div id="pdfSlide" >
+            <div class="subTitle">
+                <h5>PDF Reports</h5>
+                <h6>Press Ctrl +- to adjust width</h6>
+                <div style="display: inline-flex;">
+                    <button class="excelBtn"
+                        onclick="printExcel()">
+                        <i style="font: size 16px; margin-right: 10px" class="fa" >&#xf1c3;</i>Excel</button>
+                    <button class="downloadBtn"
+                        onclick="downloadExcel()">
+                        Download PDF</button>
+                </div>
             </div>
-                
+    
+            <div style="height: 100%;">
+                <embed type="application/pdf" name='summary' class="pdfReport" src="./PDF/Store Sales Summary.pdf" >
+                <embed type="application/pdf" name='daily' class="pdfReport" src="./PDF/Daily Sales.pdf" >
+                <embed type="application/pdf" name='byBusiness' class="pdfReport" src="./PDF/Store Sales by Business Unit.pdf" >
+                <embed type="application/pdf" name='overall' class="pdfReport" src="./PDF/Store Sales Overall Brand.pdf" >
+                <embed type="application/pdf" name='byBrand' class="pdfReport" src="./PDF/Store Sales by Brand.pdf" >
+            </div>
         </div>
-        <div>
-            <embed type="application/pdf" name='summary' class="pdfReport" src="./PDF/Store Sales Summary.pdf" >
-            <embed type="application/pdf" name='daily' class="pdfReport" src="./PDF/Daily Sales.pdf" >
-            <embed type="application/pdf" name='byBusiness' class="pdfReport" src="./PDF/Store Sales by Business Unit.pdf" >
-            <embed type="application/pdf" name='overall' class="pdfReport" src="./PDF/Store Sales Overall Brand.pdf" >
-            <embed type="application/pdf" name='byBrand' class="pdfReport" src="./PDF/Store Sales by Brand.pdf" >
-       
-        </div>
-        <!-- <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
-        <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button> -->
-            
+        <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+        <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
     </div>
-    <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
-    <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
     <br>
     <br>
 
