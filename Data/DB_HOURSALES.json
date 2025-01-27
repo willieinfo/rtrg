@@ -10,21 +10,21 @@
 "storname": " SPACE28 TRAVEL BUDDY T3",
 "hourtime": "01",
 "timesale": "01am",
-"trxcount":9.00
+"trxcount":11.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " SPACE28 TRAVEL BUDDY T3",
 "hourtime": "02",
 "timesale": "02am",
-"trxcount":15.00
+"trxcount":19.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " SPACE28 TRAVEL BUDDY T3",
 "hourtime": "03",
 "timesale": "03am",
-"trxcount":7.00
+"trxcount":9.00
 },
 {
 "storegrp": "ATHLEISURE",
@@ -45,49 +45,49 @@
 "storname": " SPACE28 TRAVEL BUDDY T3",
 "hourtime": "06",
 "timesale": "06am",
-"trxcount":20.00
+"trxcount":24.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " SPACE28 TRAVEL BUDDY T3",
 "hourtime": "07",
 "timesale": "07am",
-"trxcount":18.00
+"trxcount":21.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " SPACE28 TRAVEL BUDDY T3",
 "hourtime": "08",
 "timesale": "08am",
-"trxcount":30.00
+"trxcount":38.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " SPACE28 TRAVEL BUDDY T3",
 "hourtime": "09",
 "timesale": "09am",
-"trxcount":17.00
+"trxcount":19.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " SPACE28 TRAVEL BUDDY T3",
 "hourtime": "10",
 "timesale": "10am",
-"trxcount":29.00
+"trxcount":30.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " SPACE28 TRAVEL BUDDY T3",
 "hourtime": "11",
 "timesale": "11am",
-"trxcount":36.00
+"trxcount":38.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " SPACE28 TRAVEL BUDDY T3",
 "hourtime": "12",
 "timesale": "12pm",
-"trxcount":29.00
+"trxcount":32.00
 },
 {
 "storegrp": "ATHLEISURE",
@@ -101,910 +101,910 @@
 "storname": " SPACE28 TRAVEL BUDDY T3",
 "hourtime": "14",
 "timesale": "02pm",
-"trxcount":35.00
+"trxcount":41.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " SPACE28 TRAVEL BUDDY T3",
 "hourtime": "15",
 "timesale": "03pm",
-"trxcount":29.00
+"trxcount":37.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " SPACE28 TRAVEL BUDDY T3",
 "hourtime": "16",
 "timesale": "04pm",
-"trxcount":42.00
+"trxcount":54.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " SPACE28 TRAVEL BUDDY T3",
 "hourtime": "17",
 "timesale": "05pm",
-"trxcount":42.00
+"trxcount":48.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " SPACE28 TRAVEL BUDDY T3",
 "hourtime": "18",
 "timesale": "06pm",
-"trxcount":25.00
+"trxcount":32.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " SPACE28 TRAVEL BUDDY T3",
 "hourtime": "19",
 "timesale": "07pm",
-"trxcount":30.00
+"trxcount":32.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " SPACE28 TRAVEL BUDDY T3",
 "hourtime": "20",
 "timesale": "08pm",
-"trxcount":20.00
+"trxcount":24.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " SPACE28 TRAVEL BUDDY T3",
 "hourtime": "21",
 "timesale": "09pm",
-"trxcount":17.00
+"trxcount":19.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " SPACE28 TRAVEL BUDDY T3",
 "hourtime": "22",
 "timesale": "10pm",
-"trxcount":24.00
+"trxcount":27.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " SPACE28 TRAVEL BUDDY T3",
 "hourtime": "23",
 "timesale": "11pm",
-"trxcount":7.00
+"trxcount":9.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES LEFT WING",
 "hourtime": "00",
 "timesale": "12am",
-"trxcount":14.00
+"trxcount":19.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES LEFT WING",
 "hourtime": "01",
 "timesale": "01am",
-"trxcount":15.00
+"trxcount":17.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES LEFT WING",
 "hourtime": "02",
 "timesale": "02am",
-"trxcount":14.00
+"trxcount":17.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES LEFT WING",
 "hourtime": "03",
 "timesale": "03am",
-"trxcount":11.00
-},
-{
-"storegrp": "ATHLEISURE",
-"storname": " THE SHOPPES LEFT WING",
-"hourtime": "04",
-"timesale": "04am",
-"trxcount":15.00
-},
-{
-"storegrp": "ATHLEISURE",
-"storname": " THE SHOPPES LEFT WING",
-"hourtime": "05",
-"timesale": "05am",
-"trxcount":15.00
-},
-{
-"storegrp": "ATHLEISURE",
-"storname": " THE SHOPPES LEFT WING",
-"hourtime": "06",
-"timesale": "06am",
 "trxcount":13.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES LEFT WING",
-"hourtime": "07",
-"timesale": "07am",
-"trxcount":24.00
+"hourtime": "04",
+"timesale": "04am",
+"trxcount":19.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES LEFT WING",
-"hourtime": "08",
-"timesale": "08am",
-"trxcount":22.00
-},
-{
-"storegrp": "ATHLEISURE",
-"storname": " THE SHOPPES LEFT WING",
-"hourtime": "09",
-"timesale": "09am",
-"trxcount":23.00
-},
-{
-"storegrp": "ATHLEISURE",
-"storname": " THE SHOPPES LEFT WING",
-"hourtime": "10",
-"timesale": "10am",
-"trxcount":27.00
-},
-{
-"storegrp": "ATHLEISURE",
-"storname": " THE SHOPPES LEFT WING",
-"hourtime": "11",
-"timesale": "11am",
-"trxcount":26.00
-},
-{
-"storegrp": "ATHLEISURE",
-"storname": " THE SHOPPES LEFT WING",
-"hourtime": "12",
-"timesale": "12pm",
-"trxcount":40.00
-},
-{
-"storegrp": "ATHLEISURE",
-"storname": " THE SHOPPES LEFT WING",
-"hourtime": "13",
-"timesale": "01pm",
-"trxcount":55.00
-},
-{
-"storegrp": "ATHLEISURE",
-"storname": " THE SHOPPES LEFT WING",
-"hourtime": "14",
-"timesale": "02pm",
-"trxcount":35.00
-},
-{
-"storegrp": "ATHLEISURE",
-"storname": " THE SHOPPES LEFT WING",
-"hourtime": "15",
-"timesale": "03pm",
-"trxcount":46.00
-},
-{
-"storegrp": "ATHLEISURE",
-"storname": " THE SHOPPES LEFT WING",
-"hourtime": "16",
-"timesale": "04pm",
-"trxcount":31.00
-},
-{
-"storegrp": "ATHLEISURE",
-"storname": " THE SHOPPES LEFT WING",
-"hourtime": "17",
-"timesale": "05pm",
-"trxcount":36.00
-},
-{
-"storegrp": "ATHLEISURE",
-"storname": " THE SHOPPES LEFT WING",
-"hourtime": "18",
-"timesale": "06pm",
-"trxcount":33.00
-},
-{
-"storegrp": "ATHLEISURE",
-"storname": " THE SHOPPES LEFT WING",
-"hourtime": "19",
-"timesale": "07pm",
+"hourtime": "05",
+"timesale": "05am",
 "trxcount":21.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES LEFT WING",
+"hourtime": "06",
+"timesale": "06am",
+"trxcount":18.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": " THE SHOPPES LEFT WING",
+"hourtime": "07",
+"timesale": "07am",
+"trxcount":28.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": " THE SHOPPES LEFT WING",
+"hourtime": "08",
+"timesale": "08am",
+"trxcount":29.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": " THE SHOPPES LEFT WING",
+"hourtime": "09",
+"timesale": "09am",
+"trxcount":30.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": " THE SHOPPES LEFT WING",
+"hourtime": "10",
+"timesale": "10am",
+"trxcount":35.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": " THE SHOPPES LEFT WING",
+"hourtime": "11",
+"timesale": "11am",
+"trxcount":30.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": " THE SHOPPES LEFT WING",
+"hourtime": "12",
+"timesale": "12pm",
+"trxcount":48.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": " THE SHOPPES LEFT WING",
+"hourtime": "13",
+"timesale": "01pm",
+"trxcount":72.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": " THE SHOPPES LEFT WING",
+"hourtime": "14",
+"timesale": "02pm",
+"trxcount":51.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": " THE SHOPPES LEFT WING",
+"hourtime": "15",
+"timesale": "03pm",
+"trxcount":58.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": " THE SHOPPES LEFT WING",
+"hourtime": "16",
+"timesale": "04pm",
+"trxcount":44.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": " THE SHOPPES LEFT WING",
+"hourtime": "17",
+"timesale": "05pm",
+"trxcount":48.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": " THE SHOPPES LEFT WING",
+"hourtime": "18",
+"timesale": "06pm",
+"trxcount":43.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": " THE SHOPPES LEFT WING",
+"hourtime": "19",
+"timesale": "07pm",
+"trxcount":36.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": " THE SHOPPES LEFT WING",
 "hourtime": "20",
 "timesale": "08pm",
-"trxcount":20.00
+"trxcount":25.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES LEFT WING",
 "hourtime": "21",
 "timesale": "09pm",
-"trxcount":32.00
+"trxcount":37.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES LEFT WING",
 "hourtime": "22",
 "timesale": "10pm",
-"trxcount":14.00
+"trxcount":16.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES LEFT WING",
 "hourtime": "23",
 "timesale": "11pm",
-"trxcount":8.00
+"trxcount":9.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES T3 LANDSIDE",
 "hourtime": "00",
 "timesale": "12am",
+"trxcount":100.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": " THE SHOPPES T3 LANDSIDE",
+"hourtime": "01",
+"timesale": "01am",
 "trxcount":79.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES T3 LANDSIDE",
-"hourtime": "01",
-"timesale": "01am",
-"trxcount":70.00
-},
-{
-"storegrp": "ATHLEISURE",
-"storname": " THE SHOPPES T3 LANDSIDE",
 "hourtime": "02",
 "timesale": "02am",
-"trxcount":70.00
+"trxcount":84.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES T3 LANDSIDE",
 "hourtime": "03",
 "timesale": "03am",
-"trxcount":70.00
+"trxcount":87.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES T3 LANDSIDE",
 "hourtime": "04",
 "timesale": "04am",
-"trxcount":49.00
+"trxcount":58.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES T3 LANDSIDE",
 "hourtime": "05",
 "timesale": "05am",
-"trxcount":71.00
+"trxcount":78.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES T3 LANDSIDE",
 "hourtime": "06",
 "timesale": "06am",
-"trxcount":77.00
+"trxcount":91.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES T3 LANDSIDE",
 "hourtime": "07",
 "timesale": "07am",
-"trxcount":122.00
+"trxcount":144.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES T3 LANDSIDE",
 "hourtime": "08",
 "timesale": "08am",
-"trxcount":143.00
+"trxcount":168.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES T3 LANDSIDE",
 "hourtime": "09",
 "timesale": "09am",
-"trxcount":169.00
+"trxcount":199.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES T3 LANDSIDE",
 "hourtime": "10",
 "timesale": "10am",
-"trxcount":170.00
+"trxcount":205.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES T3 LANDSIDE",
 "hourtime": "11",
 "timesale": "11am",
-"trxcount":190.00
+"trxcount":228.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES T3 LANDSIDE",
 "hourtime": "12",
 "timesale": "12pm",
-"trxcount":184.00
+"trxcount":218.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES T3 LANDSIDE",
 "hourtime": "13",
 "timesale": "01pm",
-"trxcount":229.00
+"trxcount":269.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES T3 LANDSIDE",
 "hourtime": "14",
 "timesale": "02pm",
-"trxcount":248.00
+"trxcount":280.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES T3 LANDSIDE",
 "hourtime": "15",
 "timesale": "03pm",
-"trxcount":223.00
+"trxcount":261.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES T3 LANDSIDE",
 "hourtime": "16",
 "timesale": "04pm",
-"trxcount":212.00
+"trxcount":259.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES T3 LANDSIDE",
 "hourtime": "17",
 "timesale": "05pm",
-"trxcount":211.00
+"trxcount":242.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES T3 LANDSIDE",
 "hourtime": "18",
 "timesale": "06pm",
-"trxcount":161.00
+"trxcount":194.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES T3 LANDSIDE",
 "hourtime": "19",
 "timesale": "07pm",
-"trxcount":167.00
+"trxcount":193.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES T3 LANDSIDE",
 "hourtime": "20",
 "timesale": "08pm",
-"trxcount":145.00
+"trxcount":164.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES T3 LANDSIDE",
 "hourtime": "21",
 "timesale": "09pm",
-"trxcount":141.00
+"trxcount":160.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES T3 LANDSIDE",
 "hourtime": "22",
 "timesale": "10pm",
-"trxcount":99.00
+"trxcount":112.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " THE SHOPPES T3 LANDSIDE",
 "hourtime": "23",
 "timesale": "11pm",
-"trxcount":44.00
+"trxcount":59.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " CSP PITX",
 "hourtime": "00",
 "timesale": "12am",
-"trxcount":188.00
+"trxcount":234.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " CSP PITX",
 "hourtime": "01",
 "timesale": "01am",
-"trxcount":248.00
+"trxcount":297.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " CSP PITX",
 "hourtime": "02",
 "timesale": "02am",
-"trxcount":222.00
+"trxcount":260.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " CSP PITX",
 "hourtime": "03",
 "timesale": "03am",
-"trxcount":181.00
+"trxcount":217.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " CSP PITX",
 "hourtime": "04",
 "timesale": "04am",
-"trxcount":247.00
+"trxcount":290.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " CSP PITX",
 "hourtime": "05",
 "timesale": "05am",
-"trxcount":292.00
+"trxcount":358.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " CSP PITX",
 "hourtime": "06",
 "timesale": "06am",
-"trxcount":334.00
+"trxcount":389.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " CSP PITX",
 "hourtime": "07",
 "timesale": "07am",
-"trxcount":395.00
+"trxcount":484.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " CSP PITX",
 "hourtime": "08",
 "timesale": "08am",
-"trxcount":478.00
+"trxcount":577.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " CSP PITX",
 "hourtime": "09",
 "timesale": "09am",
-"trxcount":468.00
+"trxcount":549.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " CSP PITX",
 "hourtime": "10",
 "timesale": "10am",
-"trxcount":550.00
+"trxcount":657.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " CSP PITX",
 "hourtime": "11",
 "timesale": "11am",
-"trxcount":692.00
+"trxcount":816.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " CSP PITX",
 "hourtime": "12",
 "timesale": "12pm",
-"trxcount":739.00
+"trxcount":878.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " CSP PITX",
 "hourtime": "13",
 "timesale": "01pm",
-"trxcount":864.00
+"trxcount":1000.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " CSP PITX",
 "hourtime": "14",
 "timesale": "02pm",
-"trxcount":800.00
+"trxcount":944.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " CSP PITX",
 "hourtime": "15",
 "timesale": "03pm",
-"trxcount":911.00
+"trxcount":1077.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " CSP PITX",
 "hourtime": "16",
 "timesale": "04pm",
-"trxcount":880.00
+"trxcount":1075.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " CSP PITX",
 "hourtime": "17",
 "timesale": "05pm",
-"trxcount":947.00
+"trxcount":1132.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " CSP PITX",
 "hourtime": "18",
 "timesale": "06pm",
-"trxcount":813.00
+"trxcount":988.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " CSP PITX",
 "hourtime": "19",
 "timesale": "07pm",
+"trxcount":925.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": " CSP PITX",
+"hourtime": "20",
+"timesale": "08pm",
 "trxcount":762.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " CSP PITX",
-"hourtime": "20",
-"timesale": "08pm",
-"trxcount":620.00
-},
-{
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": " CSP PITX",
 "hourtime": "21",
 "timesale": "09pm",
-"trxcount":637.00
+"trxcount":744.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " CSP PITX",
 "hourtime": "22",
 "timesale": "10pm",
-"trxcount":708.00
+"trxcount":867.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " CSP PITX",
 "hourtime": "23",
 "timesale": "11pm",
-"trxcount":357.00
+"trxcount":442.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " SPACE38 CSP2 T3",
 "hourtime": "00",
 "timesale": "12am",
-"trxcount":98.00
+"trxcount":126.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " SPACE38 CSP2 T3",
 "hourtime": "01",
 "timesale": "01am",
-"trxcount":84.00
+"trxcount":96.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " SPACE38 CSP2 T3",
 "hourtime": "02",
 "timesale": "02am",
-"trxcount":83.00
+"trxcount":97.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " SPACE38 CSP2 T3",
 "hourtime": "03",
 "timesale": "03am",
-"trxcount":84.00
+"trxcount":94.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " SPACE38 CSP2 T3",
 "hourtime": "04",
 "timesale": "04am",
-"trxcount":83.00
+"trxcount":104.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " SPACE38 CSP2 T3",
 "hourtime": "05",
 "timesale": "05am",
-"trxcount":93.00
+"trxcount":109.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " SPACE38 CSP2 T3",
 "hourtime": "06",
 "timesale": "06am",
-"trxcount":113.00
+"trxcount":136.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " SPACE38 CSP2 T3",
 "hourtime": "07",
 "timesale": "07am",
-"trxcount":126.00
+"trxcount":149.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " SPACE38 CSP2 T3",
 "hourtime": "08",
 "timesale": "08am",
-"trxcount":141.00
+"trxcount":162.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " SPACE38 CSP2 T3",
 "hourtime": "09",
 "timesale": "09am",
-"trxcount":205.00
+"trxcount":233.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " SPACE38 CSP2 T3",
 "hourtime": "10",
 "timesale": "10am",
-"trxcount":212.00
+"trxcount":248.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " SPACE38 CSP2 T3",
 "hourtime": "11",
 "timesale": "11am",
-"trxcount":240.00
+"trxcount":285.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " SPACE38 CSP2 T3",
 "hourtime": "12",
 "timesale": "12pm",
-"trxcount":242.00
+"trxcount":303.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " SPACE38 CSP2 T3",
 "hourtime": "13",
 "timesale": "01pm",
-"trxcount":228.00
+"trxcount":264.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " SPACE38 CSP2 T3",
 "hourtime": "14",
 "timesale": "02pm",
-"trxcount":257.00
+"trxcount":302.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " SPACE38 CSP2 T3",
 "hourtime": "15",
 "timesale": "03pm",
-"trxcount":295.00
+"trxcount":359.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " SPACE38 CSP2 T3",
 "hourtime": "16",
 "timesale": "04pm",
-"trxcount":255.00
+"trxcount":305.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " SPACE38 CSP2 T3",
 "hourtime": "17",
 "timesale": "05pm",
-"trxcount":273.00
+"trxcount":318.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " SPACE38 CSP2 T3",
 "hourtime": "18",
 "timesale": "06pm",
-"trxcount":212.00
+"trxcount":251.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " SPACE38 CSP2 T3",
+"hourtime": "19",
+"timesale": "07pm",
+"trxcount":174.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": " SPACE38 CSP2 T3",
+"hourtime": "20",
+"timesale": "08pm",
+"trxcount":233.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": " SPACE38 CSP2 T3",
+"hourtime": "21",
+"timesale": "09pm",
+"trxcount":174.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": " SPACE38 CSP2 T3",
+"hourtime": "22",
+"timesale": "10pm",
+"trxcount":154.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": " SPACE38 CSP2 T3",
+"hourtime": "23",
+"timesale": "11pm",
+"trxcount":75.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": " THE SHOPPES CSP1",
+"hourtime": "00",
+"timesale": "12am",
+"trxcount":72.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": " THE SHOPPES CSP1",
+"hourtime": "01",
+"timesale": "01am",
+"trxcount":63.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": " THE SHOPPES CSP1",
+"hourtime": "02",
+"timesale": "02am",
+"trxcount":76.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": " THE SHOPPES CSP1",
+"hourtime": "03",
+"timesale": "03am",
+"trxcount":73.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": " THE SHOPPES CSP1",
+"hourtime": "04",
+"timesale": "04am",
+"trxcount":66.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": " THE SHOPPES CSP1",
+"hourtime": "05",
+"timesale": "05am",
+"trxcount":60.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": " THE SHOPPES CSP1",
+"hourtime": "06",
+"timesale": "06am",
+"trxcount":98.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": " THE SHOPPES CSP1",
+"hourtime": "07",
+"timesale": "07am",
+"trxcount":101.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": " THE SHOPPES CSP1",
+"hourtime": "08",
+"timesale": "08am",
+"trxcount":107.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": " THE SHOPPES CSP1",
+"hourtime": "09",
+"timesale": "09am",
+"trxcount":172.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": " THE SHOPPES CSP1",
+"hourtime": "10",
+"timesale": "10am",
+"trxcount":217.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": " THE SHOPPES CSP1",
+"hourtime": "11",
+"timesale": "11am",
+"trxcount":261.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": " THE SHOPPES CSP1",
+"hourtime": "12",
+"timesale": "12pm",
+"trxcount":249.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": " THE SHOPPES CSP1",
+"hourtime": "13",
+"timesale": "01pm",
+"trxcount":235.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": " THE SHOPPES CSP1",
+"hourtime": "14",
+"timesale": "02pm",
+"trxcount":255.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": " THE SHOPPES CSP1",
+"hourtime": "15",
+"timesale": "03pm",
+"trxcount":282.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": " THE SHOPPES CSP1",
+"hourtime": "16",
+"timesale": "04pm",
+"trxcount":235.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": " THE SHOPPES CSP1",
+"hourtime": "17",
+"timesale": "05pm",
+"trxcount":187.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": " THE SHOPPES CSP1",
+"hourtime": "18",
+"timesale": "06pm",
+"trxcount":175.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": " THE SHOPPES CSP1",
 "hourtime": "19",
 "timesale": "07pm",
 "trxcount":153.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": " SPACE38 CSP2 T3",
-"hourtime": "20",
-"timesale": "08pm",
-"trxcount":200.00
-},
-{
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": " SPACE38 CSP2 T3",
-"hourtime": "21",
-"timesale": "09pm",
-"trxcount":159.00
-},
-{
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": " SPACE38 CSP2 T3",
-"hourtime": "22",
-"timesale": "10pm",
-"trxcount":132.00
-},
-{
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": " SPACE38 CSP2 T3",
-"hourtime": "23",
-"timesale": "11pm",
-"trxcount":62.00
-},
-{
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": " THE SHOPPES CSP1",
-"hourtime": "00",
-"timesale": "12am",
-"trxcount":59.00
-},
-{
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": " THE SHOPPES CSP1",
-"hourtime": "01",
-"timesale": "01am",
-"trxcount":53.00
-},
-{
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": " THE SHOPPES CSP1",
-"hourtime": "02",
-"timesale": "02am",
-"trxcount":63.00
-},
-{
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": " THE SHOPPES CSP1",
-"hourtime": "03",
-"timesale": "03am",
-"trxcount":61.00
-},
-{
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": " THE SHOPPES CSP1",
-"hourtime": "04",
-"timesale": "04am",
-"trxcount":61.00
-},
-{
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": " THE SHOPPES CSP1",
-"hourtime": "05",
-"timesale": "05am",
-"trxcount":55.00
-},
-{
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": " THE SHOPPES CSP1",
-"hourtime": "06",
-"timesale": "06am",
-"trxcount":85.00
-},
-{
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": " THE SHOPPES CSP1",
-"hourtime": "07",
-"timesale": "07am",
-"trxcount":84.00
-},
-{
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": " THE SHOPPES CSP1",
-"hourtime": "08",
-"timesale": "08am",
-"trxcount":87.00
-},
-{
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": " THE SHOPPES CSP1",
-"hourtime": "09",
-"timesale": "09am",
-"trxcount":152.00
-},
-{
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": " THE SHOPPES CSP1",
-"hourtime": "10",
-"timesale": "10am",
-"trxcount":185.00
-},
-{
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": " THE SHOPPES CSP1",
-"hourtime": "11",
-"timesale": "11am",
-"trxcount":230.00
-},
-{
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": " THE SHOPPES CSP1",
-"hourtime": "12",
-"timesale": "12pm",
-"trxcount":211.00
-},
-{
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": " THE SHOPPES CSP1",
-"hourtime": "13",
-"timesale": "01pm",
-"trxcount":199.00
-},
-{
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": " THE SHOPPES CSP1",
-"hourtime": "14",
-"timesale": "02pm",
-"trxcount":210.00
-},
-{
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": " THE SHOPPES CSP1",
-"hourtime": "15",
-"timesale": "03pm",
-"trxcount":242.00
-},
-{
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": " THE SHOPPES CSP1",
-"hourtime": "16",
-"timesale": "04pm",
-"trxcount":194.00
-},
-{
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": " THE SHOPPES CSP1",
-"hourtime": "17",
-"timesale": "05pm",
-"trxcount":159.00
-},
-{
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": " THE SHOPPES CSP1",
-"hourtime": "18",
-"timesale": "06pm",
-"trxcount":157.00
-},
-{
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": " THE SHOPPES CSP1",
-"hourtime": "19",
-"timesale": "07pm",
-"trxcount":131.00
-},
-{
-"storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " THE SHOPPES CSP1",
 "hourtime": "20",
 "timesale": "08pm",
-"trxcount":135.00
+"trxcount":154.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " THE SHOPPES CSP1",
 "hourtime": "21",
 "timesale": "09pm",
-"trxcount":127.00
+"trxcount":141.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " THE SHOPPES CSP1",
 "hourtime": "22",
 "timesale": "10pm",
-"trxcount":91.00
+"trxcount":99.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " THE SHOPPES CSP1",
 "hourtime": "23",
 "timesale": "11pm",
-"trxcount":49.00
+"trxcount":60.00
 },
 {
 "storegrp": "OUTLETS",
@@ -1025,84 +1025,84 @@
 "storname": " BORACAY",
 "hourtime": "10",
 "timesale": "10am",
-"trxcount":105.00
+"trxcount":126.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " BORACAY",
 "hourtime": "11",
 "timesale": "11am",
-"trxcount":86.00
+"trxcount":104.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " BORACAY",
 "hourtime": "12",
 "timesale": "12pm",
-"trxcount":99.00
+"trxcount":121.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " BORACAY",
 "hourtime": "13",
 "timesale": "01pm",
-"trxcount":93.00
+"trxcount":112.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " BORACAY",
 "hourtime": "14",
 "timesale": "02pm",
-"trxcount":86.00
+"trxcount":104.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " BORACAY",
 "hourtime": "15",
 "timesale": "03pm",
-"trxcount":88.00
+"trxcount":111.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " BORACAY",
 "hourtime": "16",
 "timesale": "04pm",
-"trxcount":96.00
+"trxcount":115.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " BORACAY",
 "hourtime": "17",
 "timesale": "05pm",
-"trxcount":95.00
+"trxcount":119.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " BORACAY",
 "hourtime": "18",
 "timesale": "06pm",
-"trxcount":111.00
+"trxcount":134.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " BORACAY",
 "hourtime": "19",
 "timesale": "07pm",
-"trxcount":114.00
+"trxcount":142.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " BORACAY",
 "hourtime": "20",
 "timesale": "08pm",
-"trxcount":130.00
+"trxcount":162.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " BORACAY",
 "hourtime": "21",
 "timesale": "09pm",
-"trxcount":44.00
+"trxcount":51.00
 },
 {
 "storegrp": "OUTLETS",
@@ -1116,70 +1116,70 @@
 "storname": " CEBU PUEBLO VERDE",
 "hourtime": "11",
 "timesale": "11am",
-"trxcount":14.00
+"trxcount":20.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " CEBU PUEBLO VERDE",
 "hourtime": "12",
 "timesale": "12pm",
-"trxcount":32.00
+"trxcount":40.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " CEBU PUEBLO VERDE",
 "hourtime": "13",
 "timesale": "01pm",
-"trxcount":33.00
+"trxcount":36.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " CEBU PUEBLO VERDE",
 "hourtime": "14",
 "timesale": "02pm",
-"trxcount":29.00
+"trxcount":34.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " CEBU PUEBLO VERDE",
 "hourtime": "15",
 "timesale": "03pm",
-"trxcount":30.00
+"trxcount":36.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " CEBU PUEBLO VERDE",
 "hourtime": "16",
 "timesale": "04pm",
-"trxcount":35.00
+"trxcount":43.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " CEBU PUEBLO VERDE",
 "hourtime": "17",
 "timesale": "05pm",
-"trxcount":33.00
+"trxcount":38.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " CEBU PUEBLO VERDE",
 "hourtime": "18",
 "timesale": "06pm",
-"trxcount":30.00
+"trxcount":35.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " CEBU PUEBLO VERDE",
 "hourtime": "19",
 "timesale": "07pm",
-"trxcount":34.00
+"trxcount":37.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " CEBU PUEBLO VERDE",
 "hourtime": "20",
 "timesale": "08pm",
-"trxcount":30.00
+"trxcount":38.00
 },
 {
 "storegrp": "OUTLETS",
@@ -1193,490 +1193,490 @@
 "storname": " FR PITX",
 "hourtime": "09",
 "timesale": "09am",
-"trxcount":39.00
+"trxcount":48.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " FR PITX",
 "hourtime": "10",
 "timesale": "10am",
-"trxcount":43.00
+"trxcount":50.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " FR PITX",
 "hourtime": "11",
 "timesale": "11am",
-"trxcount":44.00
+"trxcount":52.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " FR PITX",
 "hourtime": "12",
 "timesale": "12pm",
-"trxcount":61.00
+"trxcount":70.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " FR PITX",
 "hourtime": "13",
 "timesale": "01pm",
-"trxcount":62.00
+"trxcount":71.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " FR PITX",
 "hourtime": "14",
 "timesale": "02pm",
-"trxcount":57.00
+"trxcount":66.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " FR PITX",
+"hourtime": "15",
+"timesale": "03pm",
+"trxcount":58.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " FR PITX",
+"hourtime": "16",
+"timesale": "04pm",
+"trxcount":76.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " FR PITX",
+"hourtime": "17",
+"timesale": "05pm",
+"trxcount":85.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " FR PITX",
+"hourtime": "18",
+"timesale": "06pm",
+"trxcount":74.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " FR PITX",
+"hourtime": "19",
+"timesale": "07pm",
+"trxcount":63.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " FR PITX",
+"hourtime": "20",
+"timesale": "08pm",
+"trxcount":39.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " FR PITX",
+"hourtime": "21",
+"timesale": "09pm",
+"trxcount":1.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX BALAGTAS",
+"hourtime": "06",
+"timesale": "06am",
+"trxcount":4.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX BALAGTAS",
+"hourtime": "07",
+"timesale": "07am",
+"trxcount":37.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX BALAGTAS",
+"hourtime": "08",
+"timesale": "08am",
+"trxcount":61.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX BALAGTAS",
+"hourtime": "09",
+"timesale": "09am",
+"trxcount":58.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX BALAGTAS",
+"hourtime": "10",
+"timesale": "10am",
+"trxcount":62.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX BALAGTAS",
+"hourtime": "11",
+"timesale": "11am",
+"trxcount":63.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX BALAGTAS",
+"hourtime": "12",
+"timesale": "12pm",
+"trxcount":70.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX BALAGTAS",
+"hourtime": "13",
+"timesale": "01pm",
+"trxcount":64.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX BALAGTAS",
+"hourtime": "14",
+"timesale": "02pm",
+"trxcount":70.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX BALAGTAS",
+"hourtime": "15",
+"timesale": "03pm",
+"trxcount":82.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX BALAGTAS",
+"hourtime": "16",
+"timesale": "04pm",
+"trxcount":76.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX BALAGTAS",
+"hourtime": "17",
+"timesale": "05pm",
+"trxcount":41.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX BALAGTAS",
+"hourtime": "18",
+"timesale": "06pm",
+"trxcount":1.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX DRIVEDINE",
+"hourtime": "10",
+"timesale": "10am",
+"trxcount":33.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX DRIVEDINE",
+"hourtime": "11",
+"timesale": "11am",
+"trxcount":51.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX DRIVEDINE",
+"hourtime": "12",
+"timesale": "12pm",
+"trxcount":58.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX DRIVEDINE",
+"hourtime": "13",
+"timesale": "01pm",
+"trxcount":65.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX DRIVEDINE",
+"hourtime": "14",
+"timesale": "02pm",
+"trxcount":63.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX DRIVEDINE",
+"hourtime": "15",
+"timesale": "03pm",
+"trxcount":61.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX DRIVEDINE",
+"hourtime": "16",
+"timesale": "04pm",
+"trxcount":80.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX DRIVEDINE",
+"hourtime": "17",
+"timesale": "05pm",
+"trxcount":89.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX DRIVEDINE",
+"hourtime": "18",
+"timesale": "06pm",
+"trxcount":79.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX DRIVEDINE",
+"hourtime": "19",
+"timesale": "07pm",
+"trxcount":25.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX DRIVEDINE",
+"hourtime": "20",
+"timesale": "08pm",
+"trxcount":23.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX MEGA STATION",
+"hourtime": "10",
+"timesale": "10am",
+"trxcount":28.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX MEGA STATION",
+"hourtime": "11",
+"timesale": "11am",
+"trxcount":51.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX MEGA STATION",
+"hourtime": "12",
+"timesale": "12pm",
+"trxcount":63.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX MEGA STATION",
+"hourtime": "13",
+"timesale": "01pm",
+"trxcount":94.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX MEGA STATION",
+"hourtime": "14",
+"timesale": "02pm",
+"trxcount":95.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX MEGA STATION",
+"hourtime": "15",
+"timesale": "03pm",
+"trxcount":90.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX MEGA STATION",
+"hourtime": "16",
+"timesale": "04pm",
+"trxcount":96.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX MEGA STATION",
+"hourtime": "17",
+"timesale": "05pm",
+"trxcount":104.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX MEGA STATION",
+"hourtime": "18",
+"timesale": "06pm",
+"trxcount":94.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX MEGA STATION",
+"hourtime": "19",
+"timesale": "07pm",
+"trxcount":49.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX MEGA STATION",
+"hourtime": "20",
+"timesale": "08pm",
+"trxcount":7.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " NLEX MEGA STATION",
+"hourtime": "21",
+"timesale": "09pm",
+"trxcount":1.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " SLEX",
+"hourtime": "09",
+"timesale": "09am",
+"trxcount":23.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " SLEX",
+"hourtime": "10",
+"timesale": "10am",
+"trxcount":64.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " SLEX",
+"hourtime": "11",
+"timesale": "11am",
+"trxcount":62.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " SLEX",
+"hourtime": "12",
+"timesale": "12pm",
+"trxcount":72.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " SLEX",
+"hourtime": "13",
+"timesale": "01pm",
+"trxcount":65.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " SLEX",
+"hourtime": "14",
+"timesale": "02pm",
+"trxcount":62.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " SLEX",
+"hourtime": "15",
+"timesale": "03pm",
+"trxcount":89.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " SLEX",
+"hourtime": "16",
+"timesale": "04pm",
+"trxcount":63.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " SLEX",
+"hourtime": "17",
+"timesale": "05pm",
+"trxcount":93.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " SLEX",
+"hourtime": "18",
+"timesale": "06pm",
+"trxcount":91.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " SLEX",
+"hourtime": "19",
+"timesale": "07pm",
+"trxcount":38.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " SLEX",
+"hourtime": "20",
+"timesale": "08pm",
+"trxcount":11.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " SUBIC FREEPORT",
+"hourtime": "09",
+"timesale": "09am",
+"trxcount":13.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " SUBIC FREEPORT",
+"hourtime": "10",
+"timesale": "10am",
+"trxcount":23.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " SUBIC FREEPORT",
+"hourtime": "11",
+"timesale": "11am",
+"trxcount":36.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " SUBIC FREEPORT",
+"hourtime": "12",
+"timesale": "12pm",
+"trxcount":35.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " SUBIC FREEPORT",
+"hourtime": "13",
+"timesale": "01pm",
+"trxcount":56.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " SUBIC FREEPORT",
+"hourtime": "14",
+"timesale": "02pm",
+"trxcount":47.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": " SUBIC FREEPORT",
 "hourtime": "15",
 "timesale": "03pm",
 "trxcount":49.00
 },
 {
 "storegrp": "OUTLETS",
-"storname": " FR PITX",
+"storname": " SUBIC FREEPORT",
 "hourtime": "16",
 "timesale": "04pm",
-"trxcount":69.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " FR PITX",
-"hourtime": "17",
-"timesale": "05pm",
-"trxcount":75.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " FR PITX",
-"hourtime": "18",
-"timesale": "06pm",
-"trxcount":64.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " FR PITX",
-"hourtime": "19",
-"timesale": "07pm",
-"trxcount":57.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " FR PITX",
-"hourtime": "20",
-"timesale": "08pm",
-"trxcount":28.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " FR PITX",
-"hourtime": "21",
-"timesale": "09pm",
-"trxcount":1.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX BALAGTAS",
-"hourtime": "06",
-"timesale": "06am",
-"trxcount":2.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX BALAGTAS",
-"hourtime": "07",
-"timesale": "07am",
-"trxcount":28.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX BALAGTAS",
-"hourtime": "08",
-"timesale": "08am",
-"trxcount":47.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX BALAGTAS",
-"hourtime": "09",
-"timesale": "09am",
-"trxcount":45.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX BALAGTAS",
-"hourtime": "10",
-"timesale": "10am",
-"trxcount":48.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX BALAGTAS",
-"hourtime": "11",
-"timesale": "11am",
-"trxcount":53.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX BALAGTAS",
-"hourtime": "12",
-"timesale": "12pm",
-"trxcount":56.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX BALAGTAS",
-"hourtime": "13",
-"timesale": "01pm",
-"trxcount":55.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX BALAGTAS",
-"hourtime": "14",
-"timesale": "02pm",
-"trxcount":64.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX BALAGTAS",
-"hourtime": "15",
-"timesale": "03pm",
-"trxcount":65.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX BALAGTAS",
-"hourtime": "16",
-"timesale": "04pm",
-"trxcount":62.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX BALAGTAS",
-"hourtime": "17",
-"timesale": "05pm",
-"trxcount":36.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX BALAGTAS",
-"hourtime": "18",
-"timesale": "06pm",
-"trxcount":1.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX DRIVEDINE",
-"hourtime": "10",
-"timesale": "10am",
-"trxcount":31.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX DRIVEDINE",
-"hourtime": "11",
-"timesale": "11am",
-"trxcount":43.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX DRIVEDINE",
-"hourtime": "12",
-"timesale": "12pm",
-"trxcount":48.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX DRIVEDINE",
-"hourtime": "13",
-"timesale": "01pm",
-"trxcount":58.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX DRIVEDINE",
-"hourtime": "14",
-"timesale": "02pm",
-"trxcount":56.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX DRIVEDINE",
-"hourtime": "15",
-"timesale": "03pm",
-"trxcount":48.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX DRIVEDINE",
-"hourtime": "16",
-"timesale": "04pm",
-"trxcount":67.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX DRIVEDINE",
-"hourtime": "17",
-"timesale": "05pm",
-"trxcount":76.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX DRIVEDINE",
-"hourtime": "18",
-"timesale": "06pm",
-"trxcount":63.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX DRIVEDINE",
-"hourtime": "19",
-"timesale": "07pm",
-"trxcount":20.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX DRIVEDINE",
-"hourtime": "20",
-"timesale": "08pm",
-"trxcount":17.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX MEGA STATION",
-"hourtime": "10",
-"timesale": "10am",
-"trxcount":19.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX MEGA STATION",
-"hourtime": "11",
-"timesale": "11am",
-"trxcount":39.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX MEGA STATION",
-"hourtime": "12",
-"timesale": "12pm",
-"trxcount":54.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX MEGA STATION",
-"hourtime": "13",
-"timesale": "01pm",
-"trxcount":77.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX MEGA STATION",
-"hourtime": "14",
-"timesale": "02pm",
-"trxcount":83.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX MEGA STATION",
-"hourtime": "15",
-"timesale": "03pm",
-"trxcount":75.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX MEGA STATION",
-"hourtime": "16",
-"timesale": "04pm",
-"trxcount":84.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX MEGA STATION",
-"hourtime": "17",
-"timesale": "05pm",
-"trxcount":90.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX MEGA STATION",
-"hourtime": "18",
-"timesale": "06pm",
-"trxcount":80.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX MEGA STATION",
-"hourtime": "19",
-"timesale": "07pm",
-"trxcount":40.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX MEGA STATION",
-"hourtime": "20",
-"timesale": "08pm",
-"trxcount":5.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " NLEX MEGA STATION",
-"hourtime": "21",
-"timesale": "09pm",
-"trxcount":1.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " SLEX",
-"hourtime": "09",
-"timesale": "09am",
-"trxcount":20.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " SLEX",
-"hourtime": "10",
-"timesale": "10am",
-"trxcount":47.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " SLEX",
-"hourtime": "11",
-"timesale": "11am",
-"trxcount":56.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " SLEX",
-"hourtime": "12",
-"timesale": "12pm",
-"trxcount":62.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " SLEX",
-"hourtime": "13",
-"timesale": "01pm",
-"trxcount":59.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " SLEX",
-"hourtime": "14",
-"timesale": "02pm",
 "trxcount":50.00
 },
 {
 "storegrp": "OUTLETS",
-"storname": " SLEX",
-"hourtime": "15",
-"timesale": "03pm",
-"trxcount":80.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " SLEX",
-"hourtime": "16",
-"timesale": "04pm",
-"trxcount":56.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " SLEX",
-"hourtime": "17",
-"timesale": "05pm",
-"trxcount":80.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " SLEX",
-"hourtime": "18",
-"timesale": "06pm",
-"trxcount":78.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " SLEX",
-"hourtime": "19",
-"timesale": "07pm",
-"trxcount":26.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " SLEX",
-"hourtime": "20",
-"timesale": "08pm",
-"trxcount":11.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " SUBIC FREEPORT",
-"hourtime": "09",
-"timesale": "09am",
-"trxcount":11.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " SUBIC FREEPORT",
-"hourtime": "10",
-"timesale": "10am",
-"trxcount":20.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " SUBIC FREEPORT",
-"hourtime": "11",
-"timesale": "11am",
-"trxcount":26.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " SUBIC FREEPORT",
-"hourtime": "12",
-"timesale": "12pm",
-"trxcount":27.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " SUBIC FREEPORT",
-"hourtime": "13",
-"timesale": "01pm",
-"trxcount":48.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " SUBIC FREEPORT",
-"hourtime": "14",
-"timesale": "02pm",
-"trxcount":36.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " SUBIC FREEPORT",
-"hourtime": "15",
-"timesale": "03pm",
-"trxcount":43.00
-},
-{
-"storegrp": "OUTLETS",
-"storname": " SUBIC FREEPORT",
-"hourtime": "16",
-"timesale": "04pm",
-"trxcount":43.00
-},
-{
-"storegrp": "OUTLETS",
 "storname": " SUBIC FREEPORT",
 "hourtime": "17",
 "timesale": "05pm",
-"trxcount":33.00
+"trxcount":39.00
 },
 {
 "storegrp": "OUTLETS",
@@ -1690,266 +1690,266 @@
 "storname": " TRAVEL HUB BATANGAS",
 "hourtime": "06",
 "timesale": "06am",
-"trxcount":5.00
+"trxcount":6.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " TRAVEL HUB BATANGAS",
 "hourtime": "07",
 "timesale": "07am",
-"trxcount":17.00
+"trxcount":19.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " TRAVEL HUB BATANGAS",
 "hourtime": "08",
 "timesale": "08am",
-"trxcount":18.00
+"trxcount":22.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " TRAVEL HUB BATANGAS",
 "hourtime": "09",
 "timesale": "09am",
-"trxcount":15.00
+"trxcount":19.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " TRAVEL HUB BATANGAS",
 "hourtime": "10",
 "timesale": "10am",
-"trxcount":37.00
+"trxcount":41.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " TRAVEL HUB BATANGAS",
 "hourtime": "11",
 "timesale": "11am",
-"trxcount":33.00
+"trxcount":43.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " TRAVEL HUB BATANGAS",
 "hourtime": "12",
 "timesale": "12pm",
-"trxcount":45.00
+"trxcount":47.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " TRAVEL HUB BATANGAS",
 "hourtime": "13",
 "timesale": "01pm",
-"trxcount":43.00
+"trxcount":49.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " TRAVEL HUB BATANGAS",
 "hourtime": "14",
 "timesale": "02pm",
-"trxcount":69.00
+"trxcount":88.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " TRAVEL HUB BATANGAS",
 "hourtime": "15",
 "timesale": "03pm",
-"trxcount":52.00
+"trxcount":57.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " TRAVEL HUB BATANGAS",
 "hourtime": "16",
 "timesale": "04pm",
-"trxcount":37.00
+"trxcount":44.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " TRAVEL HUB BATANGAS",
 "hourtime": "17",
 "timesale": "05pm",
-"trxcount":29.00
+"trxcount":37.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " TRAVEL HUB BATANGAS",
 "hourtime": "18",
 "timesale": "06pm",
-"trxcount":26.00
+"trxcount":30.00
 },
 {
 "storegrp": "OUTLETS",
 "storname": " TRAVEL HUB BATANGAS",
 "hourtime": "19",
 "timesale": "07pm",
-"trxcount":18.00
+"trxcount":27.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL T3 DOM",
 "hourtime": "00",
 "timesale": "12am",
-"trxcount":112.00
+"trxcount":134.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL T3 DOM",
 "hourtime": "01",
 "timesale": "01am",
-"trxcount":132.00
+"trxcount":156.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL T3 DOM",
 "hourtime": "02",
 "timesale": "02am",
-"trxcount":205.00
+"trxcount":245.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL T3 DOM",
 "hourtime": "03",
 "timesale": "03am",
-"trxcount":200.00
+"trxcount":230.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL T3 DOM",
 "hourtime": "04",
 "timesale": "04am",
-"trxcount":222.00
+"trxcount":270.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL T3 DOM",
 "hourtime": "05",
 "timesale": "05am",
-"trxcount":232.00
+"trxcount":284.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL T3 DOM",
 "hourtime": "06",
 "timesale": "06am",
-"trxcount":255.00
+"trxcount":332.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL T3 DOM",
 "hourtime": "07",
 "timesale": "07am",
-"trxcount":293.00
+"trxcount":366.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL T3 DOM",
 "hourtime": "08",
 "timesale": "08am",
-"trxcount":403.00
+"trxcount":480.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL T3 DOM",
 "hourtime": "09",
 "timesale": "09am",
-"trxcount":394.00
+"trxcount":476.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL T3 DOM",
 "hourtime": "10",
 "timesale": "10am",
-"trxcount":280.00
+"trxcount":335.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL T3 DOM",
 "hourtime": "11",
 "timesale": "11am",
-"trxcount":251.00
+"trxcount":294.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL T3 DOM",
 "hourtime": "12",
 "timesale": "12pm",
-"trxcount":260.00
+"trxcount":306.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL T3 DOM",
 "hourtime": "13",
 "timesale": "01pm",
-"trxcount":348.00
+"trxcount":433.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL T3 DOM",
 "hourtime": "14",
 "timesale": "02pm",
-"trxcount":370.00
+"trxcount":443.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL T3 DOM",
 "hourtime": "15",
 "timesale": "03pm",
-"trxcount":330.00
+"trxcount":411.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL T3 DOM",
 "hourtime": "16",
 "timesale": "04pm",
-"trxcount":352.00
+"trxcount":426.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL T3 DOM",
 "hourtime": "17",
 "timesale": "05pm",
-"trxcount":221.00
+"trxcount":258.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL T3 DOM",
 "hourtime": "18",
 "timesale": "06pm",
-"trxcount":201.00
+"trxcount":243.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL T3 DOM",
 "hourtime": "19",
 "timesale": "07pm",
-"trxcount":232.00
+"trxcount":292.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL T3 DOM",
 "hourtime": "20",
 "timesale": "08pm",
-"trxcount":255.00
+"trxcount":314.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL T3 DOM",
 "hourtime": "21",
 "timesale": "09pm",
-"trxcount":250.00
+"trxcount":289.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL T3 DOM",
 "hourtime": "22",
 "timesale": "10pm",
-"trxcount":137.00
+"trxcount":161.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL T3 DOM",
 "hourtime": "23",
 "timesale": "11pm",
-"trxcount":100.00
+"trxcount":110.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2117,266 +2117,266 @@
 "storname": " AIRMALL ILOILO",
 "hourtime": "04",
 "timesale": "04am",
-"trxcount":7.00
+"trxcount":9.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL ILOILO",
 "hourtime": "05",
 "timesale": "05am",
-"trxcount":35.00
+"trxcount":46.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL ILOILO",
 "hourtime": "06",
 "timesale": "06am",
-"trxcount":30.00
+"trxcount":38.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL ILOILO",
 "hourtime": "07",
 "timesale": "07am",
-"trxcount":27.00
+"trxcount":30.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL ILOILO",
 "hourtime": "08",
 "timesale": "08am",
-"trxcount":10.00
+"trxcount":15.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL ILOILO",
 "hourtime": "09",
 "timesale": "09am",
-"trxcount":55.00
+"trxcount":67.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL ILOILO",
 "hourtime": "10",
 "timesale": "10am",
-"trxcount":19.00
+"trxcount":21.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL ILOILO",
 "hourtime": "11",
 "timesale": "11am",
-"trxcount":31.00
+"trxcount":46.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL ILOILO",
 "hourtime": "12",
 "timesale": "12pm",
-"trxcount":27.00
+"trxcount":43.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL ILOILO",
 "hourtime": "13",
 "timesale": "01pm",
-"trxcount":46.00
+"trxcount":56.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL ILOILO",
 "hourtime": "14",
 "timesale": "02pm",
-"trxcount":20.00
+"trxcount":27.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL ILOILO",
 "hourtime": "15",
 "timesale": "03pm",
-"trxcount":21.00
+"trxcount":27.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL ILOILO",
 "hourtime": "16",
 "timesale": "04pm",
-"trxcount":26.00
+"trxcount":30.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL ILOILO",
 "hourtime": "17",
 "timesale": "05pm",
-"trxcount":37.00
+"trxcount":41.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL ILOILO",
 "hourtime": "18",
 "timesale": "06pm",
-"trxcount":50.00
+"trxcount":59.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL ILOILO",
 "hourtime": "19",
 "timesale": "07pm",
-"trxcount":44.00
+"trxcount":53.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL ILOILO",
 "hourtime": "20",
 "timesale": "08pm",
-"trxcount":13.00
+"trxcount":19.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL ILOILO",
 "hourtime": "21",
 "timesale": "09pm",
-"trxcount":31.00
+"trxcount":37.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " AIRMALL ILOILO",
 "hourtime": "22",
 "timesale": "10pm",
-"trxcount":7.00
+"trxcount":14.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BACOLOD",
 "hourtime": "04",
 "timesale": "04am",
-"trxcount":51.00
+"trxcount":57.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BACOLOD",
 "hourtime": "05",
 "timesale": "05am",
-"trxcount":213.00
+"trxcount":234.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BACOLOD",
 "hourtime": "06",
 "timesale": "06am",
-"trxcount":79.00
+"trxcount":93.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BACOLOD",
 "hourtime": "07",
 "timesale": "07am",
-"trxcount":11.00
+"trxcount":13.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BACOLOD",
 "hourtime": "08",
 "timesale": "08am",
-"trxcount":45.00
+"trxcount":54.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BACOLOD",
 "hourtime": "09",
 "timesale": "09am",
-"trxcount":122.00
+"trxcount":158.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BACOLOD",
 "hourtime": "10",
 "timesale": "10am",
-"trxcount":94.00
+"trxcount":117.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BACOLOD",
 "hourtime": "11",
 "timesale": "11am",
-"trxcount":63.00
+"trxcount":68.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BACOLOD",
 "hourtime": "12",
 "timesale": "12pm",
-"trxcount":176.00
+"trxcount":203.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BACOLOD",
 "hourtime": "13",
 "timesale": "01pm",
-"trxcount":188.00
+"trxcount":210.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BACOLOD",
 "hourtime": "14",
 "timesale": "02pm",
-"trxcount":44.00
+"trxcount":50.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BACOLOD",
 "hourtime": "15",
 "timesale": "03pm",
-"trxcount":123.00
+"trxcount":140.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BACOLOD",
 "hourtime": "16",
 "timesale": "04pm",
-"trxcount":245.00
+"trxcount":282.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BACOLOD",
 "hourtime": "17",
 "timesale": "05pm",
-"trxcount":249.00
+"trxcount":320.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BACOLOD",
 "hourtime": "18",
 "timesale": "06pm",
-"trxcount":141.00
+"trxcount":187.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BACOLOD",
 "hourtime": "19",
 "timesale": "07pm",
-"trxcount":100.00
+"trxcount":110.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BACOLOD",
 "hourtime": "20",
 "timesale": "08pm",
-"trxcount":200.00
+"trxcount":233.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BACOLOD",
 "hourtime": "21",
 "timesale": "09pm",
-"trxcount":301.00
+"trxcount":352.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BACOLOD",
 "hourtime": "22",
 "timesale": "10pm",
-"trxcount":201.00
+"trxcount":244.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2390,273 +2390,273 @@
 "storname": " WH SMITH BICOL",
 "hourtime": "04",
 "timesale": "04am",
-"trxcount":49.00
+"trxcount":57.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BICOL",
 "hourtime": "05",
 "timesale": "05am",
-"trxcount":89.00
+"trxcount":118.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BICOL",
 "hourtime": "06",
 "timesale": "06am",
-"trxcount":149.00
+"trxcount":170.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BICOL",
 "hourtime": "07",
 "timesale": "07am",
-"trxcount":22.00
+"trxcount":23.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BICOL",
 "hourtime": "08",
 "timesale": "08am",
-"trxcount":15.00
+"trxcount":17.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BICOL",
 "hourtime": "09",
 "timesale": "09am",
-"trxcount":26.00
+"trxcount":28.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BICOL",
 "hourtime": "10",
 "timesale": "10am",
-"trxcount":49.00
+"trxcount":58.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BICOL",
 "hourtime": "11",
 "timesale": "11am",
-"trxcount":157.00
+"trxcount":194.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BICOL",
 "hourtime": "12",
 "timesale": "12pm",
-"trxcount":174.00
+"trxcount":201.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BICOL",
 "hourtime": "13",
 "timesale": "01pm",
-"trxcount":78.00
+"trxcount":88.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BICOL",
 "hourtime": "14",
 "timesale": "02pm",
-"trxcount":71.00
+"trxcount":81.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BICOL",
 "hourtime": "15",
 "timesale": "03pm",
-"trxcount":172.00
+"trxcount":196.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BICOL",
 "hourtime": "16",
 "timesale": "04pm",
-"trxcount":149.00
+"trxcount":178.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BICOL",
 "hourtime": "17",
 "timesale": "05pm",
-"trxcount":165.00
+"trxcount":188.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH BICOL",
 "hourtime": "18",
 "timesale": "06pm",
-"trxcount":41.00
+"trxcount":46.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CEBU T1 NRTH WI",
 "hourtime": "00",
 "timesale": "12am",
-"trxcount":107.00
+"trxcount":136.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CEBU T1 NRTH WI",
 "hourtime": "01",
 "timesale": "01am",
-"trxcount":129.00
+"trxcount":148.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CEBU T1 NRTH WI",
 "hourtime": "02",
 "timesale": "02am",
-"trxcount":114.00
+"trxcount":133.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CEBU T1 NRTH WI",
 "hourtime": "03",
 "timesale": "03am",
-"trxcount":94.00
+"trxcount":110.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CEBU T1 NRTH WI",
 "hourtime": "04",
 "timesale": "04am",
-"trxcount":192.00
+"trxcount":238.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CEBU T1 NRTH WI",
 "hourtime": "05",
 "timesale": "05am",
-"trxcount":222.00
+"trxcount":250.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CEBU T1 NRTH WI",
 "hourtime": "06",
 "timesale": "06am",
-"trxcount":242.00
+"trxcount":285.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CEBU T1 NRTH WI",
 "hourtime": "07",
 "timesale": "07am",
-"trxcount":373.00
+"trxcount":434.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CEBU T1 NRTH WI",
 "hourtime": "08",
 "timesale": "08am",
-"trxcount":292.00
+"trxcount":340.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CEBU T1 NRTH WI",
 "hourtime": "09",
 "timesale": "09am",
-"trxcount":380.00
+"trxcount":446.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CEBU T1 NRTH WI",
 "hourtime": "10",
 "timesale": "10am",
-"trxcount":489.00
+"trxcount":569.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CEBU T1 NRTH WI",
 "hourtime": "11",
 "timesale": "11am",
-"trxcount":482.00
+"trxcount":578.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CEBU T1 NRTH WI",
 "hourtime": "12",
 "timesale": "12pm",
-"trxcount":535.00
+"trxcount":622.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CEBU T1 NRTH WI",
 "hourtime": "13",
 "timesale": "01pm",
-"trxcount":674.00
+"trxcount":765.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CEBU T1 NRTH WI",
 "hourtime": "14",
 "timesale": "02pm",
-"trxcount":394.00
+"trxcount":463.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CEBU T1 NRTH WI",
 "hourtime": "15",
 "timesale": "03pm",
-"trxcount":425.00
+"trxcount":494.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CEBU T1 NRTH WI",
 "hourtime": "16",
 "timesale": "04pm",
-"trxcount":447.00
+"trxcount":521.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CEBU T1 NRTH WI",
 "hourtime": "17",
 "timesale": "05pm",
-"trxcount":349.00
+"trxcount":424.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CEBU T1 NRTH WI",
 "hourtime": "18",
 "timesale": "06pm",
-"trxcount":280.00
+"trxcount":338.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CEBU T1 NRTH WI",
 "hourtime": "19",
 "timesale": "07pm",
-"trxcount":227.00
+"trxcount":264.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CEBU T1 NRTH WI",
 "hourtime": "20",
 "timesale": "08pm",
-"trxcount":245.00
+"trxcount":302.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CEBU T1 NRTH WI",
 "hourtime": "21",
 "timesale": "09pm",
-"trxcount":172.00
+"trxcount":208.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CEBU T1 NRTH WI",
 "hourtime": "22",
 "timesale": "10pm",
-"trxcount":212.00
+"trxcount":235.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CEBU T1 NRTH WI",
 "hourtime": "23",
 "timesale": "11pm",
-"trxcount":141.00
+"trxcount":168.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2670,532 +2670,532 @@
 "storname": " WH SMITH CLARK DPD",
 "hourtime": "04",
 "timesale": "04am",
-"trxcount":13.00
+"trxcount":15.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK DPD",
 "hourtime": "05",
 "timesale": "05am",
-"trxcount":83.00
+"trxcount":93.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK DPD",
 "hourtime": "06",
 "timesale": "06am",
-"trxcount":65.00
+"trxcount":73.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK DPD",
 "hourtime": "07",
 "timesale": "07am",
-"trxcount":47.00
+"trxcount":57.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK DPD",
 "hourtime": "08",
 "timesale": "08am",
-"trxcount":92.00
+"trxcount":116.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK DPD",
 "hourtime": "09",
 "timesale": "09am",
-"trxcount":83.00
+"trxcount":123.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK DPD",
 "hourtime": "10",
 "timesale": "10am",
-"trxcount":70.00
+"trxcount":81.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK DPD",
 "hourtime": "11",
 "timesale": "11am",
-"trxcount":131.00
+"trxcount":142.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK DPD",
 "hourtime": "12",
 "timesale": "12pm",
-"trxcount":205.00
+"trxcount":231.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK DPD",
 "hourtime": "13",
 "timesale": "01pm",
-"trxcount":72.00
+"trxcount":102.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK DPD",
 "hourtime": "14",
 "timesale": "02pm",
-"trxcount":48.00
+"trxcount":54.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK DPD",
 "hourtime": "15",
 "timesale": "03pm",
-"trxcount":60.00
+"trxcount":67.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK DPD",
 "hourtime": "16",
 "timesale": "04pm",
-"trxcount":108.00
+"trxcount":122.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK DPD",
 "hourtime": "17",
 "timesale": "05pm",
-"trxcount":63.00
+"trxcount":70.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK DPD",
 "hourtime": "18",
 "timesale": "06pm",
-"trxcount":73.00
+"trxcount":90.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK DPD",
 "hourtime": "19",
 "timesale": "07pm",
-"trxcount":25.00
+"trxcount":32.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK IPD",
 "hourtime": "00",
 "timesale": "12am",
-"trxcount":516.00
+"trxcount":655.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK IPD",
 "hourtime": "01",
 "timesale": "01am",
-"trxcount":454.00
+"trxcount":552.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK IPD",
 "hourtime": "02",
 "timesale": "02am",
-"trxcount":122.00
+"trxcount":152.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK IPD",
 "hourtime": "03",
 "timesale": "03am",
-"trxcount":109.00
+"trxcount":126.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK IPD",
 "hourtime": "09",
 "timesale": "09am",
-"trxcount":3.00
+"trxcount":7.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK IPD",
 "hourtime": "10",
 "timesale": "10am",
-"trxcount":258.00
+"trxcount":317.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK IPD",
 "hourtime": "11",
 "timesale": "11am",
-"trxcount":249.00
+"trxcount":294.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK IPD",
 "hourtime": "12",
 "timesale": "12pm",
-"trxcount":5.00
+"trxcount":6.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK IPD",
 "hourtime": "13",
 "timesale": "01pm",
-"trxcount":5.00
+"trxcount":6.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK IPD",
 "hourtime": "14",
 "timesale": "02pm",
-"trxcount":65.00
+"trxcount":73.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK IPD",
 "hourtime": "15",
 "timesale": "03pm",
-"trxcount":154.00
+"trxcount":181.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK IPD",
 "hourtime": "16",
 "timesale": "04pm",
-"trxcount":369.00
+"trxcount":455.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK IPD",
 "hourtime": "17",
 "timesale": "05pm",
-"trxcount":347.00
+"trxcount":421.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK IPD",
 "hourtime": "18",
 "timesale": "06pm",
-"trxcount":414.00
+"trxcount":511.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK IPD",
 "hourtime": "19",
 "timesale": "07pm",
-"trxcount":189.00
+"trxcount":245.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK IPD",
 "hourtime": "20",
 "timesale": "08pm",
-"trxcount":116.00
+"trxcount":140.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK IPD",
 "hourtime": "21",
 "timesale": "09pm",
-"trxcount":49.00
+"trxcount":52.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK IPD",
 "hourtime": "22",
 "timesale": "10pm",
-"trxcount":43.00
+"trxcount":55.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH CLARK IPD",
 "hourtime": "23",
 "timesale": "11pm",
-"trxcount":308.00
+"trxcount":388.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH LAGUINDINGAN",
 "hourtime": "05",
 "timesale": "05am",
-"trxcount":41.00
+"trxcount":77.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH LAGUINDINGAN",
 "hourtime": "06",
 "timesale": "06am",
-"trxcount":121.00
+"trxcount":140.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH LAGUINDINGAN",
 "hourtime": "07",
 "timesale": "07am",
-"trxcount":81.00
+"trxcount":92.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH LAGUINDINGAN",
 "hourtime": "08",
 "timesale": "08am",
-"trxcount":127.00
+"trxcount":158.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH LAGUINDINGAN",
 "hourtime": "09",
 "timesale": "09am",
-"trxcount":133.00
+"trxcount":155.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH LAGUINDINGAN",
 "hourtime": "10",
 "timesale": "10am",
-"trxcount":172.00
+"trxcount":194.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH LAGUINDINGAN",
 "hourtime": "11",
 "timesale": "11am",
-"trxcount":182.00
+"trxcount":196.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH LAGUINDINGAN",
 "hourtime": "12",
 "timesale": "12pm",
-"trxcount":84.00
+"trxcount":86.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH LAGUINDINGAN",
 "hourtime": "13",
 "timesale": "01pm",
-"trxcount":91.00
+"trxcount":104.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH LAGUINDINGAN",
 "hourtime": "14",
 "timesale": "02pm",
-"trxcount":124.00
+"trxcount":169.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH LAGUINDINGAN",
 "hourtime": "15",
 "timesale": "03pm",
-"trxcount":200.00
+"trxcount":269.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH LAGUINDINGAN",
 "hourtime": "16",
 "timesale": "04pm",
-"trxcount":213.00
+"trxcount":261.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH LAGUINDINGAN",
 "hourtime": "17",
 "timesale": "05pm",
-"trxcount":128.00
+"trxcount":156.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH LAGUINDINGAN",
 "hourtime": "18",
 "timesale": "06pm",
-"trxcount":103.00
+"trxcount":120.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH LAGUINDINGAN",
 "hourtime": "19",
 "timesale": "07pm",
-"trxcount":147.00
+"trxcount":171.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH LAGUINDINGAN",
 "hourtime": "20",
 "timesale": "08pm",
-"trxcount":159.00
+"trxcount":209.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH LAGUINDINGAN",
 "hourtime": "21",
 "timesale": "09pm",
-"trxcount":69.00
+"trxcount":81.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T1 DEP",
 "hourtime": "00",
 "timesale": "12am",
-"trxcount":245.00
+"trxcount":312.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T1 DEP",
 "hourtime": "01",
 "timesale": "01am",
-"trxcount":277.00
+"trxcount":367.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T1 DEP",
 "hourtime": "02",
 "timesale": "02am",
-"trxcount":213.00
+"trxcount":261.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T1 DEP",
 "hourtime": "03",
 "timesale": "03am",
-"trxcount":259.00
+"trxcount":304.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T1 DEP",
 "hourtime": "04",
 "timesale": "04am",
-"trxcount":299.00
+"trxcount":344.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T1 DEP",
 "hourtime": "05",
 "timesale": "05am",
-"trxcount":420.00
+"trxcount":476.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T1 DEP",
 "hourtime": "06",
 "timesale": "06am",
-"trxcount":375.00
+"trxcount":435.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T1 DEP",
 "hourtime": "07",
 "timesale": "07am",
-"trxcount":441.00
+"trxcount":528.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T1 DEP",
 "hourtime": "08",
 "timesale": "08am",
-"trxcount":589.00
+"trxcount":699.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T1 DEP",
 "hourtime": "09",
 "timesale": "09am",
-"trxcount":721.00
+"trxcount":831.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T1 DEP",
 "hourtime": "10",
 "timesale": "10am",
-"trxcount":838.00
+"trxcount":1003.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T1 DEP",
 "hourtime": "11",
 "timesale": "11am",
-"trxcount":926.00
+"trxcount":1085.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T1 DEP",
 "hourtime": "12",
 "timesale": "12pm",
-"trxcount":643.00
+"trxcount":749.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T1 DEP",
 "hourtime": "13",
 "timesale": "01pm",
-"trxcount":1039.00
+"trxcount":1202.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T1 DEP",
 "hourtime": "14",
 "timesale": "02pm",
-"trxcount":831.00
+"trxcount":923.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T1 DEP",
 "hourtime": "15",
 "timesale": "03pm",
-"trxcount":659.00
+"trxcount":734.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T1 DEP",
 "hourtime": "16",
 "timesale": "04pm",
-"trxcount":1006.00
+"trxcount":1161.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T1 DEP",
 "hourtime": "17",
 "timesale": "05pm",
-"trxcount":1131.00
+"trxcount":1285.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T1 DEP",
 "hourtime": "18",
 "timesale": "06pm",
-"trxcount":1035.00
+"trxcount":1162.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T1 DEP",
 "hourtime": "19",
 "timesale": "07pm",
-"trxcount":1179.00
+"trxcount":1378.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T1 DEP",
 "hourtime": "20",
 "timesale": "08pm",
-"trxcount":1332.00
+"trxcount":1559.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T1 DEP",
 "hourtime": "21",
 "timesale": "09pm",
-"trxcount":995.00
+"trxcount":1138.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T1 DEP",
 "hourtime": "22",
 "timesale": "10pm",
-"trxcount":1052.00
+"trxcount":1191.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T1 DEP",
 "hourtime": "23",
 "timesale": "11pm",
-"trxcount":469.00
+"trxcount":515.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3237,112 +3237,112 @@
 "storname": " WH SMITH NAIA T3 (S32)",
 "hourtime": "05",
 "timesale": "05am",
-"trxcount":36.00
+"trxcount":38.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 (S32)",
 "hourtime": "06",
 "timesale": "06am",
-"trxcount":61.00
+"trxcount":68.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 (S32)",
 "hourtime": "07",
 "timesale": "07am",
-"trxcount":82.00
+"trxcount":96.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 (S32)",
 "hourtime": "08",
 "timesale": "08am",
-"trxcount":69.00
+"trxcount":80.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 (S32)",
 "hourtime": "09",
 "timesale": "09am",
-"trxcount":66.00
+"trxcount":73.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 (S32)",
 "hourtime": "10",
 "timesale": "10am",
-"trxcount":76.00
+"trxcount":81.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 (S32)",
 "hourtime": "11",
 "timesale": "11am",
-"trxcount":72.00
+"trxcount":83.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 (S32)",
 "hourtime": "12",
 "timesale": "12pm",
-"trxcount":89.00
+"trxcount":111.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 (S32)",
 "hourtime": "13",
 "timesale": "01pm",
-"trxcount":102.00
+"trxcount":128.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 (S32)",
 "hourtime": "14",
 "timesale": "02pm",
-"trxcount":109.00
+"trxcount":129.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 (S32)",
 "hourtime": "15",
 "timesale": "03pm",
-"trxcount":118.00
+"trxcount":137.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 (S32)",
 "hourtime": "16",
 "timesale": "04pm",
-"trxcount":135.00
+"trxcount":158.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 (S32)",
 "hourtime": "17",
 "timesale": "05pm",
-"trxcount":109.00
+"trxcount":125.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 (S32)",
 "hourtime": "18",
 "timesale": "06pm",
-"trxcount":89.00
+"trxcount":102.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 (S32)",
 "hourtime": "19",
 "timesale": "07pm",
-"trxcount":73.00
+"trxcount":87.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 (S32)",
 "hourtime": "20",
 "timesale": "08pm",
-"trxcount":67.00
+"trxcount":70.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3377,420 +3377,420 @@
 "storname": " WH SMITH NAIA T3 BUS GAT",
 "hourtime": "02",
 "timesale": "02am",
-"trxcount":193.00
+"trxcount":207.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 BUS GAT",
 "hourtime": "03",
 "timesale": "03am",
-"trxcount":316.00
+"trxcount":374.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 BUS GAT",
 "hourtime": "04",
 "timesale": "04am",
-"trxcount":279.00
+"trxcount":328.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 BUS GAT",
 "hourtime": "05",
 "timesale": "05am",
-"trxcount":129.00
+"trxcount":174.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 BUS GAT",
 "hourtime": "06",
 "timesale": "06am",
-"trxcount":187.00
+"trxcount":215.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 BUS GAT",
 "hourtime": "07",
 "timesale": "07am",
-"trxcount":230.00
+"trxcount":269.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 BUS GAT",
 "hourtime": "08",
 "timesale": "08am",
-"trxcount":258.00
+"trxcount":321.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 BUS GAT",
 "hourtime": "09",
 "timesale": "09am",
-"trxcount":335.00
+"trxcount":383.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 BUS GAT",
 "hourtime": "10",
 "timesale": "10am",
-"trxcount":233.00
+"trxcount":264.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 BUS GAT",
 "hourtime": "11",
 "timesale": "11am",
-"trxcount":127.00
+"trxcount":158.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 BUS GAT",
 "hourtime": "12",
 "timesale": "12pm",
-"trxcount":109.00
-},
-{
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": " WH SMITH NAIA T3 BUS GAT",
-"hourtime": "13",
-"timesale": "01pm",
 "trxcount":124.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 BUS GAT",
+"hourtime": "13",
+"timesale": "01pm",
+"trxcount":146.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": " WH SMITH NAIA T3 BUS GAT",
 "hourtime": "14",
 "timesale": "02pm",
-"trxcount":175.00
+"trxcount":204.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 BUS GAT",
 "hourtime": "15",
 "timesale": "03pm",
-"trxcount":206.00
+"trxcount":239.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 BUS GAT",
 "hourtime": "16",
 "timesale": "04pm",
-"trxcount":227.00
+"trxcount":257.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 BUS GAT",
 "hourtime": "17",
 "timesale": "05pm",
-"trxcount":234.00
+"trxcount":275.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 BUS GAT",
 "hourtime": "18",
 "timesale": "06pm",
-"trxcount":99.00
+"trxcount":113.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH NAIA T3 BUS GAT",
 "hourtime": "19",
 "timesale": "07pm",
-"trxcount":15.00
+"trxcount":16.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH T3 INTL (S12)",
 "hourtime": "00",
 "timesale": "12am",
-"trxcount":193.00
+"trxcount":236.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH T3 INTL (S12)",
 "hourtime": "01",
 "timesale": "01am",
-"trxcount":129.00
+"trxcount":153.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH T3 INTL (S12)",
 "hourtime": "02",
 "timesale": "02am",
-"trxcount":196.00
+"trxcount":226.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH T3 INTL (S12)",
 "hourtime": "03",
 "timesale": "03am",
-"trxcount":278.00
+"trxcount":321.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH T3 INTL (S12)",
 "hourtime": "04",
 "timesale": "04am",
-"trxcount":336.00
+"trxcount":381.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH T3 INTL (S12)",
 "hourtime": "05",
 "timesale": "05am",
-"trxcount":434.00
+"trxcount":486.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH T3 INTL (S12)",
 "hourtime": "06",
 "timesale": "06am",
-"trxcount":503.00
+"trxcount":569.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH T3 INTL (S12)",
 "hourtime": "07",
 "timesale": "07am",
-"trxcount":273.00
+"trxcount":303.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH T3 INTL (S12)",
 "hourtime": "08",
 "timesale": "08am",
-"trxcount":176.00
+"trxcount":221.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH T3 INTL (S12)",
 "hourtime": "09",
 "timesale": "09am",
-"trxcount":192.00
+"trxcount":225.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH T3 INTL (S12)",
 "hourtime": "10",
 "timesale": "10am",
-"trxcount":293.00
+"trxcount":360.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH T3 INTL (S12)",
 "hourtime": "11",
 "timesale": "11am",
-"trxcount":531.00
+"trxcount":609.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH T3 INTL (S12)",
 "hourtime": "12",
 "timesale": "12pm",
-"trxcount":498.00
+"trxcount":566.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH T3 INTL (S12)",
 "hourtime": "13",
 "timesale": "01pm",
-"trxcount":388.00
+"trxcount":437.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH T3 INTL (S12)",
 "hourtime": "14",
 "timesale": "02pm",
-"trxcount":254.00
+"trxcount":289.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH T3 INTL (S12)",
 "hourtime": "15",
 "timesale": "03pm",
-"trxcount":377.00
+"trxcount":430.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH T3 INTL (S12)",
 "hourtime": "16",
 "timesale": "04pm",
-"trxcount":586.00
+"trxcount":692.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH T3 INTL (S12)",
 "hourtime": "17",
 "timesale": "05pm",
-"trxcount":589.00
+"trxcount":691.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH T3 INTL (S12)",
 "hourtime": "18",
 "timesale": "06pm",
-"trxcount":586.00
+"trxcount":694.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH T3 INTL (S12)",
 "hourtime": "19",
 "timesale": "07pm",
-"trxcount":493.00
+"trxcount":582.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH T3 INTL (S12)",
 "hourtime": "20",
 "timesale": "08pm",
-"trxcount":391.00
+"trxcount":450.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH T3 INTL (S12)",
 "hourtime": "21",
 "timesale": "09pm",
-"trxcount":428.00
+"trxcount":494.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH T3 INTL (S12)",
 "hourtime": "22",
 "timesale": "10pm",
-"trxcount":448.00
+"trxcount":522.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": " WH SMITH T3 INTL (S12)",
 "hourtime": "23",
 "timesale": "11pm",
-"trxcount":151.00
+"trxcount":160.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " T3 INTL SPACE5",
 "hourtime": "05",
 "timesale": "05am",
-"trxcount":80.00
+"trxcount":90.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " T3 INTL SPACE5",
 "hourtime": "06",
 "timesale": "06am",
-"trxcount":72.00
+"trxcount":83.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " T3 INTL SPACE5",
 "hourtime": "07",
 "timesale": "07am",
-"trxcount":32.00
-},
-{
-"storegrp": "ATHLEISURE",
-"storname": " T3 INTL SPACE5",
-"hourtime": "08",
-"timesale": "08am",
-"trxcount":53.00
-},
-{
-"storegrp": "ATHLEISURE",
-"storname": " T3 INTL SPACE5",
-"hourtime": "09",
-"timesale": "09am",
 "trxcount":41.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " T3 INTL SPACE5",
+"hourtime": "08",
+"timesale": "08am",
+"trxcount":63.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": " T3 INTL SPACE5",
+"hourtime": "09",
+"timesale": "09am",
+"trxcount":52.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": " T3 INTL SPACE5",
 "hourtime": "10",
 "timesale": "10am",
-"trxcount":75.00
+"trxcount":93.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " T3 INTL SPACE5",
 "hourtime": "11",
 "timesale": "11am",
-"trxcount":71.00
+"trxcount":101.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " T3 INTL SPACE5",
 "hourtime": "12",
 "timesale": "12pm",
-"trxcount":68.00
+"trxcount":81.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " T3 INTL SPACE5",
 "hourtime": "13",
 "timesale": "01pm",
-"trxcount":55.00
+"trxcount":61.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " T3 INTL SPACE5",
 "hourtime": "14",
 "timesale": "02pm",
-"trxcount":31.00
+"trxcount":36.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " T3 INTL SPACE5",
 "hourtime": "15",
 "timesale": "03pm",
-"trxcount":31.00
+"trxcount":40.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " T3 INTL SPACE5",
 "hourtime": "16",
 "timesale": "04pm",
-"trxcount":68.00
+"trxcount":81.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " T3 INTL SPACE5",
 "hourtime": "17",
 "timesale": "05pm",
-"trxcount":66.00
+"trxcount":79.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " T3 INTL SPACE5",
 "hourtime": "18",
 "timesale": "06pm",
-"trxcount":63.00
+"trxcount":81.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " T3 INTL SPACE5",
 "hourtime": "19",
 "timesale": "07pm",
-"trxcount":55.00
+"trxcount":70.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " T3 INTL SPACE5",
 "hourtime": "20",
 "timesale": "08pm",
-"trxcount":56.00
+"trxcount":72.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " T3 INTL SPACE5",
 "hourtime": "21",
 "timesale": "09pm",
-"trxcount":63.00
+"trxcount":79.00
 },
 {
 "storegrp": "ATHLEISURE",
 "storname": " T3 INTL SPACE5",
 "hourtime": "22",
 "timesale": "10pm",
-"trxcount":59.00
+"trxcount":72.00
 },
 {
 "storegrp": "ATHLEISURE",
@@ -3804,175 +3804,175 @@
 "storname": " BBW T3 LANDSIDE",
 "hourtime": "00",
 "timesale": "12am",
-"trxcount":45.00
+"trxcount":49.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BBW T3 LANDSIDE",
 "hourtime": "01",
 "timesale": "01am",
-"trxcount":32.00
+"trxcount":37.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BBW T3 LANDSIDE",
 "hourtime": "02",
 "timesale": "02am",
-"trxcount":37.00
+"trxcount":44.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BBW T3 LANDSIDE",
 "hourtime": "03",
 "timesale": "03am",
-"trxcount":34.00
+"trxcount":37.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BBW T3 LANDSIDE",
 "hourtime": "04",
 "timesale": "04am",
-"trxcount":33.00
+"trxcount":37.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BBW T3 LANDSIDE",
 "hourtime": "05",
 "timesale": "05am",
-"trxcount":31.00
+"trxcount":40.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BBW T3 LANDSIDE",
 "hourtime": "06",
 "timesale": "06am",
-"trxcount":45.00
+"trxcount":58.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BBW T3 LANDSIDE",
 "hourtime": "07",
 "timesale": "07am",
-"trxcount":65.00
+"trxcount":73.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BBW T3 LANDSIDE",
 "hourtime": "08",
 "timesale": "08am",
-"trxcount":78.00
+"trxcount":95.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BBW T3 LANDSIDE",
 "hourtime": "09",
 "timesale": "09am",
-"trxcount":88.00
+"trxcount":103.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BBW T3 LANDSIDE",
 "hourtime": "10",
 "timesale": "10am",
-"trxcount":90.00
+"trxcount":109.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BBW T3 LANDSIDE",
 "hourtime": "11",
 "timesale": "11am",
-"trxcount":91.00
+"trxcount":105.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BBW T3 LANDSIDE",
 "hourtime": "12",
 "timesale": "12pm",
-"trxcount":99.00
+"trxcount":123.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BBW T3 LANDSIDE",
 "hourtime": "13",
 "timesale": "01pm",
-"trxcount":128.00
+"trxcount":144.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BBW T3 LANDSIDE",
 "hourtime": "14",
 "timesale": "02pm",
-"trxcount":120.00
+"trxcount":145.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BBW T3 LANDSIDE",
 "hourtime": "15",
 "timesale": "03pm",
-"trxcount":129.00
+"trxcount":155.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BBW T3 LANDSIDE",
 "hourtime": "16",
 "timesale": "04pm",
-"trxcount":125.00
+"trxcount":152.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BBW T3 LANDSIDE",
 "hourtime": "17",
 "timesale": "05pm",
-"trxcount":104.00
+"trxcount":124.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BBW T3 LANDSIDE",
 "hourtime": "18",
 "timesale": "06pm",
-"trxcount":104.00
+"trxcount":116.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BBW T3 LANDSIDE",
 "hourtime": "19",
 "timesale": "07pm",
-"trxcount":97.00
+"trxcount":112.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BBW T3 LANDSIDE",
 "hourtime": "20",
 "timesale": "08pm",
-"trxcount":85.00
+"trxcount":92.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BBW T3 LANDSIDE",
 "hourtime": "21",
 "timesale": "09pm",
-"trxcount":67.00
+"trxcount":74.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BBW T3 LANDSIDE",
 "hourtime": "22",
 "timesale": "10pm",
-"trxcount":58.00
+"trxcount":68.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BBW T3 LANDSIDE",
 "hourtime": "23",
 "timesale": "11pm",
-"trxcount":31.00
+"trxcount":36.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BTG - CLARK DPD",
 "hourtime": "05",
 "timesale": "05am",
-"trxcount":1.00
+"trxcount":2.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -3986,560 +3986,567 @@
 "storname": " BTG - CLARK DPD",
 "hourtime": "07",
 "timesale": "07am",
-"trxcount":12.00
+"trxcount":15.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BTG - CLARK DPD",
 "hourtime": "08",
 "timesale": "08am",
-"trxcount":25.00
+"trxcount":29.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BTG - CLARK DPD",
 "hourtime": "09",
 "timesale": "09am",
-"trxcount":26.00
+"trxcount":37.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BTG - CLARK DPD",
 "hourtime": "10",
 "timesale": "10am",
-"trxcount":31.00
+"trxcount":38.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BTG - CLARK DPD",
 "hourtime": "11",
 "timesale": "11am",
-"trxcount":25.00
+"trxcount":35.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BTG - CLARK DPD",
 "hourtime": "12",
 "timesale": "12pm",
-"trxcount":30.00
+"trxcount":35.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BTG - CLARK DPD",
 "hourtime": "13",
 "timesale": "01pm",
-"trxcount":21.00
+"trxcount":27.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BTG - CLARK DPD",
 "hourtime": "14",
 "timesale": "02pm",
-"trxcount":9.00
+"trxcount":15.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BTG - CLARK DPD",
 "hourtime": "15",
 "timesale": "03pm",
-"trxcount":8.00
+"trxcount":9.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " BTG - CLARK DPD",
+"hourtime": "16",
+"timesale": "04pm",
+"trxcount":29.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " BTG - CLARK DPD",
+"hourtime": "17",
+"timesale": "05pm",
+"trxcount":19.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " BTG - CLARK DPD",
+"hourtime": "18",
+"timesale": "06pm",
+"trxcount":9.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " BTG - CLARK DPD",
+"hourtime": "19",
+"timesale": "07pm",
+"trxcount":3.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " BTG - KALIBO",
+"hourtime": "00",
+"timesale": "12am",
+"trxcount":2.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " BTG - KALIBO",
+"hourtime": "08",
+"timesale": "08am",
+"trxcount":1.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " BTG - KALIBO",
+"hourtime": "11",
+"timesale": "11am",
+"trxcount":8.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " BTG - KALIBO",
+"hourtime": "12",
+"timesale": "12pm",
+"trxcount":20.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " BTG - KALIBO",
+"hourtime": "13",
+"timesale": "01pm",
+"trxcount":12.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " BTG - KALIBO",
+"hourtime": "14",
+"timesale": "02pm",
+"trxcount":6.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " BTG - KALIBO",
+"hourtime": "15",
+"timesale": "03pm",
+"trxcount":2.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " BTG - KALIBO",
+"hourtime": "19",
+"timesale": "07pm",
+"trxcount":1.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " BTG - KALIBO",
+"hourtime": "21",
+"timesale": "09pm",
+"trxcount":6.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " BTG - KALIBO",
+"hourtime": "22",
+"timesale": "10pm",
+"trxcount":6.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " BTG - KALIBO",
+"hourtime": "23",
+"timesale": "11pm",
+"trxcount":6.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " CITY OF DREAMS",
+"hourtime": "00",
+"timesale": "12am",
+"trxcount":30.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " CITY OF DREAMS",
+"hourtime": "01",
+"timesale": "01am",
+"trxcount":21.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " CITY OF DREAMS",
+"hourtime": "02",
+"timesale": "02am",
+"trxcount":33.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " CITY OF DREAMS",
+"hourtime": "03",
+"timesale": "03am",
+"trxcount":24.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " CITY OF DREAMS",
+"hourtime": "04",
+"timesale": "04am",
+"trxcount":17.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " CITY OF DREAMS",
+"hourtime": "05",
+"timesale": "05am",
+"trxcount":11.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " CITY OF DREAMS",
+"hourtime": "06",
+"timesale": "06am",
+"trxcount":11.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " CITY OF DREAMS",
+"hourtime": "07",
+"timesale": "07am",
+"trxcount":5.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " CITY OF DREAMS",
+"hourtime": "08",
+"timesale": "08am",
+"trxcount":11.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " CITY OF DREAMS",
+"hourtime": "09",
+"timesale": "09am",
+"trxcount":17.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " CITY OF DREAMS",
+"hourtime": "10",
+"timesale": "10am",
+"trxcount":12.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " CITY OF DREAMS",
+"hourtime": "11",
+"timesale": "11am",
+"trxcount":14.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " CITY OF DREAMS",
+"hourtime": "12",
+"timesale": "12pm",
+"trxcount":18.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " CITY OF DREAMS",
+"hourtime": "13",
+"timesale": "01pm",
+"trxcount":19.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " CITY OF DREAMS",
+"hourtime": "14",
+"timesale": "02pm",
+"trxcount":23.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " CITY OF DREAMS",
+"hourtime": "15",
+"timesale": "03pm",
+"trxcount":23.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " CITY OF DREAMS",
+"hourtime": "16",
+"timesale": "04pm",
+"trxcount":27.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " CITY OF DREAMS",
+"hourtime": "17",
+"timesale": "05pm",
+"trxcount":16.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " CITY OF DREAMS",
+"hourtime": "18",
+"timesale": "06pm",
+"trxcount":19.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " CITY OF DREAMS",
+"hourtime": "19",
+"timesale": "07pm",
+"trxcount":31.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " CITY OF DREAMS",
+"hourtime": "20",
+"timesale": "08pm",
+"trxcount":41.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " CITY OF DREAMS",
+"hourtime": "21",
+"timesale": "09pm",
+"trxcount":39.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " CITY OF DREAMS",
+"hourtime": "22",
+"timesale": "10pm",
+"trxcount":41.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " CITY OF DREAMS",
+"hourtime": "23",
+"timesale": "11pm",
+"trxcount":31.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " MAC T3 DOM",
+"hourtime": "02",
+"timesale": "02am",
+"trxcount":14.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " MAC T3 DOM",
+"hourtime": "03",
+"timesale": "03am",
+"trxcount":8.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " MAC T3 DOM",
+"hourtime": "04",
+"timesale": "04am",
+"trxcount":21.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " MAC T3 DOM",
+"hourtime": "05",
+"timesale": "05am",
+"trxcount":9.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " MAC T3 DOM",
+"hourtime": "06",
+"timesale": "06am",
+"trxcount":18.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " MAC T3 DOM",
+"hourtime": "07",
+"timesale": "07am",
+"trxcount":26.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " MAC T3 DOM",
+"hourtime": "08",
+"timesale": "08am",
+"trxcount":27.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " MAC T3 DOM",
+"hourtime": "09",
+"timesale": "09am",
+"trxcount":37.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " MAC T3 DOM",
+"hourtime": "10",
+"timesale": "10am",
+"trxcount":21.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " MAC T3 DOM",
+"hourtime": "11",
+"timesale": "11am",
+"trxcount":22.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " MAC T3 DOM",
+"hourtime": "12",
+"timesale": "12pm",
+"trxcount":20.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " MAC T3 DOM",
+"hourtime": "13",
+"timesale": "01pm",
+"trxcount":24.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " MAC T3 DOM",
+"hourtime": "14",
+"timesale": "02pm",
+"trxcount":33.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " MAC T3 DOM",
+"hourtime": "15",
+"timesale": "03pm",
+"trxcount":21.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " MAC T3 DOM",
 "hourtime": "16",
 "timesale": "04pm",
 "trxcount":23.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " BTG - CLARK DPD",
+"storname": " MAC T3 DOM",
 "hourtime": "17",
 "timesale": "05pm",
 "trxcount":15.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " BTG - CLARK DPD",
+"storname": " MAC T3 DOM",
 "hourtime": "18",
 "timesale": "06pm",
-"trxcount":9.00
+"trxcount":14.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " BTG - CLARK DPD",
+"storname": " MAC T3 DOM",
 "hourtime": "19",
 "timesale": "07pm",
-"trxcount":3.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " BTG - KALIBO",
-"hourtime": "00",
-"timesale": "12am",
-"trxcount":1.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " BTG - KALIBO",
-"hourtime": "11",
-"timesale": "11am",
-"trxcount":6.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " BTG - KALIBO",
-"hourtime": "12",
-"timesale": "12pm",
-"trxcount":17.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " BTG - KALIBO",
-"hourtime": "13",
-"timesale": "01pm",
-"trxcount":10.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " BTG - KALIBO",
-"hourtime": "14",
-"timesale": "02pm",
-"trxcount":6.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " BTG - KALIBO",
-"hourtime": "15",
-"timesale": "03pm",
-"trxcount":2.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " BTG - KALIBO",
-"hourtime": "19",
-"timesale": "07pm",
-"trxcount":1.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " BTG - KALIBO",
-"hourtime": "21",
-"timesale": "09pm",
-"trxcount":5.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " BTG - KALIBO",
-"hourtime": "22",
-"timesale": "10pm",
-"trxcount":5.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " BTG - KALIBO",
-"hourtime": "23",
-"timesale": "11pm",
-"trxcount":6.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " CITY OF DREAMS",
-"hourtime": "00",
-"timesale": "12am",
-"trxcount":25.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " CITY OF DREAMS",
-"hourtime": "01",
-"timesale": "01am",
-"trxcount":20.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " CITY OF DREAMS",
-"hourtime": "02",
-"timesale": "02am",
-"trxcount":26.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " CITY OF DREAMS",
-"hourtime": "03",
-"timesale": "03am",
-"trxcount":21.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " CITY OF DREAMS",
-"hourtime": "04",
-"timesale": "04am",
-"trxcount":15.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " CITY OF DREAMS",
-"hourtime": "05",
-"timesale": "05am",
-"trxcount":9.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " CITY OF DREAMS",
-"hourtime": "06",
-"timesale": "06am",
-"trxcount":11.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " CITY OF DREAMS",
-"hourtime": "07",
-"timesale": "07am",
 "trxcount":4.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " CITY OF DREAMS",
-"hourtime": "08",
-"timesale": "08am",
-"trxcount":9.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " CITY OF DREAMS",
-"hourtime": "09",
-"timesale": "09am",
-"trxcount":14.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " CITY OF DREAMS",
-"hourtime": "10",
-"timesale": "10am",
-"trxcount":12.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " CITY OF DREAMS",
-"hourtime": "11",
-"timesale": "11am",
-"trxcount":11.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " CITY OF DREAMS",
-"hourtime": "12",
-"timesale": "12pm",
-"trxcount":15.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " CITY OF DREAMS",
-"hourtime": "13",
-"timesale": "01pm",
-"trxcount":16.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " CITY OF DREAMS",
-"hourtime": "14",
-"timesale": "02pm",
-"trxcount":17.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " CITY OF DREAMS",
-"hourtime": "15",
-"timesale": "03pm",
-"trxcount":20.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " CITY OF DREAMS",
-"hourtime": "16",
-"timesale": "04pm",
-"trxcount":20.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " CITY OF DREAMS",
-"hourtime": "17",
-"timesale": "05pm",
-"trxcount":16.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " CITY OF DREAMS",
-"hourtime": "18",
-"timesale": "06pm",
-"trxcount":13.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " CITY OF DREAMS",
-"hourtime": "19",
-"timesale": "07pm",
-"trxcount":25.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " CITY OF DREAMS",
-"hourtime": "20",
-"timesale": "08pm",
-"trxcount":33.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " CITY OF DREAMS",
-"hourtime": "21",
-"timesale": "09pm",
-"trxcount":31.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " CITY OF DREAMS",
-"hourtime": "22",
-"timesale": "10pm",
-"trxcount":36.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " CITY OF DREAMS",
-"hourtime": "23",
-"timesale": "11pm",
-"trxcount":27.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 DOM",
-"hourtime": "02",
-"timesale": "02am",
-"trxcount":11.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 DOM",
-"hourtime": "03",
-"timesale": "03am",
-"trxcount":5.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 DOM",
-"hourtime": "04",
-"timesale": "04am",
-"trxcount":20.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 DOM",
-"hourtime": "05",
-"timesale": "05am",
-"trxcount":5.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 DOM",
-"hourtime": "06",
-"timesale": "06am",
-"trxcount":13.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 DOM",
-"hourtime": "07",
-"timesale": "07am",
-"trxcount":22.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 DOM",
-"hourtime": "08",
-"timesale": "08am",
-"trxcount":20.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 DOM",
-"hourtime": "09",
-"timesale": "09am",
-"trxcount":31.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 DOM",
-"hourtime": "10",
-"timesale": "10am",
-"trxcount":14.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 DOM",
-"hourtime": "11",
-"timesale": "11am",
-"trxcount":16.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 DOM",
-"hourtime": "12",
-"timesale": "12pm",
-"trxcount":15.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 DOM",
-"hourtime": "13",
-"timesale": "01pm",
-"trxcount":20.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 DOM",
-"hourtime": "14",
-"timesale": "02pm",
-"trxcount":27.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 DOM",
-"hourtime": "15",
-"timesale": "03pm",
-"trxcount":18.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 DOM",
-"hourtime": "16",
-"timesale": "04pm",
-"trxcount":21.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 DOM",
-"hourtime": "17",
-"timesale": "05pm",
-"trxcount":12.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 DOM",
-"hourtime": "18",
-"timesale": "06pm",
-"trxcount":10.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 DOM",
-"hourtime": "19",
-"timesale": "07pm",
-"trxcount":2.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " MAC T3 INTL",
 "hourtime": "05",
 "timesale": "05am",
-"trxcount":7.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 INTL",
-"hourtime": "06",
-"timesale": "06am",
-"trxcount":5.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 INTL",
-"hourtime": "07",
-"timesale": "07am",
-"trxcount":11.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 INTL",
-"hourtime": "08",
-"timesale": "08am",
-"trxcount":2.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 INTL",
-"hourtime": "09",
-"timesale": "09am",
-"trxcount":3.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 INTL",
-"hourtime": "10",
-"timesale": "10am",
-"trxcount":7.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 INTL",
-"hourtime": "11",
-"timesale": "11am",
-"trxcount":13.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 INTL",
-"hourtime": "12",
-"timesale": "12pm",
-"trxcount":9.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 INTL",
-"hourtime": "13",
-"timesale": "01pm",
-"trxcount":7.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 INTL",
-"hourtime": "14",
-"timesale": "02pm",
-"trxcount":14.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 INTL",
-"hourtime": "15",
-"timesale": "03pm",
-"trxcount":6.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 INTL",
-"hourtime": "16",
-"timesale": "04pm",
-"trxcount":15.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 INTL",
-"hourtime": "17",
-"timesale": "05pm",
-"trxcount":15.00
-},
-{
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": " MAC T3 INTL",
-"hourtime": "18",
-"timesale": "06pm",
 "trxcount":8.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " MAC T3 INTL",
+"hourtime": "06",
+"timesale": "06am",
+"trxcount":6.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " MAC T3 INTL",
+"hourtime": "07",
+"timesale": "07am",
+"trxcount":11.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " MAC T3 INTL",
+"hourtime": "08",
+"timesale": "08am",
+"trxcount":2.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " MAC T3 INTL",
+"hourtime": "09",
+"timesale": "09am",
+"trxcount":3.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " MAC T3 INTL",
+"hourtime": "10",
+"timesale": "10am",
+"trxcount":8.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " MAC T3 INTL",
+"hourtime": "11",
+"timesale": "11am",
+"trxcount":13.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " MAC T3 INTL",
+"hourtime": "12",
+"timesale": "12pm",
+"trxcount":11.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " MAC T3 INTL",
+"hourtime": "13",
+"timesale": "01pm",
+"trxcount":11.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " MAC T3 INTL",
+"hourtime": "14",
+"timesale": "02pm",
+"trxcount":14.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " MAC T3 INTL",
+"hourtime": "15",
+"timesale": "03pm",
+"trxcount":8.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " MAC T3 INTL",
+"hourtime": "16",
+"timesale": "04pm",
+"trxcount":21.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " MAC T3 INTL",
+"hourtime": "17",
+"timesale": "05pm",
+"trxcount":20.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " MAC T3 INTL",
+"hourtime": "18",
+"timesale": "06pm",
+"trxcount":17.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " MAC T3 INTL",
 "hourtime": "19",
 "timesale": "07pm",
-"trxcount":2.00
+"trxcount":6.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4553,14 +4560,14 @@
 "storname": " MAC T3 INTL",
 "hourtime": "21",
 "timesale": "09pm",
-"trxcount":14.00
+"trxcount":15.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " MAC T3 INTL",
 "hourtime": "22",
 "timesale": "10pm",
-"trxcount":10.00
+"trxcount":12.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4574,14 +4581,14 @@
 "storname": " T3 INTL JO MALONE",
 "hourtime": "05",
 "timesale": "05am",
-"trxcount":6.00
+"trxcount":7.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " T3 INTL JO MALONE",
 "hourtime": "06",
 "timesale": "06am",
-"trxcount":5.00
+"trxcount":6.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4609,7 +4616,7 @@
 "storname": " T3 INTL JO MALONE",
 "hourtime": "10",
 "timesale": "10am",
-"trxcount":9.00
+"trxcount":11.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4630,14 +4637,14 @@
 "storname": " T3 INTL JO MALONE",
 "hourtime": "13",
 "timesale": "01pm",
-"trxcount":4.00
+"trxcount":7.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " T3 INTL JO MALONE",
 "hourtime": "14",
 "timesale": "02pm",
-"trxcount":11.00
+"trxcount":12.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4651,21 +4658,21 @@
 "storname": " T3 INTL JO MALONE",
 "hourtime": "16",
 "timesale": "04pm",
-"trxcount":12.00
+"trxcount":14.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " T3 INTL JO MALONE",
 "hourtime": "17",
 "timesale": "05pm",
-"trxcount":9.00
+"trxcount":14.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " T3 INTL JO MALONE",
 "hourtime": "18",
 "timesale": "06pm",
-"trxcount":13.00
+"trxcount":15.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4679,21 +4686,21 @@
 "storname": " T3 INTL JO MALONE",
 "hourtime": "20",
 "timesale": "08pm",
-"trxcount":10.00
+"trxcount":13.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " T3 INTL JO MALONE",
 "hourtime": "21",
 "timesale": "09pm",
-"trxcount":12.00
+"trxcount":13.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " T3 INTL JO MALONE",
 "hourtime": "22",
 "timesale": "10pm",
-"trxcount":4.00
+"trxcount":6.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4726,6 +4733,13 @@
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " T3 INTL KIEHLS",
+"hourtime": "14",
+"timesale": "02pm",
+"trxcount":1.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": " T3 INTL KIEHLS",
 "hourtime": "16",
 "timesale": "04pm",
 "trxcount":4.00
@@ -4763,7 +4777,7 @@
 "storname": " T3 INTL KIEHLS",
 "hourtime": "21",
 "timesale": "09pm",
-"trxcount":1.00
+"trxcount":2.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4784,126 +4798,126 @@
 "storname": " THE RUNWAY T3 INTL (S6)",
 "hourtime": "05",
 "timesale": "05am",
-"trxcount":62.00
+"trxcount":73.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " THE RUNWAY T3 INTL (S6)",
 "hourtime": "06",
 "timesale": "06am",
-"trxcount":75.00
+"trxcount":89.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " THE RUNWAY T3 INTL (S6)",
 "hourtime": "07",
 "timesale": "07am",
-"trxcount":66.00
+"trxcount":81.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " THE RUNWAY T3 INTL (S6)",
 "hourtime": "08",
 "timesale": "08am",
-"trxcount":49.00
+"trxcount":64.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " THE RUNWAY T3 INTL (S6)",
 "hourtime": "09",
 "timesale": "09am",
-"trxcount":49.00
+"trxcount":56.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " THE RUNWAY T3 INTL (S6)",
 "hourtime": "10",
 "timesale": "10am",
-"trxcount":79.00
+"trxcount":92.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " THE RUNWAY T3 INTL (S6)",
 "hourtime": "11",
 "timesale": "11am",
-"trxcount":80.00
+"trxcount":100.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " THE RUNWAY T3 INTL (S6)",
 "hourtime": "12",
 "timesale": "12pm",
-"trxcount":80.00
+"trxcount":95.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " THE RUNWAY T3 INTL (S6)",
 "hourtime": "13",
 "timesale": "01pm",
-"trxcount":52.00
+"trxcount":60.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " THE RUNWAY T3 INTL (S6)",
 "hourtime": "14",
 "timesale": "02pm",
-"trxcount":38.00
+"trxcount":43.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " THE RUNWAY T3 INTL (S6)",
 "hourtime": "15",
 "timesale": "03pm",
-"trxcount":72.00
+"trxcount":84.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " THE RUNWAY T3 INTL (S6)",
 "hourtime": "16",
 "timesale": "04pm",
-"trxcount":122.00
+"trxcount":147.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " THE RUNWAY T3 INTL (S6)",
 "hourtime": "17",
 "timesale": "05pm",
-"trxcount":115.00
+"trxcount":137.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " THE RUNWAY T3 INTL (S6)",
 "hourtime": "18",
 "timesale": "06pm",
-"trxcount":107.00
+"trxcount":135.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " THE RUNWAY T3 INTL (S6)",
 "hourtime": "19",
 "timesale": "07pm",
-"trxcount":72.00
+"trxcount":88.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " THE RUNWAY T3 INTL (S6)",
 "hourtime": "20",
 "timesale": "08pm",
-"trxcount":70.00
+"trxcount":93.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " THE RUNWAY T3 INTL (S6)",
 "hourtime": "21",
 "timesale": "09pm",
-"trxcount":97.00
+"trxcount":108.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " THE RUNWAY T3 INTL (S6)",
 "hourtime": "22",
 "timesale": "10pm",
-"trxcount":87.00
+"trxcount":105.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4924,292 +4938,292 @@
 "storname": " VS T3 DOM",
 "hourtime": "02",
 "timesale": "02am",
-"trxcount":26.00
+"trxcount":40.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 DOM",
 "hourtime": "03",
 "timesale": "03am",
-"trxcount":28.00
+"trxcount":32.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 DOM",
 "hourtime": "04",
 "timesale": "04am",
-"trxcount":31.00
+"trxcount":39.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 DOM",
 "hourtime": "05",
 "timesale": "05am",
-"trxcount":27.00
+"trxcount":36.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 DOM",
 "hourtime": "06",
 "timesale": "06am",
-"trxcount":26.00
+"trxcount":35.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 DOM",
 "hourtime": "07",
 "timesale": "07am",
-"trxcount":38.00
+"trxcount":55.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 DOM",
 "hourtime": "08",
 "timesale": "08am",
-"trxcount":53.00
+"trxcount":68.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 DOM",
 "hourtime": "09",
 "timesale": "09am",
-"trxcount":63.00
+"trxcount":82.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 DOM",
 "hourtime": "10",
 "timesale": "10am",
-"trxcount":57.00
+"trxcount":74.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 DOM",
 "hourtime": "11",
 "timesale": "11am",
-"trxcount":29.00
+"trxcount":38.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 DOM",
 "hourtime": "12",
 "timesale": "12pm",
-"trxcount":42.00
+"trxcount":59.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 DOM",
 "hourtime": "13",
 "timesale": "01pm",
-"trxcount":50.00
+"trxcount":68.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 DOM",
 "hourtime": "14",
 "timesale": "02pm",
-"trxcount":51.00
+"trxcount":66.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 DOM",
 "hourtime": "15",
 "timesale": "03pm",
-"trxcount":48.00
+"trxcount":72.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 DOM",
 "hourtime": "16",
 "timesale": "04pm",
-"trxcount":33.00
+"trxcount":51.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 DOM",
 "hourtime": "17",
 "timesale": "05pm",
-"trxcount":33.00
+"trxcount":41.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 DOM",
 "hourtime": "18",
 "timesale": "06pm",
-"trxcount":22.00
+"trxcount":37.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 DOM",
 "hourtime": "19",
 "timesale": "07pm",
-"trxcount":10.00
+"trxcount":22.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 LANDSIDE",
 "hourtime": "00",
 "timesale": "12am",
-"trxcount":16.00
+"trxcount":25.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 LANDSIDE",
 "hourtime": "01",
 "timesale": "01am",
-"trxcount":10.00
+"trxcount":11.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 LANDSIDE",
 "hourtime": "02",
 "timesale": "02am",
-"trxcount":13.00
+"trxcount":17.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 LANDSIDE",
 "hourtime": "03",
 "timesale": "03am",
-"trxcount":14.00
+"trxcount":18.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 LANDSIDE",
 "hourtime": "04",
 "timesale": "04am",
-"trxcount":14.00
+"trxcount":17.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 LANDSIDE",
 "hourtime": "05",
 "timesale": "05am",
-"trxcount":13.00
+"trxcount":19.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 LANDSIDE",
 "hourtime": "06",
 "timesale": "06am",
-"trxcount":11.00
+"trxcount":16.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 LANDSIDE",
 "hourtime": "07",
 "timesale": "07am",
-"trxcount":16.00
+"trxcount":21.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 LANDSIDE",
 "hourtime": "08",
 "timesale": "08am",
-"trxcount":26.00
+"trxcount":35.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 LANDSIDE",
 "hourtime": "09",
 "timesale": "09am",
-"trxcount":31.00
+"trxcount":37.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 LANDSIDE",
 "hourtime": "10",
 "timesale": "10am",
-"trxcount":27.00
+"trxcount":33.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 LANDSIDE",
 "hourtime": "11",
 "timesale": "11am",
-"trxcount":34.00
+"trxcount":45.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 LANDSIDE",
 "hourtime": "12",
 "timesale": "12pm",
-"trxcount":45.00
+"trxcount":57.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 LANDSIDE",
 "hourtime": "13",
 "timesale": "01pm",
-"trxcount":44.00
+"trxcount":49.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 LANDSIDE",
 "hourtime": "14",
 "timesale": "02pm",
-"trxcount":37.00
+"trxcount":52.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 LANDSIDE",
 "hourtime": "15",
 "timesale": "03pm",
-"trxcount":38.00
+"trxcount":54.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 LANDSIDE",
 "hourtime": "16",
 "timesale": "04pm",
-"trxcount":32.00
+"trxcount":50.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 LANDSIDE",
 "hourtime": "17",
 "timesale": "05pm",
-"trxcount":29.00
+"trxcount":40.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 LANDSIDE",
 "hourtime": "18",
 "timesale": "06pm",
-"trxcount":33.00
+"trxcount":39.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 LANDSIDE",
 "hourtime": "19",
 "timesale": "07pm",
-"trxcount":36.00
+"trxcount":48.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 LANDSIDE",
 "hourtime": "20",
 "timesale": "08pm",
-"trxcount":27.00
+"trxcount":35.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 LANDSIDE",
 "hourtime": "21",
 "timesale": "09pm",
-"trxcount":23.00
+"trxcount":25.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 LANDSIDE",
 "hourtime": "22",
 "timesale": "10pm",
-"trxcount":15.00
+"trxcount":22.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": " VS T3 LANDSIDE",
 "hourtime": "23",
 "timesale": "11pm",
-"trxcount":11.00
+"trxcount":16.00
 }]
