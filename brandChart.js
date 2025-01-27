@@ -1,21 +1,24 @@
 async function fetchBrandSales(selectedStore = '', selectedGroup = '', selectedType = '') {
-    const dateScope=dateCovered.toUpperCase()
+    const dateScope = dateCovered.toUpperCase();
     let dataSource = './Data/DB_BRANDSALE.json';
-    if (dateScope==='DEC 2024') {
+    if (dateScope === 'DEC 2024') {
         dataSource = './Data/DB_BRANDSALE.json';
-    } else if (dateScope==='NOV 2024') {
+    } else if (dateScope === 'NOV 2024') {
         dataSource = './Data/DB_BRANDSALE_NOV.json';
     } else if ('OCT 2024') {
         dataSource = './Data/DB_BRANDSALE_OCT.json';
     } else if ('SEP 2024') {
         dataSource = './Data/DB_BRANDSALE_SEP.json';
     }
+    
     try {
         const response = await fetch(dataSource);
         if (!response.ok) throw new Error('Network response was not ok');
         const brandData = await response.json();
 
         const brandMap = {};
+        
+        // Build brandMap without filling background colors yet
         brandData.forEach(item => {
             const storeName = item.storname.trim(); // Trim spaces
             
@@ -33,28 +36,28 @@ async function fetchBrandSales(selectedStore = '', selectedGroup = '', selectedT
             }
         
             if (!brandMap[item.brandnme]) {
-                brandMap[item.brandnme] = { curreamt: 0, prvyramt: 0 };
+                brandMap[item.brandnme] = { curreamt: 0, prvyramt: 0, outright: item.outright };
             }
             brandMap[item.brandnme].curreamt += Math.round(item.curreamt);
             brandMap[item.brandnme].prvyramt += Math.round(item.prvyramt);
         });
 
-
+        // Sort the brandMap by current amount (curreamt)
         let sortedBrands = Object.entries(brandMap)
             .map(([brandnme, values]) => ({ brandnme, ...values }))
             .sort((a, b) => b.curreamt - a.curreamt)
             .slice(0, 30);
+
+        // Now assign background colors after sorting
+        const backgroundColors = sortedBrands.map(item => 
+            item.outright === '1-OUTRIGHT' ? 'rgba(54, 162, 235, 0.6)' : 'rgba(75, 192, 192, 0.2)'
+        );
 
         const labels = sortedBrands.map(item => item.brandnme.substring(0, 15));
         const curreamtData = sortedBrands.map(item => item.curreamt);
         const prvyramtData = sortedBrands.map(item => item.prvyramt);
 
         // Function to round up to the nearest multiple of step
-        // const roundUpToNearest = (value, step) => {
-        //     return Math.ceil(value / step) * step;
-        // };
-
-        // Function to get the magnitude of a number (e.g., 1234 -> 1000)
         const getMagnitudeStep = (value) => {
             const magnitude = Math.floor(Math.log10(value));
             return Math.pow(10, magnitude); // Returns the nearest power of 10
@@ -65,7 +68,6 @@ async function fetchBrandSales(selectedStore = '', selectedGroup = '', selectedT
             const step = getMagnitudeStep(value);
             return Math.ceil(value / step) * step;
         };
-
 
         // Calculate the maximum value for the x-axis
         const maxCurreamt = Math.max(...curreamtData);
@@ -110,7 +112,7 @@ async function fetchBrandSales(selectedStore = '', selectedGroup = '', selectedT
                 datasets: [{
                     label: new Date().getFullYear(),
                     data: curreamtData,
-                    backgroundColor: 'rgba(54, 162, 235, 0.6)',
+                    backgroundColor: backgroundColors, // Now correctly aligned
                     borderColor: 'rgba(54, 162, 235, 1)',
                     borderWidth: 1
                 }]
