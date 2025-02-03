@@ -78,6 +78,30 @@
 },
 {
 "storegrp": "ATHLEISURE",
+"storname": "DFP FIESTAMALL",
+"date____": "01/27/2025",
+"totalamt":1370.05
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": "DFP FIESTAMALL",
+"date____": "01/28/2025",
+"totalamt":1023.46
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": "DFP FIESTAMALL",
+"date____": "01/29/2025",
+"totalamt":12277.42
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": "DFP FIESTAMALL",
+"date____": "01/30/2025",
+"totalamt":4325.30
+},
+{
+"storegrp": "ATHLEISURE",
 "storname": "DFP LUXEMALL",
 "date____": "01/07/2025",
 "totalamt":2243.21
@@ -147,6 +171,18 @@
 "storname": "DFP LUXEMALL",
 "date____": "01/26/2025",
 "totalamt":14076.54
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": "DFP LUXEMALL",
+"date____": "01/28/2025",
+"totalamt":1578.73
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": "DFP LUXEMALL",
+"date____": "01/29/2025",
+"totalamt":1490.48
 },
 {
 "storegrp": "ATHLEISURE",
@@ -273,6 +309,36 @@
 "storname": "SPACE28 TRAVEL BUDDY T3",
 "date____": "01/26/2025",
 "totalamt":50283.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": "SPACE28 TRAVEL BUDDY T3",
+"date____": "01/27/2025",
+"totalamt":55524.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": "SPACE28 TRAVEL BUDDY T3",
+"date____": "01/28/2025",
+"totalamt":61678.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": "SPACE28 TRAVEL BUDDY T3",
+"date____": "01/29/2025",
+"totalamt":62165.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": "SPACE28 TRAVEL BUDDY T3",
+"date____": "01/30/2025",
+"totalamt":37631.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": "SPACE28 TRAVEL BUDDY T3",
+"date____": "01/31/2025",
+"totalamt":53810.00
 },
 {
 "storegrp": "ATHLEISURE",
@@ -432,6 +498,36 @@
 },
 {
 "storegrp": "ATHLEISURE",
+"storname": "T3 INTL SPACE5",
+"date____": "01/27/2025",
+"totalamt":37472.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": "T3 INTL SPACE5",
+"date____": "01/28/2025",
+"totalamt":30308.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": "T3 INTL SPACE5",
+"date____": "01/29/2025",
+"totalamt":38517.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": "T3 INTL SPACE5",
+"date____": "01/30/2025",
+"totalamt":45514.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": "T3 INTL SPACE5",
+"date____": "01/31/2025",
+"totalamt":34922.00
+},
+{
+"storegrp": "ATHLEISURE",
 "storname": "THE SHOPPES LEFT WING",
 "date____": "01/06/2025",
 "totalamt":49958.00
@@ -558,6 +654,36 @@
 },
 {
 "storegrp": "ATHLEISURE",
+"storname": "THE SHOPPES LEFT WING",
+"date____": "01/27/2025",
+"totalamt":127479.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": "THE SHOPPES LEFT WING",
+"date____": "01/28/2025",
+"totalamt":98155.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": "THE SHOPPES LEFT WING",
+"date____": "01/29/2025",
+"totalamt":131893.25
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": "THE SHOPPES LEFT WING",
+"date____": "01/30/2025",
+"totalamt":104231.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": "THE SHOPPES LEFT WING",
+"date____": "01/31/2025",
+"totalamt":99377.00
+},
+{
+"storegrp": "ATHLEISURE",
 "storname": "THE SHOPPES T3 LANDSIDE",
 "date____": "01/06/2025",
 "totalamt":220802.00
@@ -681,6 +807,36 @@
 "storname": "THE SHOPPES T3 LANDSIDE",
 "date____": "01/26/2025",
 "totalamt":301240.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": "THE SHOPPES T3 LANDSIDE",
+"date____": "01/27/2025",
+"totalamt":263446.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": "THE SHOPPES T3 LANDSIDE",
+"date____": "01/28/2025",
+"totalamt":296462.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": "THE SHOPPES T3 LANDSIDE",
+"date____": "01/29/2025",
+"totalamt":266256.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": "THE SHOPPES T3 LANDSIDE",
+"date____": "01/30/2025",
+"totalamt":243886.00
+},
+{
+"storegrp": "ATHLEISURE",
+"storname": "THE SHOPPES T3 LANDSIDE",
+"date____": "01/31/2025",
+"totalamt":284596.50
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -840,6 +996,36 @@
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "BBW T3 LANDSIDE",
+"date____": "01/27/2025",
+"totalamt":160987.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "BBW T3 LANDSIDE",
+"date____": "01/28/2025",
+"totalamt":182330.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "BBW T3 LANDSIDE",
+"date____": "01/29/2025",
+"totalamt":126141.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "BBW T3 LANDSIDE",
+"date____": "01/30/2025",
+"totalamt":75573.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "BBW T3 LANDSIDE",
+"date____": "01/31/2025",
+"totalamt":123244.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": "BTG - CLARK DPD",
 "date____": "01/01/2025",
 "totalamt":49351.00
@@ -996,6 +1182,36 @@
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "BTG - CLARK DPD",
+"date____": "01/27/2025",
+"totalamt":36033.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "BTG - CLARK DPD",
+"date____": "01/28/2025",
+"totalamt":57242.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "BTG - CLARK DPD",
+"date____": "01/29/2025",
+"totalamt":22758.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "BTG - CLARK DPD",
+"date____": "01/30/2025",
+"totalamt":44388.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "BTG - CLARK DPD",
+"date____": "01/31/2025",
+"totalamt":41685.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": "BTG - KALIBO",
 "date____": "01/01/2025",
 "totalamt":11199.00
@@ -1101,6 +1317,30 @@
 "storname": "BTG - KALIBO",
 "date____": "01/26/2025",
 "totalamt":7087.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "BTG - KALIBO",
+"date____": "01/27/2025",
+"totalamt":899.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "BTG - KALIBO",
+"date____": "01/29/2025",
+"totalamt":16595.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "BTG - KALIBO",
+"date____": "01/30/2025",
+"totalamt":1848.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "BTG - KALIBO",
+"date____": "01/31/2025",
+"totalamt":7349.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -1260,6 +1500,36 @@
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "CITY OF DREAMS",
+"date____": "01/27/2025",
+"totalamt":89647.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "CITY OF DREAMS",
+"date____": "01/28/2025",
+"totalamt":76731.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "CITY OF DREAMS",
+"date____": "01/29/2025",
+"totalamt":91635.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "CITY OF DREAMS",
+"date____": "01/30/2025",
+"totalamt":168409.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "CITY OF DREAMS",
+"date____": "01/31/2025",
+"totalamt":65027.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": "MAC T3 DOM",
 "date____": "01/01/2025",
 "totalamt":23116.00
@@ -1413,6 +1683,36 @@
 "storname": "MAC T3 DOM",
 "date____": "01/26/2025",
 "totalamt":72607.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "MAC T3 DOM",
+"date____": "01/27/2025",
+"totalamt":81169.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "MAC T3 DOM",
+"date____": "01/28/2025",
+"totalamt":50303.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "MAC T3 DOM",
+"date____": "01/29/2025",
+"totalamt":34463.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "MAC T3 DOM",
+"date____": "01/30/2025",
+"totalamt":56243.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "MAC T3 DOM",
+"date____": "01/31/2025",
+"totalamt":54411.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -1572,6 +1872,36 @@
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "MAC T3 INTL",
+"date____": "01/27/2025",
+"totalamt":18810.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "MAC T3 INTL",
+"date____": "01/28/2025",
+"totalamt":26436.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "MAC T3 INTL",
+"date____": "01/29/2025",
+"totalamt":18122.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "MAC T3 INTL",
+"date____": "01/30/2025",
+"totalamt":32098.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "MAC T3 INTL",
+"date____": "01/31/2025",
+"totalamt":43058.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": "T3 INTL JO MALONE",
 "date____": "01/01/2025",
 "totalamt":53390.00
@@ -1728,6 +2058,36 @@
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "T3 INTL JO MALONE",
+"date____": "01/27/2025",
+"totalamt":31900.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "T3 INTL JO MALONE",
+"date____": "01/28/2025",
+"totalamt":48165.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "T3 INTL JO MALONE",
+"date____": "01/29/2025",
+"totalamt":30430.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "T3 INTL JO MALONE",
+"date____": "01/30/2025",
+"totalamt":74875.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "T3 INTL JO MALONE",
+"date____": "01/31/2025",
+"totalamt":84800.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": "T3 INTL KIEHLS",
 "date____": "01/02/2025",
 "totalamt":8250.00
@@ -1815,6 +2175,24 @@
 "storname": "T3 INTL KIEHLS",
 "date____": "01/26/2025",
 "totalamt":6750.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "T3 INTL KIEHLS",
+"date____": "01/27/2025",
+"totalamt":1850.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "T3 INTL KIEHLS",
+"date____": "01/30/2025",
+"totalamt":15030.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "T3 INTL KIEHLS",
+"date____": "01/31/2025",
+"totalamt":22005.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -1974,6 +2352,36 @@
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "THE RUNWAY T3 INTL (S6)",
+"date____": "01/27/2025",
+"totalamt":86994.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "THE RUNWAY T3 INTL (S6)",
+"date____": "01/28/2025",
+"totalamt":106009.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "THE RUNWAY T3 INTL (S6)",
+"date____": "01/29/2025",
+"totalamt":153040.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "THE RUNWAY T3 INTL (S6)",
+"date____": "01/30/2025",
+"totalamt":153366.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "THE RUNWAY T3 INTL (S6)",
+"date____": "01/31/2025",
+"totalamt":154365.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
 "storname": "VS T3 DOM",
 "date____": "01/01/2025",
 "totalamt":42735.00
@@ -2127,6 +2535,36 @@
 "storname": "VS T3 DOM",
 "date____": "01/26/2025",
 "totalamt":165168.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "VS T3 DOM",
+"date____": "01/27/2025",
+"totalamt":202579.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "VS T3 DOM",
+"date____": "01/28/2025",
+"totalamt":143509.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "VS T3 DOM",
+"date____": "01/29/2025",
+"totalamt":142518.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "VS T3 DOM",
+"date____": "01/30/2025",
+"totalamt":119126.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "VS T3 DOM",
+"date____": "01/31/2025",
+"totalamt":183309.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -2285,6 +2723,36 @@
 "totalamt":88677.00
 },
 {
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "VS T3 LANDSIDE",
+"date____": "01/27/2025",
+"totalamt":112683.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "VS T3 LANDSIDE",
+"date____": "01/28/2025",
+"totalamt":91730.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "VS T3 LANDSIDE",
+"date____": "01/29/2025",
+"totalamt":148289.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "VS T3 LANDSIDE",
+"date____": "01/30/2025",
+"totalamt":79595.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "VS T3 LANDSIDE",
+"date____": "01/31/2025",
+"totalamt":122129.00
+},
+{
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": "AIRMALL BOHOL",
 "date____": "01/06/2025",
@@ -2367,6 +2835,36 @@
 "storname": "AIRMALL BOHOL",
 "date____": "01/19/2025",
 "totalamt":4200.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "AIRMALL BOHOL",
+"date____": "01/27/2025",
+"totalamt":7900.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "AIRMALL BOHOL",
+"date____": "01/28/2025",
+"totalamt":11066.43
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "AIRMALL BOHOL",
+"date____": "01/29/2025",
+"totalamt":9640.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "AIRMALL BOHOL",
+"date____": "01/30/2025",
+"totalamt":12200.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "AIRMALL BOHOL",
+"date____": "01/31/2025",
+"totalamt":11858.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2496,6 +2994,36 @@
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "AIRMALL ILOILO",
+"date____": "01/27/2025",
+"totalamt":11760.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "AIRMALL ILOILO",
+"date____": "01/28/2025",
+"totalamt":12084.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "AIRMALL ILOILO",
+"date____": "01/29/2025",
+"totalamt":17848.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "AIRMALL ILOILO",
+"date____": "01/30/2025",
+"totalamt":28427.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "AIRMALL ILOILO",
+"date____": "01/31/2025",
+"totalamt":20634.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": "AIRMALL T3 DOM",
 "date____": "01/06/2025",
 "totalamt":129839.00
@@ -2622,6 +3150,36 @@
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "AIRMALL T3 DOM",
+"date____": "01/27/2025",
+"totalamt":173851.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "AIRMALL T3 DOM",
+"date____": "01/28/2025",
+"totalamt":153421.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "AIRMALL T3 DOM",
+"date____": "01/29/2025",
+"totalamt":209563.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "AIRMALL T3 DOM",
+"date____": "01/30/2025",
+"totalamt":194008.71
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "AIRMALL T3 DOM",
+"date____": "01/31/2025",
+"totalamt":194922.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": "CSP PITX",
 "date____": "01/06/2025",
 "totalamt":78095.00
@@ -2745,6 +3303,36 @@
 "storname": "CSP PITX",
 "date____": "01/26/2025",
 "totalamt":114325.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "CSP PITX",
+"date____": "01/27/2025",
+"totalamt":94060.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "CSP PITX",
+"date____": "01/28/2025",
+"totalamt":80762.41
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "CSP PITX",
+"date____": "01/29/2025",
+"totalamt":72770.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "CSP PITX",
+"date____": "01/30/2025",
+"totalamt":75915.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "CSP PITX",
+"date____": "01/31/2025",
+"totalamt":97955.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2904,6 +3492,36 @@
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "KRISPY KREME CSP2",
+"date____": "01/27/2025",
+"totalamt":41291.56
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "KRISPY KREME CSP2",
+"date____": "01/28/2025",
+"totalamt":45326.64
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "KRISPY KREME CSP2",
+"date____": "01/29/2025",
+"totalamt":64757.88
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "KRISPY KREME CSP2",
+"date____": "01/30/2025",
+"totalamt":41438.80
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "KRISPY KREME CSP2",
+"date____": "01/31/2025",
+"totalamt":52862.06
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": "KRISPY KREME T3 DOM",
 "date____": "01/01/2025",
 "totalamt":85428.60
@@ -3060,6 +3678,36 @@
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "KRISPY KREME T3 DOM",
+"date____": "01/27/2025",
+"totalamt":144596.48
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "KRISPY KREME T3 DOM",
+"date____": "01/28/2025",
+"totalamt":130770.26
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "KRISPY KREME T3 DOM",
+"date____": "01/29/2025",
+"totalamt":159514.36
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "KRISPY KREME T3 DOM",
+"date____": "01/30/2025",
+"totalamt":142166.92
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "KRISPY KREME T3 DOM",
+"date____": "01/31/2025",
+"totalamt":165022.92
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": "SPACE38 CSP2 T3",
 "date____": "01/06/2025",
 "totalamt":148943.00
@@ -3183,6 +3831,36 @@
 "storname": "SPACE38 CSP2 T3",
 "date____": "01/26/2025",
 "totalamt":152862.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "SPACE38 CSP2 T3",
+"date____": "01/27/2025",
+"totalamt":120763.50
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "SPACE38 CSP2 T3",
+"date____": "01/28/2025",
+"totalamt":96087.50
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "SPACE38 CSP2 T3",
+"date____": "01/29/2025",
+"totalamt":113752.50
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "SPACE38 CSP2 T3",
+"date____": "01/30/2025",
+"totalamt":136238.25
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "SPACE38 CSP2 T3",
+"date____": "01/31/2025",
+"totalamt":147623.75
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3312,6 +3990,36 @@
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "THE SHOPPES CSP1",
+"date____": "01/27/2025",
+"totalamt":106075.75
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "THE SHOPPES CSP1",
+"date____": "01/28/2025",
+"totalamt":77068.75
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "THE SHOPPES CSP1",
+"date____": "01/29/2025",
+"totalamt":94485.75
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "THE SHOPPES CSP1",
+"date____": "01/30/2025",
+"totalamt":116604.75
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "THE SHOPPES CSP1",
+"date____": "01/31/2025",
+"totalamt":128889.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": "WH SMITH BACOLOD",
 "date____": "01/06/2025",
 "totalamt":30275.00
@@ -3435,6 +4143,36 @@
 "storname": "WH SMITH BACOLOD",
 "date____": "01/26/2025",
 "totalamt":22860.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH BACOLOD",
+"date____": "01/27/2025",
+"totalamt":23865.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH BACOLOD",
+"date____": "01/28/2025",
+"totalamt":21250.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH BACOLOD",
+"date____": "01/29/2025",
+"totalamt":14905.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH BACOLOD",
+"date____": "01/30/2025",
+"totalamt":15116.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH BACOLOD",
+"date____": "01/31/2025",
+"totalamt":28830.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3564,6 +4302,36 @@
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH BICOL",
+"date____": "01/27/2025",
+"totalamt":10650.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH BICOL",
+"date____": "01/28/2025",
+"totalamt":11370.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH BICOL",
+"date____": "01/29/2025",
+"totalamt":5730.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH BICOL",
+"date____": "01/30/2025",
+"totalamt":7605.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH BICOL",
+"date____": "01/31/2025",
+"totalamt":12125.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": "WH SMITH CEBU T1 NRTH WIN",
 "date____": "01/06/2025",
 "totalamt":91880.00
@@ -3687,6 +4455,36 @@
 "storname": "WH SMITH CEBU T1 NRTH WIN",
 "date____": "01/26/2025",
 "totalamt":87501.43
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH CEBU T1 NRTH WIN",
+"date____": "01/27/2025",
+"totalamt":83034.43
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH CEBU T1 NRTH WIN",
+"date____": "01/28/2025",
+"totalamt":90090.43
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH CEBU T1 NRTH WIN",
+"date____": "01/29/2025",
+"totalamt":87662.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH CEBU T1 NRTH WIN",
+"date____": "01/30/2025",
+"totalamt":94358.43
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH CEBU T1 NRTH WIN",
+"date____": "01/31/2025",
+"totalamt":86724.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3816,6 +4614,36 @@
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH CLARK DPD",
+"date____": "01/27/2025",
+"totalamt":20310.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH CLARK DPD",
+"date____": "01/28/2025",
+"totalamt":11230.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH CLARK DPD",
+"date____": "01/29/2025",
+"totalamt":17020.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH CLARK DPD",
+"date____": "01/30/2025",
+"totalamt":12460.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH CLARK DPD",
+"date____": "01/31/2025",
+"totalamt":15360.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": "WH SMITH CLARK IPD",
 "date____": "01/06/2025",
 "totalamt":55482.00
@@ -3942,6 +4770,36 @@
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH CLARK IPD",
+"date____": "01/27/2025",
+"totalamt":65674.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH CLARK IPD",
+"date____": "01/28/2025",
+"totalamt":77615.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH CLARK IPD",
+"date____": "01/29/2025",
+"totalamt":54865.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH CLARK IPD",
+"date____": "01/30/2025",
+"totalamt":62630.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH CLARK IPD",
+"date____": "01/31/2025",
+"totalamt":78003.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": "WH SMITH LAGUINDINGAN",
 "date____": "01/06/2025",
 "totalamt":20180.00
@@ -4064,6 +4922,36 @@
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": "WH SMITH LAGUINDINGAN",
 "date____": "01/26/2025",
+"totalamt":21015.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH LAGUINDINGAN",
+"date____": "01/27/2025",
+"totalamt":18525.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH LAGUINDINGAN",
+"date____": "01/28/2025",
+"totalamt":14930.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH LAGUINDINGAN",
+"date____": "01/29/2025",
+"totalamt":15665.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH LAGUINDINGAN",
+"date____": "01/30/2025",
+"totalamt":15615.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH LAGUINDINGAN",
+"date____": "01/31/2025",
 "totalamt":21015.00
 },
 {
@@ -4194,6 +5082,36 @@
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH NAIA T1 DEP",
+"date____": "01/27/2025",
+"totalamt":313693.29
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH NAIA T1 DEP",
+"date____": "01/28/2025",
+"totalamt":322924.14
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH NAIA T1 DEP",
+"date____": "01/29/2025",
+"totalamt":296100.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH NAIA T1 DEP",
+"date____": "01/30/2025",
+"totalamt":347569.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH NAIA T1 DEP",
+"date____": "01/31/2025",
+"totalamt":441351.29
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": "WH SMITH NAIA T3 (S32)",
 "date____": "01/06/2025",
 "totalamt":15670.00
@@ -4317,6 +5235,36 @@
 "storname": "WH SMITH NAIA T3 (S32)",
 "date____": "01/26/2025",
 "totalamt":11320.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH NAIA T3 (S32)",
+"date____": "01/27/2025",
+"totalamt":17880.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH NAIA T3 (S32)",
+"date____": "01/28/2025",
+"totalamt":19499.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH NAIA T3 (S32)",
+"date____": "01/29/2025",
+"totalamt":14829.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH NAIA T3 (S32)",
+"date____": "01/30/2025",
+"totalamt":18460.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH NAIA T3 (S32)",
+"date____": "01/31/2025",
+"totalamt":12310.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -4446,6 +5394,36 @@
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH NAIA T3 BUS GATE",
+"date____": "01/27/2025",
+"totalamt":33040.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH NAIA T3 BUS GATE",
+"date____": "01/28/2025",
+"totalamt":25410.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH NAIA T3 BUS GATE",
+"date____": "01/29/2025",
+"totalamt":33225.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH NAIA T3 BUS GATE",
+"date____": "01/30/2025",
+"totalamt":29250.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH NAIA T3 BUS GATE",
+"date____": "01/31/2025",
+"totalamt":34539.00
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": "WH SMITH T3 INTL (S12)",
 "date____": "01/06/2025",
 "totalamt":220996.00
@@ -4569,6 +5547,36 @@
 "storname": "WH SMITH T3 INTL (S12)",
 "date____": "01/26/2025",
 "totalamt":165837.25
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH T3 INTL (S12)",
+"date____": "01/27/2025",
+"totalamt":158929.89
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH T3 INTL (S12)",
+"date____": "01/28/2025",
+"totalamt":211262.71
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH T3 INTL (S12)",
+"date____": "01/29/2025",
+"totalamt":153061.46
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH T3 INTL (S12)",
+"date____": "01/30/2025",
+"totalamt":167400.25
+},
+{
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "WH SMITH T3 INTL (S12)",
+"date____": "01/31/2025",
+"totalamt":195478.00
 },
 {
 "storegrp": "FRANCHISE STORES",
@@ -4728,6 +5736,36 @@
 },
 {
 "storegrp": "FRANCHISE STORES",
+"storname": "7-11 BORA STATION 3",
+"date____": "01/27/2025",
+"totalamt":193584.05
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "7-11 BORA STATION 3",
+"date____": "01/28/2025",
+"totalamt":192235.50
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "7-11 BORA STATION 3",
+"date____": "01/29/2025",
+"totalamt":181785.00
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "7-11 BORA STATION 3",
+"date____": "01/30/2025",
+"totalamt":183516.75
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "7-11 BORA STATION 3",
+"date____": "01/31/2025",
+"totalamt":213939.25
+},
+{
+"storegrp": "FRANCHISE STORES",
 "storname": "7-11 BORA TOUR CENTER",
 "date____": "01/01/2025",
 "totalamt":297561.00
@@ -4884,6 +5922,36 @@
 },
 {
 "storegrp": "FRANCHISE STORES",
+"storname": "7-11 BORA TOUR CENTER",
+"date____": "01/27/2025",
+"totalamt":207590.75
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "7-11 BORA TOUR CENTER",
+"date____": "01/28/2025",
+"totalamt":244888.50
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "7-11 BORA TOUR CENTER",
+"date____": "01/29/2025",
+"totalamt":222622.25
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "7-11 BORA TOUR CENTER",
+"date____": "01/30/2025",
+"totalamt":231828.75
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "7-11 BORA TOUR CENTER",
+"date____": "01/31/2025",
+"totalamt":240183.25
+},
+{
+"storegrp": "FRANCHISE STORES",
 "storname": "7-11 MCIA",
 "date____": "01/01/2025",
 "totalamt":141954.00
@@ -5013,6 +6081,36 @@
 "storname": "7-11 MCIA",
 "date____": "01/26/2025",
 "totalamt":145987.50
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "7-11 MCIA",
+"date____": "01/27/2025",
+"totalamt":147729.50
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "7-11 MCIA",
+"date____": "01/28/2025",
+"totalamt":150103.00
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "7-11 MCIA",
+"date____": "01/29/2025",
+"totalamt":141341.50
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "7-11 MCIA",
+"date____": "01/30/2025",
+"totalamt":139932.00
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "7-11 MCIA",
+"date____": "01/31/2025",
+"totalamt":158856.00
 },
 {
 "storegrp": "FRANCHISE STORES",
@@ -5172,6 +6270,36 @@
 },
 {
 "storegrp": "FRANCHISE STORES",
+"storname": "7-11 PITX",
+"date____": "01/27/2025",
+"totalamt":122833.00
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "7-11 PITX",
+"date____": "01/28/2025",
+"totalamt":114488.00
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "7-11 PITX",
+"date____": "01/29/2025",
+"totalamt":103132.00
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "7-11 PITX",
+"date____": "01/30/2025",
+"totalamt":124320.00
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "7-11 PITX",
+"date____": "01/31/2025",
+"totalamt":142563.50
+},
+{
+"storegrp": "FRANCHISE STORES",
 "storname": "MINISO CEBU",
 "date____": "01/01/2025",
 "totalamt":81732.00
@@ -5325,6 +6453,36 @@
 "storname": "MINISO CEBU",
 "date____": "01/26/2025",
 "totalamt":86582.00
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "MINISO CEBU",
+"date____": "01/27/2025",
+"totalamt":68643.00
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "MINISO CEBU",
+"date____": "01/28/2025",
+"totalamt":63037.00
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "MINISO CEBU",
+"date____": "01/29/2025",
+"totalamt":54093.50
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "MINISO CEBU",
+"date____": "01/30/2025",
+"totalamt":56313.00
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "MINISO CEBU",
+"date____": "01/31/2025",
+"totalamt":65441.00
 },
 {
 "storegrp": "FRANCHISE STORES",
@@ -5484,6 +6642,36 @@
 },
 {
 "storegrp": "FRANCHISE STORES",
+"storname": "MINISO DRIVEDINE",
+"date____": "01/27/2025",
+"totalamt":26300.09
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "MINISO DRIVEDINE",
+"date____": "01/28/2025",
+"totalamt":16518.02
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "MINISO DRIVEDINE",
+"date____": "01/29/2025",
+"totalamt":42357.56
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "MINISO DRIVEDINE",
+"date____": "01/30/2025",
+"totalamt":16696.02
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "MINISO DRIVEDINE",
+"date____": "01/31/2025",
+"totalamt":9034.51
+},
+{
+"storegrp": "FRANCHISE STORES",
 "storname": "MINISO T3",
 "date____": "01/01/2025",
 "totalamt":25458.00
@@ -5639,6 +6827,36 @@
 "totalamt":32367.00
 },
 {
+"storegrp": "FRANCHISE STORES",
+"storname": "MINISO T3",
+"date____": "01/27/2025",
+"totalamt":29587.00
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "MINISO T3",
+"date____": "01/28/2025",
+"totalamt":17888.50
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "MINISO T3",
+"date____": "01/29/2025",
+"totalamt":30780.00
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "MINISO T3",
+"date____": "01/30/2025",
+"totalamt":24858.00
+},
+{
+"storegrp": "FRANCHISE STORES",
+"storname": "MINISO T3",
+"date____": "01/31/2025",
+"totalamt":24210.00
+},
+{
 "storegrp": "OUTLETS",
 "storname": "BORA ISLAND SOUVENIRS",
 "date____": "01/07/2025",
@@ -5757,6 +6975,36 @@
 "storname": "BORA ISLAND SOUVENIRS",
 "date____": "01/26/2025",
 "totalamt":60011.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "BORA ISLAND SOUVENIRS",
+"date____": "01/27/2025",
+"totalamt":69593.25
+},
+{
+"storegrp": "OUTLETS",
+"storname": "BORA ISLAND SOUVENIRS",
+"date____": "01/28/2025",
+"totalamt":78395.25
+},
+{
+"storegrp": "OUTLETS",
+"storname": "BORA ISLAND SOUVENIRS",
+"date____": "01/29/2025",
+"totalamt":85469.71
+},
+{
+"storegrp": "OUTLETS",
+"storname": "BORA ISLAND SOUVENIRS",
+"date____": "01/30/2025",
+"totalamt":55350.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "BORA ISLAND SOUVENIRS",
+"date____": "01/31/2025",
+"totalamt":70496.00
 },
 {
 "storegrp": "OUTLETS",
@@ -5886,6 +7134,36 @@
 },
 {
 "storegrp": "OUTLETS",
+"storname": "BORACAY",
+"date____": "01/27/2025",
+"totalamt":42959.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "BORACAY",
+"date____": "01/28/2025",
+"totalamt":47995.55
+},
+{
+"storegrp": "OUTLETS",
+"storname": "BORACAY",
+"date____": "01/29/2025",
+"totalamt":62112.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "BORACAY",
+"date____": "01/30/2025",
+"totalamt":59910.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "BORACAY",
+"date____": "01/31/2025",
+"totalamt":66348.50
+},
+{
+"storegrp": "OUTLETS",
 "storname": "CEBU PUEBLO VERDE",
 "date____": "01/06/2025",
 "totalamt":14656.00
@@ -6009,6 +7287,36 @@
 "storname": "CEBU PUEBLO VERDE",
 "date____": "01/26/2025",
 "totalamt":32204.20
+},
+{
+"storegrp": "OUTLETS",
+"storname": "CEBU PUEBLO VERDE",
+"date____": "01/27/2025",
+"totalamt":11369.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "CEBU PUEBLO VERDE",
+"date____": "01/28/2025",
+"totalamt":32109.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "CEBU PUEBLO VERDE",
+"date____": "01/29/2025",
+"totalamt":39595.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "CEBU PUEBLO VERDE",
+"date____": "01/30/2025",
+"totalamt":24870.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "CEBU PUEBLO VERDE",
+"date____": "01/31/2025",
+"totalamt":30456.00
 },
 {
 "storegrp": "OUTLETS",
@@ -6168,6 +7476,36 @@
 },
 {
 "storegrp": "OUTLETS",
+"storname": "CLARK PUREGOLD",
+"date____": "01/27/2025",
+"totalamt":27580.63
+},
+{
+"storegrp": "OUTLETS",
+"storname": "CLARK PUREGOLD",
+"date____": "01/28/2025",
+"totalamt":50024.64
+},
+{
+"storegrp": "OUTLETS",
+"storname": "CLARK PUREGOLD",
+"date____": "01/29/2025",
+"totalamt":126267.23
+},
+{
+"storegrp": "OUTLETS",
+"storname": "CLARK PUREGOLD",
+"date____": "01/30/2025",
+"totalamt":41251.58
+},
+{
+"storegrp": "OUTLETS",
+"storname": "CLARK PUREGOLD",
+"date____": "01/31/2025",
+"totalamt":52743.40
+},
+{
+"storegrp": "OUTLETS",
 "storname": "FR PITX",
 "date____": "01/06/2025",
 "totalamt":44440.00
@@ -6291,6 +7629,36 @@
 "storname": "FR PITX",
 "date____": "01/26/2025",
 "totalamt":43471.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "FR PITX",
+"date____": "01/27/2025",
+"totalamt":22564.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "FR PITX",
+"date____": "01/28/2025",
+"totalamt":38005.10
+},
+{
+"storegrp": "OUTLETS",
+"storname": "FR PITX",
+"date____": "01/29/2025",
+"totalamt":36269.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "FR PITX",
+"date____": "01/30/2025",
+"totalamt":34900.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "FR PITX",
+"date____": "01/31/2025",
+"totalamt":46378.00
 },
 {
 "storegrp": "OUTLETS",
@@ -6420,6 +7788,36 @@
 },
 {
 "storegrp": "OUTLETS",
+"storname": "NLEX BALAGTAS",
+"date____": "01/27/2025",
+"totalamt":32173.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "NLEX BALAGTAS",
+"date____": "01/28/2025",
+"totalamt":67425.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "NLEX BALAGTAS",
+"date____": "01/29/2025",
+"totalamt":59740.50
+},
+{
+"storegrp": "OUTLETS",
+"storname": "NLEX BALAGTAS",
+"date____": "01/30/2025",
+"totalamt":44335.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "NLEX BALAGTAS",
+"date____": "01/31/2025",
+"totalamt":21279.00
+},
+{
+"storegrp": "OUTLETS",
 "storname": "NLEX DRIVEDINE",
 "date____": "01/06/2025",
 "totalamt":27946.00
@@ -6543,6 +7941,36 @@
 "storname": "NLEX DRIVEDINE",
 "date____": "01/26/2025",
 "totalamt":86754.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "NLEX DRIVEDINE",
+"date____": "01/27/2025",
+"totalamt":25487.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "NLEX DRIVEDINE",
+"date____": "01/28/2025",
+"totalamt":25286.75
+},
+{
+"storegrp": "OUTLETS",
+"storname": "NLEX DRIVEDINE",
+"date____": "01/29/2025",
+"totalamt":47886.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "NLEX DRIVEDINE",
+"date____": "01/30/2025",
+"totalamt":47400.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "NLEX DRIVEDINE",
+"date____": "01/31/2025",
+"totalamt":17207.00
 },
 {
 "storegrp": "OUTLETS",
@@ -6672,6 +8100,36 @@
 },
 {
 "storegrp": "OUTLETS",
+"storname": "NLEX MEGA STATION",
+"date____": "01/27/2025",
+"totalamt":37093.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "NLEX MEGA STATION",
+"date____": "01/28/2025",
+"totalamt":30739.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "NLEX MEGA STATION",
+"date____": "01/29/2025",
+"totalamt":58046.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "NLEX MEGA STATION",
+"date____": "01/30/2025",
+"totalamt":30684.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "NLEX MEGA STATION",
+"date____": "01/31/2025",
+"totalamt":16745.00
+},
+{
+"storegrp": "OUTLETS",
 "storname": "SLEX",
 "date____": "01/06/2025",
 "totalamt":51016.75
@@ -6795,6 +8253,36 @@
 "storname": "SLEX",
 "date____": "01/26/2025",
 "totalamt":111898.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "SLEX",
+"date____": "01/27/2025",
+"totalamt":90110.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "SLEX",
+"date____": "01/28/2025",
+"totalamt":37022.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "SLEX",
+"date____": "01/29/2025",
+"totalamt":53208.50
+},
+{
+"storegrp": "OUTLETS",
+"storname": "SLEX",
+"date____": "01/30/2025",
+"totalamt":34865.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "SLEX",
+"date____": "01/31/2025",
+"totalamt":40747.00
 },
 {
 "storegrp": "OUTLETS",
@@ -6924,6 +8412,36 @@
 },
 {
 "storegrp": "OUTLETS",
+"storname": "SUBIC FREEPORT",
+"date____": "01/27/2025",
+"totalamt":36109.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "SUBIC FREEPORT",
+"date____": "01/28/2025",
+"totalamt":19889.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "SUBIC FREEPORT",
+"date____": "01/29/2025",
+"totalamt":22047.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "SUBIC FREEPORT",
+"date____": "01/30/2025",
+"totalamt":19469.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "SUBIC FREEPORT",
+"date____": "01/31/2025",
+"totalamt":11427.00
+},
+{
+"storegrp": "OUTLETS",
 "storname": "TRAVEL HUB BATANGAS",
 "date____": "01/06/2025",
 "totalamt":16919.00
@@ -7047,6 +8565,36 @@
 "storname": "TRAVEL HUB BATANGAS",
 "date____": "01/26/2025",
 "totalamt":34474.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "TRAVEL HUB BATANGAS",
+"date____": "01/27/2025",
+"totalamt":31799.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "TRAVEL HUB BATANGAS",
+"date____": "01/28/2025",
+"totalamt":11752.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "TRAVEL HUB BATANGAS",
+"date____": "01/29/2025",
+"totalamt":20120.80
+},
+{
+"storegrp": "OUTLETS",
+"storname": "TRAVEL HUB BATANGAS",
+"date____": "01/30/2025",
+"totalamt":11928.00
+},
+{
+"storegrp": "OUTLETS",
+"storname": "TRAVEL HUB BATANGAS",
+"date____": "01/31/2025",
+"totalamt":19388.00
 },
 {
 "storegrp": "RESTO",
@@ -7173,6 +8721,36 @@
 "storname": "CAFE EXPRESS- BATANGAS",
 "date____": "01/26/2025",
 "totalamt":15684.00
+},
+{
+"storegrp": "RESTO",
+"storname": "CAFE EXPRESS- BATANGAS",
+"date____": "01/27/2025",
+"totalamt":11829.12
+},
+{
+"storegrp": "RESTO",
+"storname": "CAFE EXPRESS- BATANGAS",
+"date____": "01/28/2025",
+"totalamt":17215.38
+},
+{
+"storegrp": "RESTO",
+"storname": "CAFE EXPRESS- BATANGAS",
+"date____": "01/29/2025",
+"totalamt":21712.74
+},
+{
+"storegrp": "RESTO",
+"storname": "CAFE EXPRESS- BATANGAS",
+"date____": "01/30/2025",
+"totalamt":10218.14
+},
+{
+"storegrp": "RESTO",
+"storname": "CAFE EXPRESS- BATANGAS",
+"date____": "01/31/2025",
+"totalamt":24573.12
 },
 {
 "storegrp": "RESTO",
@@ -7332,6 +8910,36 @@
 },
 {
 "storegrp": "RESTO",
+"storname": "CAFE EXPRESS- KALIBO",
+"date____": "01/27/2025",
+"totalamt":415.18
+},
+{
+"storegrp": "RESTO",
+"storname": "CAFE EXPRESS- KALIBO",
+"date____": "01/28/2025",
+"totalamt":1636.61
+},
+{
+"storegrp": "RESTO",
+"storname": "CAFE EXPRESS- KALIBO",
+"date____": "01/29/2025",
+"totalamt":1508.93
+},
+{
+"storegrp": "RESTO",
+"storname": "CAFE EXPRESS- KALIBO",
+"date____": "01/30/2025",
+"totalamt":1508.93
+},
+{
+"storegrp": "RESTO",
+"storname": "CAFE EXPRESS- KALIBO",
+"date____": "01/31/2025",
+"totalamt":691.96
+},
+{
+"storegrp": "RESTO",
 "storname": "CAFE EXPRESS- T1",
 "date____": "01/01/2025",
 "totalamt":262674.03
@@ -7485,6 +9093,36 @@
 "storname": "CAFE EXPRESS- T1",
 "date____": "01/26/2025",
 "totalamt":240195.55
+},
+{
+"storegrp": "RESTO",
+"storname": "CAFE EXPRESS- T1",
+"date____": "01/27/2025",
+"totalamt":234455.22
+},
+{
+"storegrp": "RESTO",
+"storname": "CAFE EXPRESS- T1",
+"date____": "01/28/2025",
+"totalamt":238317.46
+},
+{
+"storegrp": "RESTO",
+"storname": "CAFE EXPRESS- T1",
+"date____": "01/29/2025",
+"totalamt":247311.69
+},
+{
+"storegrp": "RESTO",
+"storname": "CAFE EXPRESS- T1",
+"date____": "01/30/2025",
+"totalamt":255193.49
+},
+{
+"storegrp": "RESTO",
+"storname": "CAFE EXPRESS- T1",
+"date____": "01/31/2025",
+"totalamt":273974.58
 },
 {
 "storegrp": "RESTO",
@@ -7644,6 +9282,36 @@
 },
 {
 "storegrp": "RESTO",
+"storname": "CAFE EXPRESS- T3 ARRV",
+"date____": "01/27/2025",
+"totalamt":26542.90
+},
+{
+"storegrp": "RESTO",
+"storname": "CAFE EXPRESS- T3 ARRV",
+"date____": "01/28/2025",
+"totalamt":28633.54
+},
+{
+"storegrp": "RESTO",
+"storname": "CAFE EXPRESS- T3 ARRV",
+"date____": "01/29/2025",
+"totalamt":23990.34
+},
+{
+"storegrp": "RESTO",
+"storname": "CAFE EXPRESS- T3 ARRV",
+"date____": "01/30/2025",
+"totalamt":35057.08
+},
+{
+"storegrp": "RESTO",
+"storname": "CAFE EXPRESS- T3 ARRV",
+"date____": "01/31/2025",
+"totalamt":30457.72
+},
+{
+"storegrp": "RESTO",
 "storname": "CAFE EXPRESS- T3 LOUNGE",
 "date____": "01/01/2025",
 "totalamt":19862.51
@@ -7800,6 +9468,36 @@
 },
 {
 "storegrp": "RESTO",
+"storname": "CAFE EXPRESS- T3 LOUNGE",
+"date____": "01/27/2025",
+"totalamt":34058.94
+},
+{
+"storegrp": "RESTO",
+"storname": "CAFE EXPRESS- T3 LOUNGE",
+"date____": "01/28/2025",
+"totalamt":26481.90
+},
+{
+"storegrp": "RESTO",
+"storname": "CAFE EXPRESS- T3 LOUNGE",
+"date____": "01/29/2025",
+"totalamt":29034.84
+},
+{
+"storegrp": "RESTO",
+"storname": "CAFE EXPRESS- T3 LOUNGE",
+"date____": "01/30/2025",
+"totalamt":26651.80
+},
+{
+"storegrp": "RESTO",
+"storname": "CAFE EXPRESS- T3 LOUNGE",
+"date____": "01/31/2025",
+"totalamt":31065.17
+},
+{
+"storegrp": "RESTO",
 "storname": "CAFE EXPRESS- T3 SPACE32",
 "date____": "01/01/2025",
 "totalamt":33942.70
@@ -7953,6 +9651,36 @@
 "storname": "CAFE EXPRESS- T3 SPACE32",
 "date____": "01/26/2025",
 "totalamt":19844.86
+},
+{
+"storegrp": "RESTO",
+"storname": "CAFE EXPRESS- T3 SPACE32",
+"date____": "01/27/2025",
+"totalamt":22628.58
+},
+{
+"storegrp": "RESTO",
+"storname": "CAFE EXPRESS- T3 SPACE32",
+"date____": "01/28/2025",
+"totalamt":22773.16
+},
+{
+"storegrp": "RESTO",
+"storname": "CAFE EXPRESS- T3 SPACE32",
+"date____": "01/29/2025",
+"totalamt":22528.96
+},
+{
+"storegrp": "RESTO",
+"storname": "CAFE EXPRESS- T3 SPACE32",
+"date____": "01/30/2025",
+"totalamt":19575.09
+},
+{
+"storegrp": "RESTO",
+"storname": "CAFE EXPRESS- T3 SPACE32",
+"date____": "01/31/2025",
+"totalamt":22187.56
 },
 {
 "storegrp": "RESTO",
@@ -8142,6 +9870,36 @@
 },
 {
 "storegrp": "RESTO",
+"storname": "ILLY CAFE- OPUS MALL",
+"date____": "01/27/2025",
+"totalamt":5213.39
+},
+{
+"storegrp": "RESTO",
+"storname": "ILLY CAFE- OPUS MALL",
+"date____": "01/28/2025",
+"totalamt":10291.51
+},
+{
+"storegrp": "RESTO",
+"storname": "ILLY CAFE- OPUS MALL",
+"date____": "01/29/2025",
+"totalamt":20610.65
+},
+{
+"storegrp": "RESTO",
+"storname": "ILLY CAFE- OPUS MALL",
+"date____": "01/30/2025",
+"totalamt":6917.86
+},
+{
+"storegrp": "RESTO",
+"storname": "ILLY CAFE- OPUS MALL",
+"date____": "01/31/2025",
+"totalamt":8435.72
+},
+{
+"storegrp": "RESTO",
 "storname": "ILLY CAFE- ROCKWELL",
 "date____": "01/01/2025",
 "totalamt":57579.12
@@ -8295,6 +10053,36 @@
 "storname": "ILLY CAFE- ROCKWELL",
 "date____": "01/26/2025",
 "totalamt":73024.91
+},
+{
+"storegrp": "RESTO",
+"storname": "ILLY CAFE- ROCKWELL",
+"date____": "01/27/2025",
+"totalamt":28902.98
+},
+{
+"storegrp": "RESTO",
+"storname": "ILLY CAFE- ROCKWELL",
+"date____": "01/28/2025",
+"totalamt":23502.61
+},
+{
+"storegrp": "RESTO",
+"storname": "ILLY CAFE- ROCKWELL",
+"date____": "01/29/2025",
+"totalamt":56728.72
+},
+{
+"storegrp": "RESTO",
+"storname": "ILLY CAFE- ROCKWELL",
+"date____": "01/30/2025",
+"totalamt":30477.01
+},
+{
+"storegrp": "RESTO",
+"storname": "ILLY CAFE- ROCKWELL",
+"date____": "01/31/2025",
+"totalamt":39096.05
 },
 {
 "storegrp": "RESTO",
@@ -8454,6 +10242,36 @@
 },
 {
 "storegrp": "RESTO",
+"storname": "SUBWAY BATANGAS",
+"date____": "01/27/2025",
+"totalamt":37123.22
+},
+{
+"storegrp": "RESTO",
+"storname": "SUBWAY BATANGAS",
+"date____": "01/28/2025",
+"totalamt":35108.94
+},
+{
+"storegrp": "RESTO",
+"storname": "SUBWAY BATANGAS",
+"date____": "01/29/2025",
+"totalamt":47008.03
+},
+{
+"storegrp": "RESTO",
+"storname": "SUBWAY BATANGAS",
+"date____": "01/30/2025",
+"totalamt":24720.53
+},
+{
+"storegrp": "RESTO",
+"storname": "SUBWAY BATANGAS",
+"date____": "01/31/2025",
+"totalamt":36672.34
+},
+{
+"storegrp": "RESTO",
 "storname": "SUBWAY CLARK",
 "date____": "01/01/2025",
 "totalamt":47007.14
@@ -8607,6 +10425,36 @@
 "storname": "SUBWAY CLARK",
 "date____": "01/26/2025",
 "totalamt":44147.34
+},
+{
+"storegrp": "RESTO",
+"storname": "SUBWAY CLARK",
+"date____": "01/27/2025",
+"totalamt":48375.73
+},
+{
+"storegrp": "RESTO",
+"storname": "SUBWAY CLARK",
+"date____": "01/28/2025",
+"totalamt":45419.12
+},
+{
+"storegrp": "RESTO",
+"storname": "SUBWAY CLARK",
+"date____": "01/29/2025",
+"totalamt":39047.32
+},
+{
+"storegrp": "RESTO",
+"storname": "SUBWAY CLARK",
+"date____": "01/30/2025",
+"totalamt":46916.08
+},
+{
+"storegrp": "RESTO",
+"storname": "SUBWAY CLARK",
+"date____": "01/31/2025",
+"totalamt":30080.36
 },
 {
 "storegrp": "RESTO",
@@ -8766,6 +10614,36 @@
 },
 {
 "storegrp": "RESTO",
+"storname": "SUBWAY T1",
+"date____": "01/27/2025",
+"totalamt":269675.38
+},
+{
+"storegrp": "RESTO",
+"storname": "SUBWAY T1",
+"date____": "01/28/2025",
+"totalamt":248433.38
+},
+{
+"storegrp": "RESTO",
+"storname": "SUBWAY T1",
+"date____": "01/29/2025",
+"totalamt":254731.63
+},
+{
+"storegrp": "RESTO",
+"storname": "SUBWAY T1",
+"date____": "01/30/2025",
+"totalamt":274836.12
+},
+{
+"storegrp": "RESTO",
+"storname": "SUBWAY T1",
+"date____": "01/31/2025",
+"totalamt":285023.05
+},
+{
+"storegrp": "RESTO",
 "storname": "SUBWAY T3",
 "date____": "01/01/2025",
 "totalamt":139789.88
@@ -8919,4 +10797,34 @@
 "storname": "SUBWAY T3",
 "date____": "01/26/2025",
 "totalamt":168699.85
+},
+{
+"storegrp": "RESTO",
+"storname": "SUBWAY T3",
+"date____": "01/27/2025",
+"totalamt":144234.73
+},
+{
+"storegrp": "RESTO",
+"storname": "SUBWAY T3",
+"date____": "01/28/2025",
+"totalamt":144100.21
+},
+{
+"storegrp": "RESTO",
+"storname": "SUBWAY T3",
+"date____": "01/29/2025",
+"totalamt":146030.79
+},
+{
+"storegrp": "RESTO",
+"storname": "SUBWAY T3",
+"date____": "01/30/2025",
+"totalamt":148390.91
+},
+{
+"storegrp": "RESTO",
+"storname": "SUBWAY T3",
+"date____": "01/31/2025",
+"totalamt":145208.31
 }]
