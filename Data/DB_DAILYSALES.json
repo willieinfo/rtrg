@@ -1,74 +1,11 @@
 [{
 "storegrp": "RESTO",
 "storname": "SUBWAY BATANGAS",
-"date____": "02/03/2025",
-"totalamt":38691.08,
-"lastamt_":0.00,
-"prevamt_":0.00,
-"storeamt":1533332.72
-},
-{
-"storegrp": "RESTO",
-"storname": "SUBWAY BATANGAS",
-"date____": "02/04/2025",
-"totalamt":24183.93,
-"lastamt_":0.00,
-"prevamt_":0.00,
-"storeamt":1533332.72
-},
-{
-"storegrp": "RESTO",
-"storname": "SUBWAY BATANGAS",
-"date____": "02/05/2025",
-"totalamt":33891.06,
-"lastamt_":0.00,
-"prevamt_":0.00,
-"storeamt":1533332.72
-},
-{
-"storegrp": "RESTO",
-"storname": "SUBWAY BATANGAS",
-"date____": "02/06/2025",
-"totalamt":29396.43,
-"lastamt_":0.00,
-"prevamt_":0.00,
-"storeamt":1533332.72
-},
-{
-"storegrp": "RESTO",
-"storname": "SUBWAY BATANGAS",
-"date____": "02/07/2025",
-"totalamt":33731.24,
-"lastamt_":0.00,
-"prevamt_":0.00,
-"storeamt":1533332.72
-},
-{
-"storegrp": "RESTO",
-"storname": "SUBWAY BATANGAS",
-"date____": "02/08/2025",
-"totalamt":32778.57,
-"lastamt_":0.00,
-"prevamt_":0.00,
-"storeamt":1533332.72
-},
-{
-"storegrp": "RESTO",
-"storname": "SUBWAY BATANGAS",
-"date____": "02/09/2025",
-"totalamt":45944.65,
-"lastamt_":0.00,
-"prevamt_":0.00,
-"storeamt":1533332.72
-},
-{
-"storegrp": "RESTO",
-"storname": "SUBWAY BATANGAS",
 "date____": "02/10/2025",
 "totalamt":35831.23,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -77,7 +14,7 @@
 "totalamt":35911.59,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -86,7 +23,7 @@
 "totalamt":40561.63,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -95,7 +32,7 @@
 "totalamt":38369.64,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -104,7 +41,7 @@
 "totalamt":49528.54,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -113,7 +50,7 @@
 "totalamt":34921.39,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -122,7 +59,7 @@
 "totalamt":47895.49,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -131,7 +68,7 @@
 "totalamt":33984.81,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -140,7 +77,7 @@
 "totalamt":26608.04,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -149,7 +86,7 @@
 "totalamt":30830.37,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -158,7 +95,7 @@
 "totalamt":26934.82,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -167,7 +104,7 @@
 "totalamt":46787.49,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -176,7 +113,7 @@
 "totalamt":47434.82,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -185,7 +122,7 @@
 "totalamt":46787.49,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -194,7 +131,7 @@
 "totalamt":36072.33,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -203,7 +140,7 @@
 "totalamt":35725.02,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -212,7 +149,7 @@
 "totalamt":36685.72,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -221,7 +158,7 @@
 "totalamt":33309.81,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -230,7 +167,7 @@
 "totalamt":42244.65,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -239,7 +176,7 @@
 "totalamt":33524.12,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -248,7 +185,7 @@
 "totalamt":49920.55,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -257,7 +194,7 @@
 "totalamt":36543.75,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -266,7 +203,7 @@
 "totalamt":21784.83,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -275,7 +212,7 @@
 "totalamt":28524.99,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -284,7 +221,7 @@
 "totalamt":32649.89,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -293,7 +230,7 @@
 "totalamt":41173.22,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -302,7 +239,7 @@
 "totalamt":34307.13,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -311,7 +248,7 @@
 "totalamt":40626.77,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -320,7 +257,7 @@
 "totalamt":30158.02,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -329,7 +266,7 @@
 "totalamt":25619.63,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -338,7 +275,7 @@
 "totalamt":32967.85,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -347,7 +284,7 @@
 "totalamt":33647.33,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -356,7 +293,7 @@
 "totalamt":40338.35,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -365,7 +302,7 @@
 "totalamt":48970.52,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -374,70 +311,70 @@
 "totalamt":37533.93,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1533332.72
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
-"storname": "SUBWAY CLARK",
-"date____": "02/03/2025",
-"totalamt":20920.54,
+"storname": "SUBWAY BATANGAS",
+"date____": "03/17/2025",
+"totalamt":40392.86,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
-"storname": "SUBWAY CLARK",
-"date____": "02/04/2025",
-"totalamt":32764.66,
+"storname": "SUBWAY BATANGAS",
+"date____": "03/18/2025",
+"totalamt":29970.53,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
-"storname": "SUBWAY CLARK",
-"date____": "02/05/2025",
-"totalamt":20827.67,
+"storname": "SUBWAY BATANGAS",
+"date____": "03/19/2025",
+"totalamt":21431.24,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
-"storname": "SUBWAY CLARK",
-"date____": "02/06/2025",
-"totalamt":47201.26,
+"storname": "SUBWAY BATANGAS",
+"date____": "03/20/2025",
+"totalamt":30445.54,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
-"storname": "SUBWAY CLARK",
-"date____": "02/07/2025",
-"totalamt":24218.76,
+"storname": "SUBWAY BATANGAS",
+"date____": "03/21/2025",
+"totalamt":37173.20,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
-"storname": "SUBWAY CLARK",
-"date____": "02/08/2025",
-"totalamt":34947.33,
+"storname": "SUBWAY BATANGAS",
+"date____": "03/22/2025",
+"totalamt":32273.20,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
-"storname": "SUBWAY CLARK",
-"date____": "02/09/2025",
-"totalamt":46968.79,
+"storname": "SUBWAY BATANGAS",
+"date____": "03/23/2025",
+"totalamt":26886.11,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1513288.44
 },
 {
 "storegrp": "RESTO",
@@ -446,7 +383,7 @@
 "totalamt":30391.08,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -455,7 +392,7 @@
 "totalamt":33862.51,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -464,7 +401,7 @@
 "totalamt":21191.09,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -473,7 +410,7 @@
 "totalamt":31530.36,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -482,7 +419,7 @@
 "totalamt":21531.24,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -491,7 +428,7 @@
 "totalamt":32469.65,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -500,7 +437,7 @@
 "totalamt":42282.50,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -509,7 +446,7 @@
 "totalamt":29349.99,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -518,7 +455,7 @@
 "totalamt":41916.99,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -527,7 +464,7 @@
 "totalamt":31237.52,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -536,7 +473,7 @@
 "totalamt":36344.64,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -545,7 +482,7 @@
 "totalamt":26973.21,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -554,7 +491,7 @@
 "totalamt":46603.61,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -563,7 +500,7 @@
 "totalamt":44289.64,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -572,7 +509,7 @@
 "totalamt":33454.48,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -581,7 +518,7 @@
 "totalamt":38627.14,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -590,7 +527,7 @@
 "totalamt":24665.21,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -599,7 +536,7 @@
 "totalamt":42782.15,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -608,7 +545,7 @@
 "totalamt":28943.77,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -617,7 +554,7 @@
 "totalamt":24110.73,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -626,7 +563,7 @@
 "totalamt":42211.62,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -635,7 +572,7 @@
 "totalamt":42497.32,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -644,7 +581,7 @@
 "totalamt":22513.39,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -653,7 +590,7 @@
 "totalamt":35110.18,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -662,7 +599,7 @@
 "totalamt":15043.06,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -671,7 +608,7 @@
 "totalamt":48883.98,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -680,7 +617,7 @@
 "totalamt":16150.02,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -689,7 +626,7 @@
 "totalamt":45113.41,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -698,7 +635,7 @@
 "totalamt":29169.64,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -707,7 +644,7 @@
 "totalamt":18122.68,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -716,7 +653,7 @@
 "totalamt":23975.92,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -725,7 +662,7 @@
 "totalamt":14673.21,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -734,7 +671,7 @@
 "totalamt":42970.54,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -743,7 +680,7 @@
 "totalamt":25744.74,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -752,70 +689,70 @@
 "totalamt":33184.85,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":1345771.08
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
-"storname": "CAFE EXPRESS- BATANGAS",
-"date____": "02/03/2025",
-"totalamt":16866.98,
+"storname": "SUBWAY CLARK",
+"date____": "03/17/2025",
+"totalamt":29249.49,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
-"storname": "CAFE EXPRESS- BATANGAS",
-"date____": "02/04/2025",
-"totalamt":10763.48,
+"storname": "SUBWAY CLARK",
+"date____": "03/18/2025",
+"totalamt":24863.42,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
-"storname": "CAFE EXPRESS- BATANGAS",
-"date____": "02/05/2025",
-"totalamt":18898.47,
+"storname": "SUBWAY CLARK",
+"date____": "03/19/2025",
+"totalamt":26082.14,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
-"storname": "CAFE EXPRESS- BATANGAS",
-"date____": "02/06/2025",
-"totalamt":18631.03,
+"storname": "SUBWAY CLARK",
+"date____": "03/20/2025",
+"totalamt":17620.75,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
-"storname": "CAFE EXPRESS- BATANGAS",
-"date____": "02/07/2025",
-"totalamt":18611.88,
+"storname": "SUBWAY CLARK",
+"date____": "03/21/2025",
+"totalamt":55312.55,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
-"storname": "CAFE EXPRESS- BATANGAS",
-"date____": "02/08/2025",
-"totalamt":11848.28,
+"storname": "SUBWAY CLARK",
+"date____": "03/22/2025",
+"totalamt":19172.33,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
-"storname": "CAFE EXPRESS- BATANGAS",
-"date____": "02/09/2025",
-"totalamt":15624.77,
+"storname": "SUBWAY CLARK",
+"date____": "03/23/2025",
+"totalamt":30235.72,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":1320458.47
 },
 {
 "storegrp": "RESTO",
@@ -824,7 +761,7 @@
 "totalamt":11474.78,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -833,7 +770,7 @@
 "totalamt":13089.22,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -842,7 +779,7 @@
 "totalamt":11720.43,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -851,7 +788,7 @@
 "totalamt":16883.18,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -860,7 +797,7 @@
 "totalamt":24733.22,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -869,7 +806,7 @@
 "totalamt":17409.26,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -878,7 +815,7 @@
 "totalamt":17463.06,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -887,7 +824,7 @@
 "totalamt":21947.29,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -896,7 +833,7 @@
 "totalamt":14512.74,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -905,7 +842,7 @@
 "totalamt":19986.15,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -914,7 +851,7 @@
 "totalamt":15184.58,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -923,7 +860,7 @@
 "totalamt":23096.55,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -932,7 +869,7 @@
 "totalamt":20810.06,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -941,7 +878,7 @@
 "totalamt":16352.78,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -950,7 +887,7 @@
 "totalamt":16243.81,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -959,7 +896,7 @@
 "totalamt":12373.77,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -968,7 +905,7 @@
 "totalamt":17239.12,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -977,7 +914,7 @@
 "totalamt":14642.64,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -986,7 +923,7 @@
 "totalamt":17601.15,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -995,7 +932,7 @@
 "totalamt":25834.83,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -1004,7 +941,7 @@
 "totalamt":15920.64,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -1013,7 +950,7 @@
 "totalamt":17244.61,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -1022,7 +959,7 @@
 "totalamt":12852.16,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -1031,7 +968,7 @@
 "totalamt":10830.23,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -1040,7 +977,7 @@
 "totalamt":10986.50,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -1049,7 +986,7 @@
 "totalamt":21330.58,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -1058,7 +995,7 @@
 "totalamt":19731.43,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -1067,7 +1004,7 @@
 "totalamt":19106.85,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -1076,7 +1013,7 @@
 "totalamt":18883.53,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -1085,7 +1022,7 @@
 "totalamt":12759.70,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -1094,7 +1031,7 @@
 "totalamt":15995.99,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -1103,7 +1040,7 @@
 "totalamt":12983.62,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -1112,7 +1049,7 @@
 "totalamt":22408.36,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -1121,7 +1058,7 @@
 "totalamt":20917.99,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -1130,70 +1067,70 @@
 "totalamt":17622.92,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":709418.62
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
-"storname": "ILLY CAFE- OPUS MALL",
-"date____": "02/03/2025",
-"totalamt":6799.10,
+"storname": "CAFE EXPRESS- BATANGAS",
+"date____": "03/17/2025",
+"totalamt":18034.80,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
-"storname": "ILLY CAFE- OPUS MALL",
-"date____": "02/04/2025",
-"totalamt":7278.27,
+"storname": "CAFE EXPRESS- BATANGAS",
+"date____": "03/18/2025",
+"totalamt":13737.63,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
-"storname": "ILLY CAFE- OPUS MALL",
-"date____": "02/05/2025",
-"totalamt":4229.46,
+"storname": "CAFE EXPRESS- BATANGAS",
+"date____": "03/19/2025",
+"totalamt":14389.38,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
-"storname": "ILLY CAFE- OPUS MALL",
-"date____": "02/06/2025",
-"totalamt":6384.83,
+"storname": "CAFE EXPRESS- BATANGAS",
+"date____": "03/20/2025",
+"totalamt":20003.74,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
-"storname": "ILLY CAFE- OPUS MALL",
-"date____": "02/07/2025",
-"totalamt":7860.31,
+"storname": "CAFE EXPRESS- BATANGAS",
+"date____": "03/21/2025",
+"totalamt":14374.20,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
-"storname": "ILLY CAFE- OPUS MALL",
-"date____": "02/08/2025",
-"totalamt":16989.36,
+"storname": "CAFE EXPRESS- BATANGAS",
+"date____": "03/22/2025",
+"totalamt":16581.94,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
-"storname": "ILLY CAFE- OPUS MALL",
-"date____": "02/09/2025",
-"totalamt":29801.02,
+"storname": "CAFE EXPRESS- BATANGAS",
+"date____": "03/23/2025",
+"totalamt":12374.72,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":707670.14
 },
 {
 "storegrp": "RESTO",
@@ -1202,7 +1139,7 @@
 "totalamt":4386.60,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1211,7 +1148,7 @@
 "totalamt":6363.68,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1220,7 +1157,7 @@
 "totalamt":3173.21,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1229,7 +1166,7 @@
 "totalamt":9991.07,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1238,7 +1175,7 @@
 "totalamt":12589.58,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1247,7 +1184,7 @@
 "totalamt":19182.32,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1256,7 +1193,7 @@
 "totalamt":32200.74,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1265,7 +1202,7 @@
 "totalamt":5533.03,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1274,7 +1211,7 @@
 "totalamt":4887.50,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1283,7 +1220,7 @@
 "totalamt":10564.78,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1292,7 +1229,7 @@
 "totalamt":3173.22,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1301,7 +1238,7 @@
 "totalamt":10493.30,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1310,7 +1247,7 @@
 "totalamt":16321.41,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1319,7 +1256,7 @@
 "totalamt":5533.03,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1328,7 +1265,7 @@
 "totalamt":6307.14,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1337,7 +1274,7 @@
 "totalamt":3942.86,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1346,7 +1283,7 @@
 "totalamt":6015.18,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1355,7 +1292,7 @@
 "totalamt":7174.71,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1364,7 +1301,7 @@
 "totalamt":6466.07,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1373,7 +1310,7 @@
 "totalamt":14098.03,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1382,7 +1319,7 @@
 "totalamt":28023.03,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1391,7 +1328,7 @@
 "totalamt":6150.59,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1400,7 +1337,7 @@
 "totalamt":3977.24,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1409,7 +1346,7 @@
 "totalamt":2990.18,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1418,7 +1355,7 @@
 "totalamt":4233.93,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1427,7 +1364,7 @@
 "totalamt":10920.74,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1436,7 +1373,7 @@
 "totalamt":10596.43,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1445,7 +1382,7 @@
 "totalamt":26228.28,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1454,7 +1391,7 @@
 "totalamt":3300.59,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1463,7 +1400,7 @@
 "totalamt":6589.29,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1472,7 +1409,7 @@
 "totalamt":6251.78,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1481,7 +1418,7 @@
 "totalamt":5564.28,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1490,7 +1427,7 @@
 "totalamt":8850.89,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1499,7 +1436,7 @@
 "totalamt":14966.08,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
 "storegrp": "RESTO",
@@ -1508,70 +1445,70 @@
 "totalamt":32307.14,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":438690.28
+"storeamt":444706.31
 },
 {
-"storegrp": "OUTLETS",
-"storname": "TRAVEL HUB BATANGAS",
-"date____": "02/03/2025",
-"totalamt":20694.50,
+"storegrp": "RESTO",
+"storname": "ILLY CAFE- OPUS MALL",
+"date____": "03/17/2025",
+"totalamt":4293.74,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":444706.31
 },
 {
-"storegrp": "OUTLETS",
-"storname": "TRAVEL HUB BATANGAS",
-"date____": "02/04/2025",
-"totalamt":11828.00,
+"storegrp": "RESTO",
+"storname": "ILLY CAFE- OPUS MALL",
+"date____": "03/18/2025",
+"totalamt":5331.24,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":444706.31
 },
 {
-"storegrp": "OUTLETS",
-"storname": "TRAVEL HUB BATANGAS",
-"date____": "02/05/2025",
-"totalamt":17260.00,
+"storegrp": "RESTO",
+"storname": "ILLY CAFE- OPUS MALL",
+"date____": "03/19/2025",
+"totalamt":5916.07,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":444706.31
 },
 {
-"storegrp": "OUTLETS",
-"storname": "TRAVEL HUB BATANGAS",
-"date____": "02/06/2025",
-"totalamt":8703.00,
+"storegrp": "RESTO",
+"storname": "ILLY CAFE- OPUS MALL",
+"date____": "03/20/2025",
+"totalamt":7852.68,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":444706.31
 },
 {
-"storegrp": "OUTLETS",
-"storname": "TRAVEL HUB BATANGAS",
-"date____": "02/07/2025",
-"totalamt":10560.00,
+"storegrp": "RESTO",
+"storname": "ILLY CAFE- OPUS MALL",
+"date____": "03/21/2025",
+"totalamt":8633.02,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":444706.31
 },
 {
-"storegrp": "OUTLETS",
-"storname": "TRAVEL HUB BATANGAS",
-"date____": "02/08/2025",
-"totalamt":22606.00,
+"storegrp": "RESTO",
+"storname": "ILLY CAFE- OPUS MALL",
+"date____": "03/22/2025",
+"totalamt":18872.98,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":444706.31
 },
 {
-"storegrp": "OUTLETS",
-"storname": "TRAVEL HUB BATANGAS",
-"date____": "02/09/2025",
-"totalamt":10376.00,
+"storegrp": "RESTO",
+"storname": "ILLY CAFE- OPUS MALL",
+"date____": "03/23/2025",
+"totalamt":34458.65,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":444706.31
 },
 {
 "storegrp": "OUTLETS",
@@ -1580,7 +1517,7 @@
 "totalamt":14351.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1589,7 +1526,7 @@
 "totalamt":10584.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1598,7 +1535,7 @@
 "totalamt":20142.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1607,7 +1544,7 @@
 "totalamt":21271.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1616,7 +1553,7 @@
 "totalamt":24322.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1625,7 +1562,7 @@
 "totalamt":11593.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1634,7 +1571,7 @@
 "totalamt":18724.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1643,7 +1580,7 @@
 "totalamt":26286.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1652,7 +1589,7 @@
 "totalamt":9970.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1661,7 +1598,7 @@
 "totalamt":17845.50,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1670,7 +1607,7 @@
 "totalamt":9900.75,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1679,7 +1616,7 @@
 "totalamt":20292.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1688,7 +1625,7 @@
 "totalamt":12304.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1697,7 +1634,7 @@
 "totalamt":14224.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1706,7 +1643,7 @@
 "totalamt":13073.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1715,7 +1652,7 @@
 "totalamt":13001.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1724,7 +1661,7 @@
 "totalamt":22690.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1733,7 +1670,7 @@
 "totalamt":13862.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1742,7 +1679,7 @@
 "totalamt":11417.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1751,7 +1688,7 @@
 "totalamt":21901.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1760,7 +1697,7 @@
 "totalamt":25633.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1769,7 +1706,7 @@
 "totalamt":4160.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1778,7 +1715,7 @@
 "totalamt":19409.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1787,7 +1724,7 @@
 "totalamt":7698.75,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1796,7 +1733,7 @@
 "totalamt":13069.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1805,7 +1742,7 @@
 "totalamt":20658.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1814,7 +1751,7 @@
 "totalamt":22543.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1823,7 +1760,7 @@
 "totalamt":15007.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1832,7 +1769,7 @@
 "totalamt":7196.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1841,7 +1778,7 @@
 "totalamt":11256.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1850,7 +1787,7 @@
 "totalamt":15068.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1859,7 +1796,7 @@
 "totalamt":4151.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1868,7 +1805,7 @@
 "totalamt":23287.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1877,7 +1814,7 @@
 "totalamt":13524.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
 "storegrp": "OUTLETS",
@@ -1886,70 +1823,70 @@
 "totalamt":16165.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":648605.50
+"storeamt":669430.25
 },
 {
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH CLARK IPD",
-"date____": "02/03/2025",
-"totalamt":65310.00,
+"storegrp": "OUTLETS",
+"storname": "TRAVEL HUB BATANGAS",
+"date____": "03/17/2025",
+"totalamt":15269.50,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":669430.25
 },
 {
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH CLARK IPD",
-"date____": "02/04/2025",
-"totalamt":70479.00,
+"storegrp": "OUTLETS",
+"storname": "TRAVEL HUB BATANGAS",
+"date____": "03/18/2025",
+"totalamt":8017.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":669430.25
 },
 {
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH CLARK IPD",
-"date____": "02/05/2025",
-"totalamt":45855.00,
+"storegrp": "OUTLETS",
+"storname": "TRAVEL HUB BATANGAS",
+"date____": "03/19/2025",
+"totalamt":21011.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":669430.25
 },
 {
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH CLARK IPD",
-"date____": "02/06/2025",
-"totalamt":40568.00,
+"storegrp": "OUTLETS",
+"storname": "TRAVEL HUB BATANGAS",
+"date____": "03/20/2025",
+"totalamt":12984.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":669430.25
 },
 {
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH CLARK IPD",
-"date____": "02/07/2025",
-"totalamt":99727.00,
+"storegrp": "OUTLETS",
+"storname": "TRAVEL HUB BATANGAS",
+"date____": "03/21/2025",
+"totalamt":18030.75,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":669430.25
 },
 {
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH CLARK IPD",
-"date____": "02/08/2025",
-"totalamt":81589.00,
+"storegrp": "OUTLETS",
+"storname": "TRAVEL HUB BATANGAS",
+"date____": "03/22/2025",
+"totalamt":27836.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":669430.25
 },
 {
-"storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH CLARK IPD",
-"date____": "02/09/2025",
-"totalamt":91523.00,
+"storegrp": "OUTLETS",
+"storname": "TRAVEL HUB BATANGAS",
+"date____": "03/23/2025",
+"totalamt":19704.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":669430.25
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -1958,7 +1895,7 @@
 "totalamt":74007.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -1967,7 +1904,7 @@
 "totalamt":70867.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -1976,7 +1913,7 @@
 "totalamt":27059.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -1985,7 +1922,7 @@
 "totalamt":45317.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -1994,7 +1931,7 @@
 "totalamt":90508.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2003,7 +1940,7 @@
 "totalamt":79112.29,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2012,7 +1949,7 @@
 "totalamt":120290.43,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2021,7 +1958,7 @@
 "totalamt":78822.14,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2030,7 +1967,7 @@
 "totalamt":84944.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2039,7 +1976,7 @@
 "totalamt":45398.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2048,7 +1985,7 @@
 "totalamt":62295.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2057,7 +1994,7 @@
 "totalamt":75253.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2066,7 +2003,7 @@
 "totalamt":92775.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2075,7 +2012,7 @@
 "totalamt":68633.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2084,7 +2021,7 @@
 "totalamt":78880.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2093,7 +2030,7 @@
 "totalamt":76367.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2102,7 +2039,7 @@
 "totalamt":53744.14,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2111,7 +2048,7 @@
 "totalamt":50848.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2120,7 +2057,7 @@
 "totalamt":101855.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2129,7 +2066,7 @@
 "totalamt":87673.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2138,7 +2075,7 @@
 "totalamt":84590.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2147,7 +2084,7 @@
 "totalamt":83994.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2156,7 +2093,7 @@
 "totalamt":48540.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2165,7 +2102,7 @@
 "totalamt":59065.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2174,7 +2111,7 @@
 "totalamt":60874.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2183,7 +2120,7 @@
 "totalamt":66131.43,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2192,7 +2129,7 @@
 "totalamt":97259.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2201,7 +2138,7 @@
 "totalamt":61187.43,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2210,7 +2147,7 @@
 "totalamt":61914.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2219,7 +2156,7 @@
 "totalamt":49355.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2228,7 +2165,7 @@
 "totalamt":36007.86,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2237,7 +2174,7 @@
 "totalamt":49769.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2246,7 +2183,7 @@
 "totalamt":76830.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2255,7 +2192,7 @@
 "totalamt":60143.43,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2264,70 +2201,70 @@
 "totalamt":69824.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":2925183.14
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH BICOL",
-"date____": "02/03/2025",
-"totalamt":15015.00,
+"storname": "WH SMITH CLARK IPD",
+"date____": "03/17/2025",
+"totalamt":64043.06,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH BICOL",
-"date____": "02/04/2025",
-"totalamt":12720.00,
+"storname": "WH SMITH CLARK IPD",
+"date____": "03/18/2025",
+"totalamt":46704.29,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH BICOL",
-"date____": "02/05/2025",
-"totalamt":11950.00,
+"storname": "WH SMITH CLARK IPD",
+"date____": "03/19/2025",
+"totalamt":51632.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH BICOL",
-"date____": "02/06/2025",
-"totalamt":16785.00,
+"storname": "WH SMITH CLARK IPD",
+"date____": "03/20/2025",
+"totalamt":35612.14,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH BICOL",
-"date____": "02/07/2025",
-"totalamt":17060.00,
+"storname": "WH SMITH CLARK IPD",
+"date____": "03/21/2025",
+"totalamt":54637.71,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH BICOL",
-"date____": "02/08/2025",
-"totalamt":15165.00,
+"storname": "WH SMITH CLARK IPD",
+"date____": "03/22/2025",
+"totalamt":41576.14,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH BICOL",
-"date____": "02/09/2025",
-"totalamt":23499.00,
+"storname": "WH SMITH CLARK IPD",
+"date____": "03/23/2025",
+"totalamt":67257.14,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":2791594.63
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2336,7 +2273,7 @@
 "totalamt":12488.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2345,7 +2282,7 @@
 "totalamt":10770.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2354,7 +2291,7 @@
 "totalamt":13600.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2363,7 +2300,7 @@
 "totalamt":15075.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2372,7 +2309,7 @@
 "totalamt":18785.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2381,7 +2318,7 @@
 "totalamt":29095.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2390,7 +2327,7 @@
 "totalamt":6450.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2399,7 +2336,7 @@
 "totalamt":15795.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2408,7 +2345,7 @@
 "totalamt":12755.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2417,7 +2354,7 @@
 "totalamt":12785.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2426,7 +2363,7 @@
 "totalamt":15714.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2435,7 +2372,7 @@
 "totalamt":9720.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2444,7 +2381,7 @@
 "totalamt":26005.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2453,7 +2390,7 @@
 "totalamt":12799.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2462,7 +2399,7 @@
 "totalamt":10420.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2471,7 +2408,7 @@
 "totalamt":11564.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2480,7 +2417,7 @@
 "totalamt":18760.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2489,7 +2426,7 @@
 "totalamt":12309.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2498,7 +2435,7 @@
 "totalamt":5440.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2507,7 +2444,7 @@
 "totalamt":15950.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2516,7 +2453,7 @@
 "totalamt":27455.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2525,7 +2462,7 @@
 "totalamt":11785.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2534,7 +2471,7 @@
 "totalamt":10060.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2543,7 +2480,7 @@
 "totalamt":13430.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2552,7 +2489,7 @@
 "totalamt":9709.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2561,7 +2498,7 @@
 "totalamt":13125.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2570,7 +2507,7 @@
 "totalamt":18274.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2579,7 +2516,7 @@
 "totalamt":14035.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2588,7 +2525,7 @@
 "totalamt":5315.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2597,7 +2534,7 @@
 "totalamt":10780.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2606,7 +2543,7 @@
 "totalamt":6100.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2615,7 +2552,7 @@
 "totalamt":7555.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2624,7 +2561,7 @@
 "totalamt":15475.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2633,7 +2570,7 @@
 "totalamt":12484.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -2642,77 +2579,77 @@
 "totalamt":11265.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585320.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH CEBU T1 DDL",
-"date____": "02/03/2025",
-"totalamt":0.00,
-"lastamt_":40065.00,
+"storname": "WH SMITH BICOL",
+"date____": "03/17/2025",
+"totalamt":6949.00,
+"lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":0.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH CEBU T1 DDL",
-"date____": "02/04/2025",
-"totalamt":0.00,
-"lastamt_":42635.43,
+"storname": "WH SMITH BICOL",
+"date____": "03/18/2025",
+"totalamt":13680.00,
+"lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":0.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH CEBU T1 DDL",
-"date____": "02/05/2025",
-"totalamt":0.00,
-"lastamt_":47946.00,
+"storname": "WH SMITH BICOL",
+"date____": "03/19/2025",
+"totalamt":17825.00,
+"lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":0.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH CEBU T1 DDL",
-"date____": "02/06/2025",
-"totalamt":0.00,
-"lastamt_":40235.00,
+"storname": "WH SMITH BICOL",
+"date____": "03/20/2025",
+"totalamt":22685.00,
+"lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":0.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH CEBU T1 DDL",
-"date____": "02/07/2025",
-"totalamt":0.00,
-"lastamt_":42690.00,
+"storname": "WH SMITH BICOL",
+"date____": "03/21/2025",
+"totalamt":11605.00,
+"lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":0.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH CEBU T1 DDL",
-"date____": "02/08/2025",
-"totalamt":0.00,
-"lastamt_":46350.00,
+"storname": "WH SMITH BICOL",
+"date____": "03/22/2025",
+"totalamt":14080.00,
+"lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":0.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH CEBU T1 DDL",
-"date____": "02/09/2025",
-"totalamt":0.00,
-"lastamt_":53006.43,
+"storname": "WH SMITH BICOL",
+"date____": "03/23/2025",
+"totalamt":17445.00,
+"lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":0.00
+"storeamt":577395.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
 "storname": "WH SMITH CEBU T1 DDL",
 "date____": "02/10/2025",
 "totalamt":0.00,
-"lastamt_":44149.14,
+"lastamt_":40065.00,
 "prevamt_":0.00,
 "storeamt":0.00
 },
@@ -3024,65 +2961,65 @@
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH CEBU T1 DPD06",
-"date____": "02/03/2025",
+"storname": "WH SMITH CEBU T1 DDL",
+"date____": "03/17/2025",
 "totalamt":0.00,
-"lastamt_":0.00,
-"prevamt_":122669.50,
+"lastamt_":44434.00,
+"prevamt_":0.00,
 "storeamt":0.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH CEBU T1 DPD06",
-"date____": "02/04/2025",
+"storname": "WH SMITH CEBU T1 DDL",
+"date____": "03/18/2025",
 "totalamt":0.00,
-"lastamt_":0.00,
-"prevamt_":90816.07,
+"lastamt_":61960.43,
+"prevamt_":0.00,
 "storeamt":0.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH CEBU T1 DPD06",
-"date____": "02/05/2025",
+"storname": "WH SMITH CEBU T1 DDL",
+"date____": "03/19/2025",
 "totalamt":0.00,
-"lastamt_":0.00,
-"prevamt_":122132.93,
+"lastamt_":43117.00,
+"prevamt_":0.00,
 "storeamt":0.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH CEBU T1 DPD06",
-"date____": "02/06/2025",
+"storname": "WH SMITH CEBU T1 DDL",
+"date____": "03/20/2025",
 "totalamt":0.00,
-"lastamt_":0.00,
-"prevamt_":125294.75,
+"lastamt_":35590.00,
+"prevamt_":0.00,
 "storeamt":0.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH CEBU T1 DPD06",
-"date____": "02/07/2025",
+"storname": "WH SMITH CEBU T1 DDL",
+"date____": "03/21/2025",
 "totalamt":0.00,
-"lastamt_":0.00,
-"prevamt_":140793.75,
+"lastamt_":46255.00,
+"prevamt_":0.00,
 "storeamt":0.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH CEBU T1 DPD06",
-"date____": "02/08/2025",
+"storname": "WH SMITH CEBU T1 DDL",
+"date____": "03/22/2025",
 "totalamt":0.00,
-"lastamt_":0.00,
-"prevamt_":137804.00,
+"lastamt_":45005.00,
+"prevamt_":0.00,
 "storeamt":0.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH CEBU T1 DPD06",
-"date____": "02/09/2025",
+"storname": "WH SMITH CEBU T1 DDL",
+"date____": "03/23/2025",
 "totalamt":0.00,
-"lastamt_":0.00,
-"prevamt_":152883.64,
+"lastamt_":51075.00,
+"prevamt_":0.00,
 "storeamt":0.00
 },
 {
@@ -3402,66 +3339,66 @@
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH CLARK DPD",
-"date____": "02/03/2025",
-"totalamt":11470.00,
+"storname": "WH SMITH CEBU T1 DPD06",
+"date____": "03/17/2025",
+"totalamt":0.00,
 "lastamt_":0.00,
-"prevamt_":0.00,
-"storeamt":585082.86
+"prevamt_":149507.93,
+"storeamt":0.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH CLARK DPD",
-"date____": "02/04/2025",
-"totalamt":16790.00,
+"storname": "WH SMITH CEBU T1 DPD06",
+"date____": "03/18/2025",
+"totalamt":0.00,
 "lastamt_":0.00,
-"prevamt_":0.00,
-"storeamt":585082.86
+"prevamt_":110242.57,
+"storeamt":0.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH CLARK DPD",
-"date____": "02/05/2025",
-"totalamt":5705.00,
+"storname": "WH SMITH CEBU T1 DPD06",
+"date____": "03/19/2025",
+"totalamt":0.00,
 "lastamt_":0.00,
-"prevamt_":0.00,
-"storeamt":585082.86
+"prevamt_":100810.00,
+"storeamt":0.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH CLARK DPD",
-"date____": "02/06/2025",
-"totalamt":18750.00,
+"storname": "WH SMITH CEBU T1 DPD06",
+"date____": "03/20/2025",
+"totalamt":0.00,
 "lastamt_":0.00,
-"prevamt_":0.00,
-"storeamt":585082.86
+"prevamt_":130633.00,
+"storeamt":0.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH CLARK DPD",
-"date____": "02/07/2025",
-"totalamt":13385.00,
+"storname": "WH SMITH CEBU T1 DPD06",
+"date____": "03/21/2025",
+"totalamt":0.00,
 "lastamt_":0.00,
-"prevamt_":0.00,
-"storeamt":585082.86
+"prevamt_":122255.71,
+"storeamt":0.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH CLARK DPD",
-"date____": "02/08/2025",
-"totalamt":16720.00,
+"storname": "WH SMITH CEBU T1 DPD06",
+"date____": "03/22/2025",
+"totalamt":0.00,
 "lastamt_":0.00,
-"prevamt_":0.00,
-"storeamt":585082.86
+"prevamt_":143035.14,
+"storeamt":0.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "WH SMITH CLARK DPD",
-"date____": "02/09/2025",
-"totalamt":18614.29,
+"storname": "WH SMITH CEBU T1 DPD06",
+"date____": "03/23/2025",
+"totalamt":0.00,
 "lastamt_":0.00,
-"prevamt_":0.00,
-"storeamt":585082.86
+"prevamt_":151946.79,
+"storeamt":0.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3470,7 +3407,7 @@
 "totalamt":16580.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3479,7 +3416,7 @@
 "totalamt":22795.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3488,7 +3425,7 @@
 "totalamt":8860.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3497,7 +3434,7 @@
 "totalamt":13063.29,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3506,7 +3443,7 @@
 "totalamt":5505.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3515,7 +3452,7 @@
 "totalamt":18705.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3524,7 +3461,7 @@
 "totalamt":13305.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3533,7 +3470,7 @@
 "totalamt":11150.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3542,7 +3479,7 @@
 "totalamt":23545.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3551,7 +3488,7 @@
 "totalamt":5590.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3560,7 +3497,7 @@
 "totalamt":23585.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3569,7 +3506,7 @@
 "totalamt":11545.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3578,7 +3515,7 @@
 "totalamt":17860.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3587,7 +3524,7 @@
 "totalamt":23695.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3596,7 +3533,7 @@
 "totalamt":6680.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3605,7 +3542,7 @@
 "totalamt":16825.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3614,7 +3551,7 @@
 "totalamt":8777.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3623,7 +3560,7 @@
 "totalamt":26137.14,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3632,7 +3569,7 @@
 "totalamt":10850.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3641,7 +3578,7 @@
 "totalamt":4925.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3650,7 +3587,7 @@
 "totalamt":11655.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3659,7 +3596,7 @@
 "totalamt":18785.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3668,7 +3605,7 @@
 "totalamt":7025.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3677,7 +3614,7 @@
 "totalamt":11171.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3686,7 +3623,7 @@
 "totalamt":7915.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3695,7 +3632,7 @@
 "totalamt":16980.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3704,7 +3641,7 @@
 "totalamt":6245.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3713,7 +3650,7 @@
 "totalamt":16670.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3722,7 +3659,7 @@
 "totalamt":11520.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3731,7 +3668,7 @@
 "totalamt":17292.14,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3740,7 +3677,7 @@
 "totalamt":21429.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3749,7 +3686,7 @@
 "totalamt":6310.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3758,7 +3695,7 @@
 "totalamt":14066.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3767,7 +3704,7 @@
 "totalamt":4843.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3776,70 +3713,70 @@
 "totalamt":21765.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":585082.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "AIRMALL BOHOL",
-"date____": "02/03/2025",
-"totalamt":18370.00,
+"storname": "WH SMITH CLARK DPD",
+"date____": "03/17/2025",
+"totalamt":13007.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "AIRMALL BOHOL",
-"date____": "02/04/2025",
-"totalamt":9470.00,
+"storname": "WH SMITH CLARK DPD",
+"date____": "03/18/2025",
+"totalamt":14861.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "AIRMALL BOHOL",
-"date____": "02/05/2025",
-"totalamt":15959.86,
+"storname": "WH SMITH CLARK DPD",
+"date____": "03/19/2025",
+"totalamt":10096.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "AIRMALL BOHOL",
-"date____": "02/06/2025",
-"totalamt":18497.00,
+"storname": "WH SMITH CLARK DPD",
+"date____": "03/20/2025",
+"totalamt":17070.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "AIRMALL BOHOL",
-"date____": "02/07/2025",
-"totalamt":12570.00,
+"storname": "WH SMITH CLARK DPD",
+"date____": "03/21/2025",
+"totalamt":10615.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "AIRMALL BOHOL",
-"date____": "02/08/2025",
-"totalamt":4780.00,
+"storname": "WH SMITH CLARK DPD",
+"date____": "03/22/2025",
+"totalamt":4270.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
-"storname": "AIRMALL BOHOL",
-"date____": "02/09/2025",
-"totalamt":5910.00,
+"storname": "WH SMITH CLARK DPD",
+"date____": "03/23/2025",
+"totalamt":10950.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":564517.57
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3848,7 +3785,7 @@
 "totalamt":9830.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3857,7 +3794,7 @@
 "totalamt":12090.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3866,7 +3803,7 @@
 "totalamt":7210.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3875,7 +3812,7 @@
 "totalamt":8260.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3884,7 +3821,7 @@
 "totalamt":7180.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3893,7 +3830,7 @@
 "totalamt":5050.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3902,7 +3839,7 @@
 "totalamt":5760.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3911,7 +3848,7 @@
 "totalamt":8990.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3920,7 +3857,7 @@
 "totalamt":22790.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3929,7 +3866,7 @@
 "totalamt":3130.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3938,7 +3875,7 @@
 "totalamt":4480.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3947,7 +3884,7 @@
 "totalamt":2640.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3956,7 +3893,7 @@
 "totalamt":14760.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3965,7 +3902,7 @@
 "totalamt":9620.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3974,7 +3911,7 @@
 "totalamt":11360.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3983,7 +3920,7 @@
 "totalamt":13110.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -3992,7 +3929,7 @@
 "totalamt":5910.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -4001,7 +3938,7 @@
 "totalamt":6130.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -4010,7 +3947,7 @@
 "totalamt":3070.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -4019,7 +3956,7 @@
 "totalamt":9380.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -4028,7 +3965,7 @@
 "totalamt":15890.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -4037,7 +3974,7 @@
 "totalamt":6285.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -4046,7 +3983,7 @@
 "totalamt":11510.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -4055,7 +3992,7 @@
 "totalamt":5580.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -4064,7 +4001,7 @@
 "totalamt":9210.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -4073,7 +4010,7 @@
 "totalamt":4090.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -4082,7 +4019,7 @@
 "totalamt":6980.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -4091,7 +4028,7 @@
 "totalamt":9870.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -4100,7 +4037,7 @@
 "totalamt":7450.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -4109,7 +4046,7 @@
 "totalamt":15520.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -4118,7 +4055,7 @@
 "totalamt":15810.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -4127,7 +4064,7 @@
 "totalamt":7410.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -4136,7 +4073,7 @@
 "totalamt":6450.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -4145,7 +4082,7 @@
 "totalamt":7430.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
 "storegrp": "FOOD CONVENIENCE  GIFTING",
@@ -4154,70 +4091,70 @@
 "totalamt":14039.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":399830.86
+"storeamt":393579.00
 },
 {
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": "BTG - CLARK DPD",
-"date____": "02/03/2025",
-"totalamt":8835.00,
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "AIRMALL BOHOL",
+"date____": "03/17/2025",
+"totalamt":4020.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":393579.00
 },
 {
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": "BTG - CLARK DPD",
-"date____": "02/04/2025",
-"totalamt":22025.00,
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "AIRMALL BOHOL",
+"date____": "03/18/2025",
+"totalamt":15270.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":393579.00
 },
 {
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": "BTG - CLARK DPD",
-"date____": "02/05/2025",
-"totalamt":4050.00,
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "AIRMALL BOHOL",
+"date____": "03/19/2025",
+"totalamt":8230.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":393579.00
 },
 {
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": "BTG - CLARK DPD",
-"date____": "02/06/2025",
-"totalamt":9100.00,
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "AIRMALL BOHOL",
+"date____": "03/20/2025",
+"totalamt":11040.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":393579.00
 },
 {
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": "BTG - CLARK DPD",
-"date____": "02/07/2025",
-"totalamt":26490.00,
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "AIRMALL BOHOL",
+"date____": "03/21/2025",
+"totalamt":8280.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":393579.00
 },
 {
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": "BTG - CLARK DPD",
-"date____": "02/08/2025",
-"totalamt":27177.00,
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "AIRMALL BOHOL",
+"date____": "03/22/2025",
+"totalamt":8305.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":393579.00
 },
 {
-"storegrp": "BEAUTY FASHION  ACCESSORIES",
-"storname": "BTG - CLARK DPD",
-"date____": "02/09/2025",
-"totalamt":30298.00,
+"storegrp": "FOOD CONVENIENCE  GIFTING",
+"storname": "AIRMALL BOHOL",
+"date____": "03/23/2025",
+"totalamt":24160.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":393579.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4226,7 +4163,7 @@
 "totalamt":14400.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4235,7 +4172,7 @@
 "totalamt":3379.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4244,7 +4181,7 @@
 "totalamt":6929.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4253,7 +4190,7 @@
 "totalamt":19836.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4262,7 +4199,7 @@
 "totalamt":39638.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4271,7 +4208,7 @@
 "totalamt":17578.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4280,7 +4217,7 @@
 "totalamt":43546.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4289,7 +4226,7 @@
 "totalamt":20467.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4298,7 +4235,7 @@
 "totalamt":18879.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4307,7 +4244,7 @@
 "totalamt":1760.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4316,7 +4253,7 @@
 "totalamt":26098.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4325,7 +4262,7 @@
 "totalamt":15680.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4334,7 +4271,7 @@
 "totalamt":17335.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4343,7 +4280,7 @@
 "totalamt":25980.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4352,7 +4289,7 @@
 "totalamt":16165.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4361,7 +4298,7 @@
 "totalamt":26195.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4370,7 +4307,7 @@
 "totalamt":16899.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4379,7 +4316,7 @@
 "totalamt":15157.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4388,7 +4325,7 @@
 "totalamt":11150.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4397,7 +4334,7 @@
 "totalamt":1188.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4406,7 +4343,7 @@
 "totalamt":29566.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4415,7 +4352,7 @@
 "totalamt":17649.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4424,7 +4361,7 @@
 "totalamt":5588.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4433,7 +4370,7 @@
 "totalamt":17441.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4442,7 +4379,7 @@
 "totalamt":8920.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4451,7 +4388,7 @@
 "totalamt":22157.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4460,7 +4397,7 @@
 "totalamt":9929.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4469,7 +4406,7 @@
 "totalamt":33950.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4478,7 +4415,7 @@
 "totalamt":12008.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4487,7 +4424,7 @@
 "totalamt":11550.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4496,7 +4433,7 @@
 "totalamt":23390.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4505,7 +4442,7 @@
 "totalamt":3970.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4514,7 +4451,7 @@
 "totalamt":21114.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4523,7 +4460,7 @@
 "totalamt":5473.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
 },
 {
 "storegrp": "BEAUTY FASHION  ACCESSORIES",
@@ -4532,5 +4469,68 @@
 "totalamt":34255.00,
 "lastamt_":0.00,
 "prevamt_":0.00,
-"storeamt":743194.00
+"storeamt":775388.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "BTG - CLARK DPD",
+"date____": "03/17/2025",
+"totalamt":38722.00,
+"lastamt_":0.00,
+"prevamt_":0.00,
+"storeamt":775388.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "BTG - CLARK DPD",
+"date____": "03/18/2025",
+"totalamt":13646.00,
+"lastamt_":0.00,
+"prevamt_":0.00,
+"storeamt":775388.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "BTG - CLARK DPD",
+"date____": "03/19/2025",
+"totalamt":14115.00,
+"lastamt_":0.00,
+"prevamt_":0.00,
+"storeamt":775388.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "BTG - CLARK DPD",
+"date____": "03/20/2025",
+"totalamt":11445.00,
+"lastamt_":0.00,
+"prevamt_":0.00,
+"storeamt":775388.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "BTG - CLARK DPD",
+"date____": "03/21/2025",
+"totalamt":39281.00,
+"lastamt_":0.00,
+"prevamt_":0.00,
+"storeamt":775388.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "BTG - CLARK DPD",
+"date____": "03/22/2025",
+"totalamt":4639.00,
+"lastamt_":0.00,
+"prevamt_":0.00,
+"storeamt":775388.00
+},
+{
+"storegrp": "BEAUTY FASHION  ACCESSORIES",
+"storname": "BTG - CLARK DPD",
+"date____": "03/23/2025",
+"totalamt":38321.00,
+"lastamt_":0.00,
+"prevamt_":0.00,
+"storeamt":775388.00
 }]
